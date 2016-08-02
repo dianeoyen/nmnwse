@@ -98,18 +98,13 @@ We will not know the room for the afternoon board meeting until the day of the S
    </td>
 </tr><tr>
    <td valign="top">
-    <img src="http://nmnwse.org/Images/arrow2r.gif">
    </td><td valign="top">
-      <font color="#cb6940"><B>
       Jun 11
-      </b></font>
     <br>&nbsp;
       <! tentative >
    </td><td valign="middle">
-      <font color="#cb6940"><B>
           10:30am, Oliver La Farge Branch, Santa Fe Public Library, 1730 Llano Street, Santa Fe
            &nbsp;<! img src="http://nmnwse.org/Images/updated.gif" >
-      </b></font>
       <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> Note starts at 10:30am, not the usual 10am.
       <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> <a href="https://santafelibrary.org/hours-phone-locations/">SFPL Locations webpage</a>, with maps and directions.
       <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> A web conferencing option may be available - contact the Board for more information.
@@ -121,11 +116,18 @@ We will not know the room for the afternoon board meeting until the day of the S
    </td>
 </tr><tr>
    <td valign="top">
-   </td><td valign="top"> 
-      Aug 13
-     <br>&nbsp;
+    <img src="http://nmnwse.org/Images/arrow2r.gif">
    </td><td valign="top">
-      Tentatively in Placitas, exact details TBA
+      <font color="#cb6940"><B>
+      Aug 13
+      </b></font>
+      <br>&nbsp;
+   </td><td valign="top">
+      <font color="#cb6940"><B>
+      10:00am, Jeanne Banks' home, Placitas
+           &nbsp;<! img src="http://nmnwse.org/Images/updated.gif" >
+      </b></font>
+      <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"> <a href="mailto:NMNWSE_Board-l@list.unm.edu">Contact the Board</a> if you need directions.
 <!--
       Jeanne Banks' home
            &nbsp;<! img src="http://nmnwse.org/Images/updated.gif">
@@ -139,12 +141,14 @@ We will not know the room for the afternoon board meeting until the day of the S
    </td>
    <td valign="top">
       Oct 21-23, 2016
-   <br>tentative
    </td><td> <! valign >
 <!--
       <I><a href="http://nmnwse.org/AM/2015">
 -->
-         2016 NMNWSE Technical Symposium and Annual Meeting
+    2016 NMNWSE Technical Symposium and Annual Meeting
+      <br> Nativo Lodge, Albuquerque, NM
+      </b></font>
+<br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="18" width="1"> See the <a href="http://nmnwse.org/AM">AM16 webpage</a> for further details. 
 <!--        </a></I>
 -->
 <!--
@@ -156,7 +160,6 @@ We will not know the room for the afternoon board meeting until the day of the S
 <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="18" width="1">Further details will be announced when available. 
 In the meantime, please fill in the <a href="http://nmnwse.org/AM/survey/">interest survey</a> if you would like to indicate your interest in attending or give input for meeting planning.
 
-NMNWSE Annual Meetings are generally held on the 3rd weekend of October, and we are targeting Central NM for the 2016 meeting location.
 <!--
       <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="18" width="1"> See <a href="http://nmnwse.org/AM/2015">http://nmnwse.org/AM/2015/</a> for registration forms etc. 
 -->
@@ -255,6 +258,12 @@ SMLC rm 124 is a small conference room on the first floor of the SMLC (Bldg 14) 
 <dt>
 <font color="#cb6940"><B>FY 15-16 Agendas: (Oct 2015 - 2016 Annual Meeting) </b></font>
 </dt>
+<dd>
+<a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Action_Aug_13_16.pdf">Aug 13, 2016</a> (action items)
+</dd>
+<dd>
+<a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Action_Jun_11_16.pdf">June 11, 2016</a> (action items)
+</dd>
 <dd>
 <a href="http://nmnwse.org/BoardMeetings/NMNWSE_Board_Meeting_Agenda_Dec2015.pdf">Dec 5, 2015</a>
 &nbsp;&nbsp; (<a href="http://nmnwse.org/BoardMeetings/NMNWSE_Board_Meeting_Agenda_Dec2015.docx">as docx</a>)
