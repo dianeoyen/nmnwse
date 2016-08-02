@@ -1,0 +1,1817 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Expanding Your Horizons</title>
+<link rel=STYLESHEET type=text/css href="/inc/Styles.css">
+
+
+<script type="text/javascript">
+function toggle(id)
+{
+        var elem = document.getElementById(id);
+
+        if(elem.style.display != 'none')
+        {
+                elem.style.display = 'none';
+        }
+        else
+        {
+                elem.style.display = 'block';
+        }
+}
+</script>
+
+<script type="text/javascript">
+function confirmSubmit(confirmText)
+{
+        if(!confirmText) confirmText = "This CANNOT be undone.  Are you sure you want to delete this?";
+        var verify = confirm(confirmText);
+        if (verify) return true ;
+        else return false ;
+}
+
+function noenter()
+{
+  return !(window.event && window.event.keyCode == 13);
+}
+
+
+function validate_student_reg(f,num)
+{
+        var valid_string = '';
+        var retval;
+
+        retval = true;
+
+        if (f.first_name.value == '')
+        {
+                valid_string = valid_string + 'Please enter your First Name.n';
+                retval = false;
+        }
+
+        if (f.last_name.value == '')
+        {
+                valid_string = valid_string + 'Please enter your Last Name.n';
+                retval = false;
+        }
+
+        if (f.street.value == '')
+        {
+                valid_string = valid_string + 'Please enter your Street Address.n';
+                retval = false;
+        }
+
+        if (f.city.value == '')
+        {
+                valid_string = valid_string + 'Please enter your City.n';
+                retval = false;
+        }
+
+        if (f.msn_state.value == 0)
+        {
+                valid_string = valid_string + 'Please enter your State.n';
+                retval = false;
+        }
+
+        if (f.zip_code.value == '')
+        {
+                valid_string = valid_string + 'Please enter your Zip Code.n';
+                retval = false;
+        }
+        else if (f.zip_code.value.length > 10)
+        {
+                valid_string = valid_string + 'The Zip Code has too many characters.n';
+                retval = false;
+        }
+
+        if (f.phone.value == '')
+        {
+                valid_string = valid_string + 'Please enter your Phone Number.n';
+                retval = false;
+        }
+        else if (f.phone.value.length > 15)
+        {
+                valid_string = valid_string + 'The Phone Number has too many characters.n';
+                retval = false;
+        }
+
+        if (f.email_participant.value == '')
+        {
+                valid_string = valid_string + 'Please enter your Email Address.n';
+                retval = false;
+        }
+        else if (validate_email_address(f.email_participant.value) == false)
+        {
+                valid_string = valid_string + 'Your Email Address is invalid.n';
+                retval = false;
+        }
+
+        if (f.email_parent.value == '')
+        {
+                valid_string = valid_string + 'Please enter your Parent\'s Email Address.n';
+                retval = false;
+        }
+        else if (validate_email_address(f.email_parent.value) == false)
+        {
+                valid_string = valid_string + 'Your Parent\'s Email Address is invalid.n';
+                retval = false;
+        }
+
+        if (f.msn_grade.value == 0)
+        {
+                valid_string = valid_string + 'Please enter your Grade.n';
+                retval = false;
+        }
+
+        var tmp = new Array();
+        for (i=1; i<=num; i++)
+        {
+                if (eval('f.choice_'+i+'.value') != 0) tmp.push(eval('f.choice_'+i+'.value'));
+        }
+
+        if (ArrayHasDups(tmp))
+        {
+                valid_string = valid_string + 'You have chosen duplicate Workshops.n';
+                retval = false;
+        }
+
+        if (retval == false)
+        {
+                alert (valid_string);
+        }
+
+        return retval;
+}
+
+function validate_adult_reg(f)
+{
+
+        var valid_string = '';
+        var retval;
+
+        retval = true;
+
+        if (f.first_name.value == '')
+        {
+                valid_string = valid_string + 'Please enter your First Name.n';
+                retval = false;
+        }
+
+        if (f.last_name.value == '')
+        {
+                valid_string = valid_string + 'Please enter your Last Name.n';
+                retval = false;
+        }
+
+        if (f.email.value == '')
+        {
+                valid_string = valid_string + 'Please enter your Email Address.n';
+                retval = false;
+        }
+
+
+        if (retval == false)
+        {
+                alert (valid_string);
+        }
+
+        return retval;
+}
+
+function validate_workshop(f)
+{
+
+        var valid_string = '';
+        var retval;
+
+        retval = true;
+
+        if (f.msn_session_status.value == '3') // 3 = ACCEPTED
+        {
+                if (f.msn_conference_room.value == '0')  // NONE
+                {
+                        valid_string = valid_string + 'You must assign your Workshop to a room before it can be ACCEPTED.n';
+                        retval = false;
+                }
+        }
+
+        if (retval == false)
+        {
+                alert (valid_string);
+        }
+
+        return retval;
+}
+
+function validate_email_address(f)
+{
+        var pattern;
+        var retval;
+
+        pattern = '^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}$';
+
+        <!-- mc 01-12-12 this...     pattern = /^w+([.-]?w+)*@w+([.-]?w+)*(.w{2,3})+$/;   ...giving errors on valid emails, replaced with above  -->
+        
+        retval = pattern.test(f);
+        return retval;
+}
+
+function ArrayHasDups(A)
+{
+        var i, j, n;
+        n = A.length;
+
+        for (i=0; i<n; i++)
+        {
+                for (j=i+1; j<n; j++)
+                {
+                        if (A[i] == A[j]) return true;
+                }
+        }
+        return false;
+}
+
+function validate_wiz(f)
+{
+
+        var valid_string = '';
+        var retval;
+
+        retval = true;
+
+        if ((f.run_students.checked == false) && (f.run_adults.checked == false))
+        {
+                valid_string = valid_string + 'You must run the Wizard for either Students and/or Adults.n';
+                retval = false;
+        }
+
+        if (retval == false)
+        {
+                alert (valid_string);
+        }
+
+        return retval;
+}
+
+
+
+</script>
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!-- Original:  James O'Connor (joconnor@nordenterprises.com) -->
+<!-- Web Site:  http://nordenterprises.com -->
+<script language="JavaScript">
+<!-- Original:  Kedar R. Bhave (softricks@hotmail.com) -->
+<!-- Web Site:  http://www.softricks.com -->
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+<!-- -->
+<!-- modifications and customizations to work with the "overLIB" library: -->
+<!-- Author:   James B. O'Connor (joconnor@nordenterprises.com) -->
+<!-- Web Site: http://www.nordenterprises.com -->
+<!-- developed for use with http://home-owners-assoc.com -->
+<!-- Note: while overlib works fine with Netscape 4, this function does not work very well, since portions of the "over" div -->
+<!--   end up under other fields on the form and cannot be seen.  If you really want to use this with NS4, -->
+<!--   you'll need to change the positioning in the overlib() call to make sure the "over" div gets positioned -->
+<!--   away from all other form fields -->
+<!-- you can get overLIB from: -->
+//  overLIB 3.50  --  This notice must remain untouched at all times.
+//  Copyright Erik Bosrup 1998-2001. All rights reserved.
+//  By Erik Bosrup (erik@bosrup.com).  Last modified 2001-08-28.
+//  Portions by Dan Steinman (dansteinman.com). Additions by other people are
+//  listed on the overLIB homepage.
+//  Get the latest version at http://www.bosrup.com/web/overlib/
+
+
+var weekend = [0,6];
+var weekendColor = "#e0e0e0";
+var fontface = "Verdana";
+var fontsize = 8;                       // in "pt" units; used with "font-size" style element
+
+var gNow = new Date();
+var ggWinContent;
+var ggPosX = -1;
+var ggPosY = -1;
+
+Calendar.Months = ["January", "February", "March", "April", "May", "June",
+"July", "August", "September", "October", "November", "December"];
+
+// Non-Leap year Month days..
+Calendar.DOMonth = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+// Leap year Month days..
+Calendar.lDOMonth = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+
+function Calendar(p_item, p_month, p_year, p_format) {
+        if ((p_month == null) && (p_year == null))      return;
+
+        if (p_month == null) {
+                this.gMonthName = null;
+                this.gMonth = null;
+                this.gYearly = true;
+        } else {
+                this.gMonthName = Calendar.get_month(p_month);
+                this.gMonth = new Number(p_month);
+                this.gYearly = false;
+        }
+
+        this.gYear = p_year;
+        this.gFormat = p_format;
+        this.gBGColor = "white";
+        this.gFGColor = "black";
+        this.gTextColor = "black";
+        this.gHeaderColor = "black";
+        this.gReturnItem = p_item;
+}
+
+Calendar.get_month = Calendar_get_month;
+Calendar.get_daysofmonth = Calendar_get_daysofmonth;
+Calendar.calc_month_year = Calendar_calc_month_year;
+
+function Calendar_get_month(monthNo) {
+        return Calendar.Months[monthNo];
+}
+
+function Calendar_get_daysofmonth(monthNo, p_year) {
+        /* 
+        Check for leap year ..
+        1.Years evenly divisible by four are normally leap years, except for... 
+        2.Years also evenly divisible by 100 are not leap years, except for... 
+        3.Years also evenly divisible by 400 are leap years. 
+        */
+        if ((p_year % 4) == 0) {
+                if ((p_year % 100) == 0 && (p_year % 400) != 0)
+                        return Calendar.DOMonth[monthNo];
+        
+                return Calendar.lDOMonth[monthNo];
+        } else
+                return Calendar.DOMonth[monthNo];
+}
+
+function Calendar_calc_month_year(p_Month, p_Year, incr) {
+        /* 
+        Will return an 1-D array with 1st element being the calculated month 
+        and second being the calculated year 
+        after applying the month increment/decrement as specified by 'incr' parameter.
+        'incr' will normally have 1/-1 to navigate thru the months.
+        */
+        var ret_arr = new Array();
+        
+        if (incr == -1) {
+                // B A C K W A R D
+                if (p_Month == 0) {
+                        ret_arr[0] = 11;
+                        ret_arr[1] = parseInt(p_Year) - 1;
+                }
+                else {
+                        ret_arr[0] = parseInt(p_Month) - 1;
+                        ret_arr[1] = parseInt(p_Year);
+                }
+        } else if (incr == 1) {
+                // F O R W A R D
+                if (p_Month == 11) {
+                        ret_arr[0] = 0;
+                        ret_arr[1] = parseInt(p_Year) + 1;
+                }
+                else {
+                        ret_arr[0] = parseInt(p_Month) + 1;
+                        ret_arr[1] = parseInt(p_Year);
+                }
+        }
+        
+        return ret_arr;
+}
+
+function Calendar_calc_month_year(p_Month, p_Year, incr) {
+        /* 
+        Will return an 1-D array with 1st element being the calculated month 
+        and second being the calculated year 
+        after applying the month increment/decrement as specified by 'incr' parameter.
+        'incr' will normally have 1/-1 to navigate thru the months.
+        */
+        var ret_arr = new Array();
+        
+        if (incr == -1) {
+                // B A C K W A R D
+                if (p_Month == 0) {
+                        ret_arr[0] = 11;
+                        ret_arr[1] = parseInt(p_Year) - 1;
+                }
+                else {
+                        ret_arr[0] = parseInt(p_Month) - 1;
+                        ret_arr[1] = parseInt(p_Year);
+                }
+        } else if (incr == 1) {
+                // F O R W A R D
+                if (p_Month == 11) {
+                        ret_arr[0] = 0;
+                        ret_arr[1] = parseInt(p_Year) + 1;
+                }
+                else {
+                        ret_arr[0] = parseInt(p_Month) + 1;
+                        ret_arr[1] = parseInt(p_Year);
+                }
+        }
+        
+        return ret_arr;
+}
+
+// This is for compatibility with Navigator 3, we have to create and discard one object before the prototype object exists.
+new Calendar();
+
+Calendar.prototype.getMonthlyCalendarCode = function() {
+        var vCode = "";
+        var vHeader_Code = "";
+        var vData_Code = "";
+        
+        // Begin Table Drawing code here..
+        vCode += ("<div align=center><TABLE BORDER=1 BGCOLOR="" + this.gBGColor + "" style='font-size:" + fontsize + "pt;'>");
+        
+        vHeader_Code = this.cal_header();
+        vData_Code = this.cal_data();
+        vCode += (vHeader_Code + vData_Code);
+        
+        vCode += "</TABLE></div>";
+        
+        return vCode;
+}
+
+Calendar.prototype.show = function() {
+        var vCode = "";
+
+        // build content into global var ggWinContent
+        ggWinContent += ("<FONT FACE='" + fontface + "' ><B>");
+        ggWinContent += (this.gMonthName + " " + this.gYear);
+        ggWinContent += "</B><BR>";
+        
+        // Show navigation buttons
+        var prevMMYYYY = Calendar.calc_month_year(this.gMonth, this.gYear, -1);
+        var prevMM = prevMMYYYY[0];
+        var prevYYYY = prevMMYYYY[1];
+
+        var nextMMYYYY = Calendar.calc_month_year(this.gMonth, this.gYear, 1);
+        var nextMM = nextMMYYYY[0];
+        var nextYYYY = nextMMYYYY[1];
+        
+        ggWinContent += ("<TABLE WIDTH='100%' BORDER=1 CELLSPACING=0 CELLPADDING=0 BGCOLOR='#e0e0e0' style='font-size:" + fontsize + "pt;'><TR><TD ALIGN=center>");
+        ggWinContent += ("[<A HREF="javascript:void(0);" " +
+                "onMouseOver="window.status='Go back one year'; return true;" " +
+                "onMouseOut="window.status=''; return true;" " +
+                "onClick="Build(" + 
+                "'" + this.gReturnItem + "', '" + this.gMonth + "', '" + (parseInt(this.gYear)-1) + "', '" + this.gFormat + "'" +
+                ");" +
+                ""><< Y</A>]</TD><TD ALIGN=center>");
+        ggWinContent += ("[<A HREF="javascript:void(0);" " +
+                "onMouseOver="window.status='Go back one month'; return true;" " +
+                "onMouseOut="window.status=''; return true;" " +
+                "onClick="Build(" + 
+                "'" + this.gReturnItem + "', '" + prevMM + "', '" + prevYYYY + "', '" + this.gFormat + "'" +
+                ");" +
+                "">< M</A>]</TD><TD ALIGN=center>");
+        ggWinContent += "       </TD><TD ALIGN=center>";
+        ggWinContent += ("[<A HREF="javascript:void(0);" " +
+                "onMouseOver="window.status='Go forward one month'; return true;" " +
+                "onMouseOut="window.status=''; return true;" " +
+                "onClick="Build(" + 
+                "'" + this.gReturnItem + "', '" + nextMM + "', '" + nextYYYY + "', '" + this.gFormat + "'" +
+                ");" +
+                "">M ></A>]</TD><TD ALIGN=center>");
+        ggWinContent += ("[<A HREF="javascript:void(0);" " +
+                "onMouseOver="window.status='Go forward one year'; return true;" " +
+                "onMouseOut="window.status=''; return true;" " +
+                "onClick="Build(" + 
+                "'" + this.gReturnItem + "', '" + this.gMonth + "', '" + (parseInt(this.gYear)+1) + "', '" + this.gFormat + "'" +
+                ");" +
+                "">Y >></A>]</TD></TR></TABLE><BR>");
+
+        // Get the complete calendar code for the month, and add it to the
+        //      content var
+        vCode = this.getMonthlyCalendarCode();
+        ggWinContent += vCode;
+}
+
+Calendar.prototype.showY = function() {
+        var vCode = "";
+        var i;
+
+        ggWinContent += "<FONT FACE='" + fontface + "' ><B>"
+        ggWinContent += ("Year : " + this.gYear);
+        ggWinContent += "</B><BR>";
+
+        // Show navigation buttons
+        var prevYYYY = parseInt(this.gYear) - 1;
+        var nextYYYY = parseInt(this.gYear) + 1;
+        
+        ggWinContent += ("<TABLE WIDTH='100%' BORDER=1 CELLSPACING=0 CELLPADDING=0 BGCOLOR='#e0e0e0' style='font-size:" + fontsize + "pt;'><TR><TD ALIGN=center>");
+        ggWinContent += ("[<A HREF="javascript:void(0);" " +
+                "onMouseOver="window.status='Go back one year'; return true;" " +
+                "onMouseOut="window.status=''; return true;" " +
+                "onClick="Build(" + 
+                "'" + this.gReturnItem + "', null, '" + prevYYYY + "', '" + this.gFormat + "'" +
+                ");" +
+                ""><<Year</A>]</TD><TD ALIGN=center>");
+        ggWinContent += "       </TD><TD ALIGN=center>";
+        ggWinContent += ("[<A HREF="javascript:void(0);" " +
+                "onMouseOver="window.status='Go forward one year'; return true;" " +
+                "onMouseOut="window.status=''; return true;" " +
+                "onClick="Build(" + 
+                "'" + this.gReturnItem + "', null, '" + nextYYYY + "', '" + this.gFormat + "'" +
+                ");" +
+                "">Year>></A>]</TD></TR></TABLE><BR>");
+
+        // Get the complete calendar code for each month.
+        // start a table and first row in the table
+        ggWinContent += ("<TABLE WIDTH='100%' BORDER=0 CELLSPACING=0 CELLPADDING=5 style='font-size:" + fontsize + "pt;'><TR>");
+        var j;
+        for (i=0; i<12; i++) {
+                // start the table cell
+                ggWinContent += "<TD ALIGN='center' VALIGN='top'>";
+                this.gMonth = i;
+                this.gMonthName = Calendar.get_month(this.gMonth);
+                vCode = this.getMonthlyCalendarCode();
+                ggWinContent += (this.gMonthName + "/" + this.gYear + "<BR>");
+                ggWinContent += vCode;
+                ggWinContent += "</TD>";
+                if (i == 3 || i == 7) {
+                        ggWinContent += "</TR><TR>";
+                        }
+
+        }
+
+        ggWinContent += "</TR></TABLE></font><BR>";
+}
+
+Calendar.prototype.cal_header = function() {
+        var vCode = "";
+        
+        vCode = vCode + "<TR>";
+        vCode = vCode + "<TD WIDTH='14%'><FONT FACE='" + fontface + "' COLOR='" + this.gHeaderColor + "'><B>Sun</B></FONT></TD>";
+        vCode = vCode + "<TD WIDTH='14%'><FONT FACE='" + fontface + "' COLOR='" + this.gHeaderColor + "'><B>Mon</B></FONT></TD>";
+        vCode = vCode + "<TD WIDTH='14%'><FONT FACE='" + fontface + "' COLOR='" + this.gHeaderColor + "'><B>Tue</B></FONT></TD>";
+        vCode = vCode + "<TD WIDTH='14%'><FONT FACE='" + fontface + "' COLOR='" + this.gHeaderColor + "'><B>Wed</B></FONT></TD>";
+        vCode = vCode + "<TD WIDTH='14%'><FONT FACE='" + fontface + "' COLOR='" + this.gHeaderColor + "'><B>Thu</B></FONT></TD>";
+        vCode = vCode + "<TD WIDTH='14%'><FONT FACE='" + fontface + "' COLOR='" + this.gHeaderColor + "'><B>Fri</B></FONT></TD>";
+        vCode = vCode + "<TD WIDTH='16%'><FONT FACE='" + fontface + "' COLOR='" + this.gHeaderColor + "'><B>Sat</B></FONT></TD>";
+        vCode = vCode + "</TR>";
+        
+        return vCode;
+}
+
+Calendar.prototype.cal_data = function() {
+        var vDate = new Date();
+        vDate.setDate(1);
+        vDate.setMonth(this.gMonth);
+        vDate.setFullYear(this.gYear);
+
+        var vFirstDay=vDate.getDay();
+        var vDay=1;
+        var vLastDay=Calendar.get_daysofmonth(this.gMonth, this.gYear);
+        var vOnLastDay=0;
+        var vCode = "";
+
+        /*
+        Get day for the 1st of the requested month/year..
+        Place as many blank cells before the 1st day of the month as necessary. 
+        */
+        vCode = vCode + "<TR>";
+        for (i=0; i<vFirstDay; i++) {
+                vCode = vCode + "<TD WIDTH='14%'" + this.write_weekend_string(i) + "><FONT FACE='" + fontface + "'> </FONT></TD>";
+        }
+
+        // Write rest of the 1st week
+        for (j=vFirstDay; j<7; j++) {
+                vCode = vCode + "<TD WIDTH='14%'" + this.write_weekend_string(j) + "><FONT FACE='" + fontface + "'>" + 
+                        "<A HREF='javascript:void(0);' " + 
+                                "onMouseOver="window.status='set date to " + this.format_data(vDay) + "'; return true;" " +
+                                "onMouseOut="window.status=' '; return true;" " +
+                                "onClick="document." + this.gReturnItem + ".value='" + 
+                                this.format_data(vDay) + 
+                                "';ggPosX=-1;ggPosY=-1;nd();nd();">" + 
+                                this.format_day(vDay) + 
+                        "</A>" + 
+                        "</FONT></TD>";
+                vDay=vDay + 1;
+        }
+        vCode = vCode + "</TR>";
+
+        // Write the rest of the weeks
+        for (k=2; k<7; k++) {
+                vCode = vCode + "<TR>";
+
+                for (j=0; j<7; j++) {
+                        vCode = vCode + "<TD WIDTH='14%'" + this.write_weekend_string(j) + "><FONT FACE='" + fontface + "'>" + 
+                                "<A HREF='javascript:void(0);' " +
+                                        "onMouseOver="window.status='set date to " + this.format_data(vDay) + "'; return true;" " +
+                                        "onMouseOut="window.status=' '; return true;" " +
+                                        "onClick="document." + this.gReturnItem + ".value='" + 
+                                        this.format_data(vDay) + 
+                                        "';window.scroll(0,ggPosY);ggPosX=-1;ggPosY=-1;nd();nd();">" + 
+                                this.format_day(vDay) + 
+                                "</A>" + 
+                                "</FONT></TD>";
+                        vDay=vDay + 1;
+
+                        if (vDay > vLastDay) {
+                                vOnLastDay = 1;
+                                break;
+                        }
+                }
+
+                if (j == 6)
+                        vCode = vCode + "</TR>";
+                if (vOnLastDay == 1)
+                        break;
+        }
+        
+        // Fill up the rest of last week with proper blanks, so that we get proper square blocks
+        for (m=1; m<(7-j); m++) {
+                if (this.gYearly)
+                        vCode = vCode + "<TD WIDTH='14%'" + this.write_weekend_string(j+m) + 
+                        "><FONT FACE='" + fontface + "' COLOR='gray'> </FONT></TD>";
+                else
+                        vCode = vCode + "<TD WIDTH='14%'" + this.write_weekend_string(j+m) + 
+                        "><FONT FACE='" + fontface + "' COLOR='gray'>" + m + "</FONT></TD>";
+        }
+        
+        return vCode;
+}
+
+Calendar.prototype.format_day = function(vday) {
+        var vNowDay = gNow.getDate();
+        var vNowMonth = gNow.getMonth();
+        var vNowYear = gNow.getFullYear();
+
+        if (vday == vNowDay && this.gMonth == vNowMonth && this.gYear == vNowYear)
+                return ("<FONT COLOR="RED"><B>" + vday + "</B></FONT>");
+        else
+                return (vday);
+}
+
+Calendar.prototype.write_weekend_string = function(vday) {
+        var i;
+
+        // Return special formatting for the weekend day.
+        for (i=0; i<weekend.length; i++) {
+                if (vday == weekend[i])
+                        return (" BGCOLOR="" + weekendColor + """);
+        }
+        
+        return "";
+}
+
+Calendar.prototype.format_data = function(p_day) {
+        var vData;
+        var vMonth = 1 + this.gMonth;
+        vMonth = (vMonth.toString().length < 2) ? "0" + vMonth : vMonth;
+        var vMon = Calendar.get_month(this.gMonth).substr(0,3).toUpperCase();
+        var vFMon = Calendar.get_month(this.gMonth).toUpperCase();
+        var vY4 = new String(this.gYear);
+        var vY2 = new String(this.gYear.substr(2,2));
+        var vDD = (p_day.toString().length < 2) ? "0" + p_day : p_day;
+
+        switch (this.gFormat) {
+                case "MM/DD/YYYY" :
+                        vData = vMonth + "/" + vDD + "/" + vY4;
+                        break;
+                case "MM/DD/YY" :
+                        vData = vMonth + "/" + vDD + "/" + vY2;
+                        break;
+                case "MM-DD-YYYY" :
+                        vData = vMonth + "-" + vDD + "-" + vY4;
+                        break;
+                case "YYYY-MM-DD" :
+                        vData = vY4 + "-" + vMonth + "-" + vDD;
+                        break;
+                case "MM-DD-YY" :
+                        vData = vMonth + "-" + vDD + "-" + vY2;
+                        break;
+                case "DD/MON/YYYY" :
+                        vData = vDD + "/" + vMon + "/" + vY4;
+                        break;
+                case "DD/MON/YY" :
+                        vData = vDD + "/" + vMon + "/" + vY2;
+                        break;
+                case "DD-MON-YYYY" :
+                        vData = vDD + "-" + vMon + "-" + vY4;
+                        break;
+                case "DD-MON-YY" :
+                        vData = vDD + "-" + vMon + "-" + vY2;
+                        break;
+                case "DD/MONTH/YYYY" :
+                        vData = vDD + "/" + vFMon + "/" + vY4;
+                        break;
+                case "DD/MONTH/YY" :
+                        vData = vDD + "/" + vFMon + "/" + vY2;
+                        break;
+                case "DD-MONTH-YYYY" :
+                        vData = vDD + "-" + vFMon + "-" + vY4;
+                        break;
+                case "DD-MONTH-YY" :
+                        vData = vDD + "-" + vFMon + "-" + vY2;
+                        break;
+                case "DD/MM/YYYY" :
+                        vData = vDD + "/" + vMonth + "/" + vY4;
+                        break;
+                case "DD/MM/YY" :
+                        vData = vDD + "/" + vMonth + "/" + vY2;
+                        break;
+                case "DD-MM-YYYY" :
+                        vData = vDD + "-" + vMonth + "-" + vY4;
+                        break;
+                case "DD-MM-YY" :
+                        vData = vDD + "-" + vMonth + "-" + vY2;
+                        break;
+                default :
+                        vData = vMonth + "/" + vDD + "/" + vY4;
+        }
+
+        return vData;
+}
+
+function Build(p_item, p_month, p_year, p_format) {
+        gCal = new Calendar(p_item, p_month, p_year, p_format);
+
+        // Customize your Calendar here..
+        gCal.gBGColor="white";
+        gCal.gLinkColor="black";
+        gCal.gTextColor="black";
+        gCal.gHeaderColor="darkgreen";
+
+        // initialize the content string
+        ggWinContent = "";
+
+        // Choose appropriate show function
+        if (gCal.gYearly) {
+                // and, since the yearly calendar is so large, override the positioning and fontsize
+                // warning: in IE6, it appears that "select" fields on the form will still show
+                //      through the "over" div; Note: you can set these variables as part of the onClick
+                //      javascript code before you call the show_yearly_calendar function
+                if (ggPosX == -1) ggPosX = 10;
+                if (ggPosY == -1) ggPosY = 10;
+                if (fontsize == 8) fontsize = 6;
+                // generate the calendar
+                gCal.showY();
+                }
+        else {
+                gCal.show();
+                }
+
+        // if this is the first calendar popup, use autopositioning with an offset
+        if (ggPosX == -1 && ggPosY == -1) {
+                overlib(ggWinContent, AUTOSTATUSCAP, STICKY, CLOSECLICK, CSSSTYLE,
+                        TEXTSIZEUNIT, "pt", TEXTSIZE, 8, CAPTIONSIZEUNIT, "pt", CAPTIONSIZE, 8, CLOSESIZEUNIT, "pt", CLOSESIZE, 8,
+                        CAPTION, "Select a date", OFFSETX, 20, OFFSETY, -20);
+                // save where the 'over' div ended up; we want to stay in the same place if the user
+                //      clicks on one of the year or month navigation links
+                if ( (ns4) || (ie4) ) {
+                        ggPosX = parseInt(over.left);
+                        ggPosY = parseInt(over.top);
+                        } else if (ns6) {
+                        ggPosX = parseInt(over.style.left);
+                        ggPosY = parseInt(over.style.top);
+                        }
+                }
+        else {
+                // we have a saved X & Y position, so use those with the FIXX and FIXY options
+                overlib(ggWinContent, AUTOSTATUSCAP, STICKY, CLOSECLICK, CSSSTYLE,
+                        TEXTSIZEUNIT, "pt", TEXTSIZE, 8, CAPTIONSIZEUNIT, "pt", CAPTIONSIZE, 8, CLOSESIZEUNIT, "pt", CLOSESIZE, 8,
+                        CAPTION, "Select a date", FIXX, ggPosX, FIXY, ggPosY);
+                }
+        window.scroll(ggPosX, ggPosY);
+}
+
+function show_calendar() {
+        /* 
+                p_month : 0-11 for Jan-Dec; 12 for All Months.
+                p_year  : 4-digit year
+                p_format: Date format (mm/dd/yyyy, dd/mm/yy, ...)
+                p_item  : Return Item.
+        */
+
+        p_item = arguments[0];
+        if (arguments[1] == null)
+                p_month = new String(gNow.getMonth());
+        else
+                p_month = arguments[1];
+        if (arguments[2] == "" || arguments[2] == null)
+                p_year = new String(gNow.getFullYear().toString());
+        else
+                p_year = arguments[2];
+        if (arguments[3] == null)
+                p_format = "YYYY-MM-DD";
+        else
+                p_format = arguments[3];
+
+        Build(p_item, p_month, p_year, p_format);
+}
+/*
+Yearly Calendar Code Starts here
+*/
+function show_yearly_calendar() {
+        // Load the defaults..
+        //if (p_year == null || p_year == "")
+        //      p_year = new String(gNow.getFullYear().toString());
+        //if (p_format == null || p_format == "")
+        //      p_format = "YYYY-MM-DD";
+
+        p_item = arguments[0];
+        if (arguments[1] == "" || arguments[1] == null)
+                p_year = new String(gNow.getFullYear().toString());
+        else
+                p_year = arguments[1];
+        if (arguments[2] == null)
+                p_format = "YYYY-MM-DD";
+        else
+                p_format = arguments[2];
+
+        Build(p_item, null, p_year, p_format);
+}
+
+
+function SetToFirstControl()
+{
+  var bFound = false; 
+
+  for (f=0; f < document.forms.length; f++) 
+  {
+    for(i=0; i < document.forms[f].length; i++)
+    {
+      if (document.forms[f][i].type != "hidden") 
+      { 
+        if (document.forms[f][i].disabled != true) 
+        {
+          try {
+             document.forms[f][i].focus();
+             var bFound = true;
+          }
+          catch(er) {
+          }
+        }
+      }
+      if (bFound == true)
+        break;
+    }
+    if (bFound == true)
+      break;
+  }
+
+  
+  var currentPage = String(document.location).split('?');
+  if (currentPage[0] != null)
+  {
+
+        if (currentPage[0] == "http://www.eyhreg.org/adult-registration.php")
+        {
+                var urlHalves = String(document.location).split('&lang=');
+                if (urlHalves[1] != null)
+                {       
+                        if (urlHalves[1] == "FR")
+                                toggleFlagAdultForm();          
+                }
+        }
+        else if (currentPage[0] == "http://www.eyhreg.org/student-registration.php")
+        {
+                var urlHalves = String(document.location).split('&lang=');
+                if (urlHalves[1] != null)
+                {       
+                        if (urlHalves[1] == "FR")
+                                toggleFlagStudentForm();                
+                }
+        }
+  }
+}
+
+
+
+//var popupObj = window.createPopup();
+//var popupwidth;
+//var popupheight;
+
+function showPopup(linkObj, TITLE_TEXT, HTML_Text, Y, X)
+{
+
+  if ( Y === undefined )
+  {
+    Y = 0;
+  }
+
+  if ( X === undefined )
+  {
+    X = 0;
+  }
+
+  var popupBodyObj = popupObj.document.body;
+  //popupBodyObj.style.border = "0px solid #8bc743";
+  //popupBodyObj.style.backgroundColor = "#F7F2FB";
+  //popupBodyObj.style.borderCollapse = "collapse";
+
+  popupBodyObj.style.fontFamily = "arial";
+  popupBodyObj.style.fontSize = "8";
+
+
+  // write the html for the popup
+  popupBodyObj.innerHTML = '<TABLE border=0 ID=newtable style="border-collapse: collapse;">' +
+  '<TR>' +
+    '<td style="width:13px; height:13px; BACKGROUND-IMAGE: url(images/bubble/ul.gif); background-repeat: no-repeat; background-position: right bottom;"><img height=13 width=13 src="images/blank.gif"></TD>' +
+    '<td style="width:13px; height:13px; BACKGROUND-IMAGE: url(images/bubble/ht.gif); background-repeat: repeat-x; background-position: bottom;"><img height=13 width=13 src="images/blank.gif"></TD>' +
+    '<td style="width:13px; height:13px; BACKGROUND-IMAGE: url(images/bubble/ur.gif); background-repeat: no-repeat; background-position: left bottom;"><img height=13 width=13 src="images/blank.gif"></TD>' +
+  '</TR>' +
+  '<TR>' +
+    '<td style="width:13px; height:13px; BACKGROUND-IMAGE: url(images/bubble/vl.gif); background-repeat: repeat-y; background-position: right;"><img height=13 width=13 src="images/blank.gif"></TD>' +
+    '<td style="BACKGROUND-COLOR: #F7F2FB;"><FONT SIZE=+1>' + TITLE_TEXT + '</FONT><BR><HR width="300">' + HTML_Text + '</TD>' +
+    '<td style="width:13px; height:13px; BACKGROUND-IMAGE: url(images/bubble/vr.gif); background-repeat: repeat-y;"><img height=13 width=13 src="images/blank.gif"></TD>' +
+  '</TR>' +
+  '<TR>' +
+    '<td style="width:13px; height:13px; BACKGROUND-IMAGE: url(images/bubble/ll.gif); background-repeat: no-repeat; background-position: right top;"><img height=13 width=13 src="images/blank.gif"></TD>' +
+    '<td style="width:13px; height:13px; BACKGROUND-IMAGE: url(images/bubble/hb.gif); background-repeat: repeat-x;"><img height=13 width=13 src="images/blank.gif"></TD>' +
+    '<td style="width:13px; height:13px; BACKGROUND-IMAGE: url(images/bubble/lr.gif); background-repeat: no-repeat;"><img height=13 width=13 src="images/blank.gif"></TD>' +
+  '</TR>' +
+  '</TABLE>';
+                
+
+  if (HTML_Text == '')
+  {
+    popupObj.hide();
+  }
+  else
+  {
+    // pop it up here to initialize to window
+    popupObj.show(10, 10, 0, 0);
+
+    // Get the popup width and height by looking at the table we just created
+    popupwidth  = popupObj.document.getElementById("newtable").offsetWidth;
+    if (popupwidth < 300)
+    {
+       popupwidth = 300;
+    }
+    popupheight = popupObj.document.getElementById("newtable").offsetHeight;
+
+    // Show the popup
+    if (Y == 0)
+    {
+        popupObj.show(25, linkObj.offsetHeight - 30, popupwidth, popupheight, linkObj);
+    }
+    else
+    {
+        popupObj.show(Y, X, popupwidth, popupheight, linkObj);
+    }
+  } 
+}
+
+
+function newwin(Page, Title, Options)
+{
+  var x = null;
+
+  x = window.open(Page, Title, Options);
+}
+
+
+function toEnglish()
+{
+        var lbLink = document.getElementById('iToEnglish');
+
+
+/*
+        if (lbLink.className == "linkdead")
+        {
+                return;
+        }
+*/
+        //toggleLink("iToEnglish", "iToFrench");
+        
+        if (document.getElementById('lbstate') != null)
+                document.getElementById('lbstate').style.visibility = 'visible';
+        if (document.getElementById('lbstate') != null)
+                document.getElementById('lbstate').innerHTML = "State";
+        if (document.getElementById('lbreg') != null)
+                document.getElementById('lbreg').innerHTML = "This is the Student Registration Form for:";
+        if (document.getElementById('lbfrtname') != null)
+                document.getElementById('lbfrtname').innerHTML = "First Name:";
+        if (document.getElementById('lbstname') != null)
+                document.getElementById('lblstname').innerHTML = "Last Name:";
+        if (document.getElementById('lbstadd') != null)
+                document.getElementById('lbstadd').innerHTML = "Street Address:";
+        if (document.getElementById('lbcity') != null)
+                document.getElementById('lbcity').innerHTML = "City:";
+        if (document.getElementById('lbzipcode') != null)
+                document.getElementById('lbzipcode').innerHTML = "Zip/Postal Code:";
+        if (document.getElementById('lbphnumber') != null)
+                document.getElementById('lbphnumber').innerHTML = "Phone Number w/ Area Code:";
+        if (document.getElementById('lbemladd') != null)
+                document.getElementById('lbemladd').innerHTML = "Email Address:";
+        if (document.getElementById('lbemladdprt') != null)
+                document.getElementById('lbemladdprt').innerHTML = "Email Address of Parent:";
+        if (document.getElementById('lbschool') != null)
+                document.getElementById('lbschool').innerHTML = "Which school do you attend?";
+        if (document.getElementById('lbgrade') != null)
+                document.getElementById('lbgrade').innerHTML = "Grade:";
+        if (document.getElementById('lbtshirtsize') != null)
+                document.getElementById('lbtshirtsize').innerHTML = "T-Shirt Size (adult size):";
+        if (document.getElementById('lblastyratt') != null)
+                document.getElementById('lblastyratt').innerHTML = "Did you Attend Last Year?";
+        if (document.getElementById('lbpay') != null)
+                document.getElementById('lbpay').innerHTML = "How will you pay the";
+        document.getElementById('lbpay1').innerHTML = "(CHF) registration fee?";
+        if (document.getElementById('lbwkshop') != null)
+                document.getElementById('lbwkshop').innerHTML = "Workshops Available at the Conference";
+        if (document.getElementById('lbwkdesc') != null)
+                document.getElementById('lbwkdesc').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc1') != null)
+                document.getElementById('lbwkdesc1').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbpref') != null)
+                document.getElementById('lbpref').innerHTML = "Choose your Preferences of Workshops to Attend";
+        if (document.getElementById('lbnote') != null)
+                document.getElementById('lbnote').innerHTML ="<B>Note:</B> Each student will be allowed to attend 3 workshops.<BR> Please select 2 choices in order of preference and you will be placed in 3 workshops after your registration is completed. (No translation)";
+        if (document.getElementById('lbch1') != null)
+                document.getElementById('lbch1').innerHTML = "Choice # 1";
+        if (document.getElementById('lbch2') != null)
+                document.getElementById('lbch2').innerHTML = "Choice # 2";
+        if (document.getElementById('lbch3') != null)
+                document.getElementById('lbch3').innerHTML = "Choice # 3";
+
+        var selectGrade = document.getElementById('igrade');
+        if (selectGrade != null)
+                selectGrade.options[0].innerHTML = "Select your Grade";
+
+        var selectState = document.getElementById('istate2');
+        selectState.options[0].innerHTML = "Select One";
+        selectState.selectedIndex = 0;
+        selectState.style.visibility = 'visible';
+
+        var selectTshirtsize = document.getElementById('itshirtsize');
+        if (selectTshirtsize != null)
+        {
+                selectTshirtsize.options[0].innerHTML = "Select One";
+                selectTshirtsize.options[1].innerHTML = "S";
+                selectTshirtsize.options[2].innerHTML = "M";
+                selectTshirtsize.options[3].innerHTML = "L";
+                selectTshirtsize.options[4].innerHTML = "XL";
+                selectTshirtsize.options[5].innerHTML = "XXL";
+        }        
+
+        var selectPayment = document.getElementById('ipay');
+        if (selectPayment != null)
+        {
+                if (selectPayment.options[0] != null)
+                        selectPayment.options[0].innerHTML = "Select One";
+                if (selectPayment.options[1] != null)
+                        selectPayment.options[1].innerHTML = "I will mail in my check.";
+                if (selectPayment.options[2] != null)
+                        selectPayment.options[2].innerHTML = "I am requesting a scholarship.";
+                if (selectPayment.options[3] != null)
+                        selectPayment.options[3].innerHTML = "My school is paying for me.";
+                if (selectPayment.options[4] != null)
+                        selectPayment.options[4].innerHTML = "Credit card.";
+        }
+
+        if (document.getElementById('lbwkdesc0') != null)
+                document.getElementById('lbwkdesc0').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc1') != null)
+                document.getElementById('lbwkdesc1').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc2') != null)
+                document.getElementById('lbwkdesc2').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc3') != null)
+                document.getElementById('lbwkdesc3').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc4') != null)
+                document.getElementById('lbwkdesc4').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc5') != null)
+                document.getElementById('lbwkdesc5').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc6') != null)
+                document.getElementById('lbwkdesc6').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc7') != null)
+                document.getElementById('lbwkdesc7').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc8') != null)
+                document.getElementById('lbwkdesc8').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc9') != null)
+                document.getElementById('lbwkdesc9').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc10') != null)
+                document.getElementById('lbwkdesc10').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc11') != null)
+                document.getElementById('lbwkdesc11').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc12') != null)
+                document.getElementById('lbwkdesc12').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc13') != null)
+                document.getElementById('lbwkdesc13').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc14') != null)
+                document.getElementById('lbwkdesc14').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc15') != null)
+                document.getElementById('lbwkdesc15').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc16') != null)
+                document.getElementById('lbwkdesc16').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc17') != null)
+                document.getElementById('lbwkdesc17').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc18') != null)
+                document.getElementById('lbwkdesc18').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc19') != null)
+                document.getElementById('lbwkdesc19').innerHTML = "View Workshop Description";
+
+
+        theform.submit.value = "Submit Your Registration";
+}
+
+function toggleFlagStudentForm()
+{
+
+        var flagName = document.getElementById('imgFlag').src ;
+        if(flagName.indexOf("flag_british.jpg", 0) >= 0)
+        {
+                document.getElementById('imgFlag').src = "/images/flag_french.jpg";
+                toEnglish();
+        
+        }
+        else 
+        { 
+                document.getElementById('imgFlag').src = "/images/flag_british.jpg";
+                toFrench();
+        }
+}
+
+function toFrench()
+{    
+    var lbLink = document.getElementById('iToFrench');
+/*
+        if (lbLink.className == "linkdead")
+        {
+                return;
+        }
+*/
+        //toggleLink("iToFrench", "iToEnglish");
+        
+        //if (document.getElementById('lbstate') != null)
+        //      document.getElementById('lbstate').style.visibility = 'hidden';
+        //document.getElementById('istate').style.visibility = 'hidden';
+        
+        document.getElementById('lbstate').innerHTML = "";
+        if (document.getElementById('lbreg') != null)
+                document.getElementById('lbreg').innerHTML = "Formulaire d'inscription �tudiant:";
+        if (document.getElementById('lbfrtname') != null)
+                document.getElementById('lbfrtname').innerHTML = "Pr�nom:";
+        if (document.getElementById('lblstname') != null)
+                document.getElementById('lblstname').innerHTML = "Nom de famille:";
+        if (document.getElementById('lbstadd') != null)
+                document.getElementById('lbstadd').innerHTML = "Adresse:";
+        if (document.getElementById('lbcity') != null)
+                document.getElementById('lbcity').innerHTML = "Ville:";
+        if (document.getElementById('lbzipcode') != null)
+                document.getElementById('lbzipcode').innerHTML = "Code postal:";
+        if (document.getElementById('lbphnumber') != null)
+                document.getElementById('lbphnumber').innerHTML = "Num�ro de t�l�phone:";
+        if (document.getElementById('lbemladd') != null)
+                document.getElementById('lbemladd').innerHTML = "Adresse email:";
+        if (document.getElementById('lbemladdprt') != null)
+                document.getElementById('lbemladdprt').innerHTML = "Adresse email des parents:";
+        if (document.getElementById('lbschool') != null)
+                document.getElementById('lbschool').innerHTML = "Ecole:";
+        if (document.getElementById('lbgrade') != null)
+                document.getElementById('lbgrade').innerHTML = "Syst�me suisse:";
+        if (document.getElementById('lbtshirtsize') != null)
+                document.getElementById('lbtshirtsize').innerHTML = "Taille de T-shirt (adulte):";
+        if (document.getElementById('lblastyratt') != null)
+                document.getElementById('lblastyratt').innerHTML = "Avez-vous assist� l'ann�e derni�re?";
+        if (document.getElementById('lbpay') != null)
+                document.getElementById('lbpay').innerHTML = "Comment vas-tu payer les";
+        document.getElementById('lbpay1').innerHTML = "(CHF) de frais de participation?";
+        if (document.getElementById('lbwkshop') != null)
+                document.getElementById('lbwkshop').innerHTML = "Choix d'ateliers � la conf�rence";
+        if (document.getElementById('lbwkdesc') != null)
+                document.getElementById('lbwkdesc').innerHTML = "Voir la description de l'atelier";
+        //if (document.getElementById('lbwkdescl') != null)
+                document.getElementById('lbwkdesc1').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbpref') != null)
+                document.getElementById('lbpref').innerHTML = "A quels ateliers souhaitez-vous participer?";
+        if (document.getElementById('lbnote') != null)
+                document.getElementById('lbnote').innerHTML ="Nous ferons de notre mieux pour respecter tes choix mais les places sont attribu�es selon le principe de la premi�re arriv�e, premi�re servie.";
+        //if (document.getElementById('lbchoice') != null)
+        //      document.getElementById('lbchoice').innerHTML ="Nous ferons de notre mieux pour respecter tes choix mais les places sont attribu�es selon le principe de la premi�re arriv�e, premi�re servie.";
+        if (document.getElementById('lbch1') != null)
+                document.getElementById('lbch1').innerHTML = "Choix 1";
+        if (document.getElementById('lbch2') != null)
+                document.getElementById('lbch2').innerHTML = "Choix 2";
+        if (document.getElementById('lbch3') != null)
+                document.getElementById('lbch3').innerHTML = "Choix 3";
+
+        var selectGrade = document.getElementById('igrade');
+        if (selectGrade != null)
+                selectGrade.options[0].innerHTML = "Choisissez-en un";
+
+        var selectState = document.getElementById('istate2');
+        selectState.options[0].innerHTML = "Choisissez-en un";
+        selectState.selectedIndex = 1;
+        selectState.style.visibility = 'hidden';
+
+        var selectTshirtsize = document.getElementById('itshirtsize');
+        if (selectTshirtsize != null)
+        {
+                selectTshirtsize.options[0].innerHTML = "Choisissez-en un";
+                selectTshirtsize.options[1].innerHTML = "S";
+                selectTshirtsize.options[2].innerHTML = "M";
+                selectTshirtsize.options[3].innerHTML = "L";
+                selectTshirtsize.options[4].innerHTML = "XL";
+                selectTshirtsize.options[5].innerHTML = "XXL";
+        }
+
+        var selectPayment = document.getElementById('ipay');
+        if (selectPayment != null)
+        {
+                if (selectPayment.options[0] != null)
+                        selectPayment.options[0].innerHTML = "Choisissez-en un";
+                if (selectPayment.options[1] != null)
+                        selectPayment.options[1].innerHTML = "J'envoie un ch�que par la poste";
+                if (selectPayment.options[2] != null)
+                        selectPayment.options[2].innerHTML = "J'aurais besoin d'une bourse.";
+                if (selectPayment.options[3] != null)
+                        selectPayment.options[3].innerHTML = "Mon ecole va payer.";
+                if (selectPayment.options[4] != null)
+                        selectPayment.options[4].innerHTML = "Carte de credit.";
+        }
+
+        if (document.getElementById('lbwkdesc0') != null)
+                document.getElementById('lbwkdesc0').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc1') != null)
+                document.getElementById('lbwkdesc1').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc2') != null)
+                document.getElementById('lbwkdesc2').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc3') != null)
+                document.getElementById('lbwkdesc3').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc4') != null)
+                document.getElementById('lbwkdesc4').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc5') != null)
+                document.getElementById('lbwkdesc5').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc6') != null)
+                document.getElementById('lbwkdesc6').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc7') != null)
+                document.getElementById('lbwkdesc7').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc8') != null)
+                document.getElementById('lbwkdesc8').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc9') != null)
+                document.getElementById('lbwkdesc9').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc10') != null)
+                document.getElementById('lbwkdesc10').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc11') != null)
+                document.getElementById('lbwkdesc11').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc12') != null)
+                document.getElementById('lbwkdesc12').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc13') != null)
+                document.getElementById('lbwkdesc13').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc14') != null)
+                document.getElementById('lbwkdesc14').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc15') != null)
+                document.getElementById('lbwkdesc15').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc16') != null)
+                document.getElementById('lbwkdesc16').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc17') != null)
+                document.getElementById('lbwkdesc17').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc18') != null)
+                document.getElementById('lbwkdesc18').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc19') != null)
+                document.getElementById('lbwkdesc19').innerHTML = "Voir la description de l'atelier";
+
+        theform.submit.value = "Envoyer votre formulaire";
+}
+
+function toAdultFormEnglish()
+{
+    document.getElementById('lbstate').style.visibility = 'visible';
+    //document.getElementById('lbstate').style.visibility = 'visible';
+    
+        document.getElementById('lbstate').innerHTML = "State:"
+    document.getElementById('lbreg').innerHTML = "This is the Adult Registration Form for:";
+    document.getElementById('lbfrtname').innerHTML = "First Name:";
+    document.getElementById('lblstname').innerHTML = "Last Name:";
+    document.getElementById('lbstadd').innerHTML = "Street Address:";
+    document.getElementById('lbcity').innerHTML = "City:";
+    document.getElementById('lbzipcode').innerHTML = "Zip/Postal Code:";
+    document.getElementById('lbphnumber').innerHTML = "Phone Number w/ Area Code:";
+    document.getElementById('lbemladd').innerHTML = "Email Address:";
+    if (document.getElementById('lbtsize') != null)
+                document.getElementById('lbtsize').innerHTML = "T-Shirt Size (adult size):";
+    document.getElementById('lbpay').innerHTML = "How will you pay the";
+    document.getElementById('lbpay1').innerHTML = "(CHF) registration fee?";
+    document.getElementById('lbwkshop').innerHTML = "Workshops Available at the Conference";
+        if (document.getElementById('lbwkdesc') != null)
+                document.getElementById('lbwkdesc').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc1') != null)
+                document.getElementById('lbwkdesc1').innerHTML = "View Workshop Description";
+    document.getElementById('lbpref').innerHTML = "Choose your Preferences of Workshops to Attend";
+    document.getElementById('lbchoice').innerHTML = "We will attempt to honor your choices, but assignments are on a first come first serve basis";
+    if (document.getElementById('lbch1') != null)
+                document.getElementById('lbch1').innerHTML = "Choice # 1";
+    if (document.getElementById('lbch2') != null)
+                document.getElementById('lbch2').innerHTML = "Choice # 2";
+    if (document.getElementById('lbch3') != null)
+                document.getElementById('lbch3').innerHTML = "Choice # 3";
+ 
+    var selectTshirtsize = document.getElementById('itsize'); 
+        if (selectTshirtsize != null)
+        {
+                selectTshirtsize.options[0].innerHTML = "S";
+                selectTshirtsize.options[1].innerHTML = "M";
+                selectTshirtsize.options[2].innerHTML = "L";
+                selectTshirtsize.options[3].innerHTML = "XL";
+                selectTshirtsize.options[4].innerHTML = "XXL";
+        }
+
+        var selectState = document.getElementById('istate2');
+        selectState.options[0].innerHTML = "Select One";
+        selectState.selectedIndex = 0;
+        selectState.style.visibility = 'visible';
+
+    var selectPayment = document.getElementById('ipay');
+        if (document.getElementById(selectPayment.options[0]) != null)
+            selectPayment.options[0].innerHTML = "Select One";
+    if (document.getElementById(selectPayment.options[1]) != null)
+                selectPayment.options[1].innerHTML = "I will mail in my check.";
+    if (selectPayment.options[2] != null)
+                selectPayment.options[2].innerHTML = "Credit card";
+
+        var selectState = document.getElementById('istate2');
+        selectState.options[0].innerHTML = "Select One";
+        selectState.selectedIndex = 0;
+        selectState.style.visibility = 'visible';
+    
+    var selectCh1 = document.getElementById('ich1');
+        if (selectCh1 != null)
+        {
+                selectCh1.options[0].innerHTML = "Select a workshop";
+                selectCh1.options[1].innerHTML = "Parenting 101";
+                selectCh1.options[2].innerHTML = "Rainy Days & Mondays";
+                selectCh1.options[3].innerHTML = "Walking";
+        }    
+
+    var selectCh2 = document.getElementById('ich2');
+        if (selectCh1 != null)
+        {
+                selectCh2.options[0].innerHTML = "Select a workshop";
+                selectCh2.options[1].innerHTML = "Parenting 101";
+                selectCh2.options[2].innerHTML = "Rainy Days & Mondays";
+                selectCh2.options[3].innerHTML = "Walking";
+        }
+        
+        var selectCh3 = document.getElementById('ich3');
+        if (selectCh1 != null)
+        {
+                selectCh3.options[0].innerHTML = "Select a workshop";
+                selectCh3.options[1].innerHTML = "Parenting 101";
+                selectCh3.options[2].innerHTML = "Rainy Days & Mondays";
+                selectCh3.options[3].innerHTML = "Walking";
+        }
+
+        if (document.getElementById('lbwkdesc0') != null)
+                document.getElementById('lbwkdesc0').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc1') != null)
+                document.getElementById('lbwkdesc1').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc2') != null)
+                document.getElementById('lbwkdesc2').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc3') != null)
+                document.getElementById('lbwkdesc3').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc4') != null)
+                document.getElementById('lbwkdesc4').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc5') != null)
+                document.getElementById('lbwkdesc5').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc6') != null)
+                document.getElementById('lbwkdesc6').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc7') != null)
+                document.getElementById('lbwkdesc7').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc8') != null)
+                document.getElementById('lbwkdesc8').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc9') != null)
+                document.getElementById('lbwkdesc9').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc10') != null)
+                document.getElementById('lbwkdesc10').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc11') != null)
+                document.getElementById('lbwkdesc11').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc12') != null)
+                document.getElementById('lbwkdesc12').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc13') != null)
+                document.getElementById('lbwkdesc13').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc14') != null)
+                document.getElementById('lbwkdesc14').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc15') != null)
+                document.getElementById('lbwkdesc15').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc16') != null)
+                document.getElementById('lbwkdesc16').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc17') != null)
+                document.getElementById('lbwkdesc17').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc18') != null)
+                document.getElementById('lbwkdesc18').innerHTML = "View Workshop Description";
+        if (document.getElementById('lbwkdesc19') != null)
+                document.getElementById('lbwkdesc19').innerHTML = "View Workshop Description";
+
+        theform.submit.value = "Submit Your Registration";
+}
+
+function toggleFlagAdultForm()
+{
+
+ var flagName = document.getElementById('imgFlag').src ;
+
+    if(flagName.indexOf("flag_british.jpg", 0) >= 0)
+    {
+        document.getElementById('imgFlag').src = "/images/flag_french.jpg";
+        toAdultFormEnglish();
+        
+    }
+    else 
+    { 
+        document.getElementById('imgFlag').src = "/images/flag_british.jpg";
+        toAdultFormFrench();
+    }
+}
+function toAdultFormFrench()
+{
+        
+    //document.getElementById('lbstate').style.visibility = 'hidden';
+    //document.getElementById('istate').style.visibility = 'hidden';
+    
+        //document.getElementById('lbstate').innerHTML = "Choisissez-en un";
+        document.getElementById('lbstate').innerHTML = "";
+    document.getElementById('lbreg').innerHTML = "Formulaire d'inscription adulte:";
+    document.getElementById('lbfrtname').innerHTML = "Pr�nom:";
+    document.getElementById('lblstname').innerHTML = "Nom de famille:";
+    document.getElementById('lbstadd').innerHTML = "Adresse:";
+    document.getElementById('lbcity').innerHTML = "Ville:";
+    document.getElementById('lbzipcode').innerHTML = "Code postal:";
+    document.getElementById('lbphnumber').innerHTML = "Num�ro de t�l�phone:";
+    document.getElementById('lbemladd').innerHTML = "Adresse email:";
+        if (document.getElementById('lbtsize') != null)
+                document.getElementById('lbtsize').innerHTML = "Taille de T-shirt (adulte):";
+    document.getElementById('lbpay').innerHTML = "Comment allez-vous payer les";
+    document.getElementById('lbpay1').innerHTML = "(CHF) de frais de participation?";
+    document.getElementById('lbwkshop').innerHTML = "Choix d'ateliers � la conf�rence";
+    if (document.getElementById('lbwkdesc') != null)
+                document.getElementById('lbwkdesc').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc1') != null)
+                document.getElementById('lbwkdesc1').innerHTML = "Voir la description de l'atelier";
+    document.getElementById('lbpref').innerHTML = "A quels ateliers souhaites-tu participer";
+    document.getElementById('lbchoice').innerHTML = "Nous ferons de notre mieux pour respecter tes choix mais les places sont attribu�es selon le principe de la premi�re arriv�e, premi�re servie.";
+        if (document.getElementById('lbch1') != null)
+                document.getElementById('lbch1').innerHTML = "Choix 1";
+        if (document.getElementById('lbch2') != null)
+                document.getElementById('lbch2').innerHTML = "Choix 2";
+        if (document.getElementById('lbch3') != null)
+                document.getElementById('lbch3').innerHTML = "Choix 3";
+      
+    var selectTshirtsize = document.getElementById('itsize');
+        if (selectTshirtsize != null)
+        {
+                selectTshirtsize.options[0].innerHTML = "S";
+                selectTshirtsize.options[1].innerHTML = "M";
+                selectTshirtsize.options[2].innerHTML = "L";
+                selectTshirtsize.options[3].innerHTML = "XL";
+                selectTshirtsize.options[4].innerHTML = "XXL";
+        }
+
+    var selectPayment = document.getElementById('ipay');
+    if (selectPayment.options[0] != null)
+                selectPayment.options[0].innerHTML = "Choisissez-en un";
+    if (selectPayment.options[1] != null)
+                selectPayment.options[1].innerHTML = "J'envoie un ch�que par la poste";
+    if (selectPayment.options[2] != null)
+            selectPayment.options[2].innerHTML = "Carte de credit";
+    
+        var selectState = document.getElementById('istate2');
+        selectState.options[0].innerHTML = "Choisissez-en un";
+        selectState.selectedIndex = 1;
+        selectState.style.visibility = 'hidden';
+        
+
+    var selectCh1 = document.getElementById('ich1');
+        if (selectCh1 != null)
+        {
+                if (selectCh1.options[0] != null)
+                        selectCh1.options[0].innerHTML = "S�lectionner un atelier";
+                if (selectCh1.options[1] != null)
+                        selectCh1.options[1].innerHTML = "Parenting 101(No Translation)";
+                if (selectCh1.options[2] != null)
+                        selectCh1.options[2].innerHTML = "Rainy Days & Mondays(No Translation)";
+                if (selectCh1.options[3] != null)
+                        selectCh1.options[3].innerHTML = "Walking(No Translation)";
+        }    
+
+    var selectCh2 = document.getElementById('ich2');
+        if (selectCh2 != null)
+        {
+                if (selectCh2.options[0] != null)
+                        selectCh2.options[0].innerHTML = "S�lectionner un atelier";
+                if (selectCh2.options[1] != null)
+                        selectCh2.options[1].innerHTML = "Parenting 101(No Translation)";
+                if (selectCh2.options[2] != null)
+                        selectCh2.options[2].innerHTML = "Rainy Days & Mondays(No Translation)";
+                if (selectCh2.options[3] != null)
+                        selectCh2.options[3].innerHTML = "Walking(No Translation)";
+        }    
+
+    var selectCh3 = document.getElementById('ich3');
+        if (selectCh3 != null)
+        {
+                selectCh3.options[0].innerHTML = "S�lectionner un atelier";
+                selectCh3.options[1].innerHTML = "Parenting 101(No Translation)";
+                selectCh3.options[2].innerHTML = "Rainy Days & Mondays(No Translation)";
+                selectCh3.options[3].innerHTML = "Walking(No Translation)";
+        }
+
+        if (document.getElementById('lbwkdesc0') != null)
+                document.getElementById('lbwkdesc0').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc1') != null)
+                document.getElementById('lbwkdesc1').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc2') != null)
+                document.getElementById('lbwkdesc2').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc3') != null)
+                document.getElementById('lbwkdesc3').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc4') != null)
+                document.getElementById('lbwkdesc4').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc5') != null)
+                document.getElementById('lbwkdesc5').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc6') != null)
+                document.getElementById('lbwkdesc6').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc7') != null)
+                document.getElementById('lbwkdesc7').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc8') != null)
+                document.getElementById('lbwkdesc8').innerHTML = "Voir la description de l'atelier";
+        if (document.getElementById('lbwkdesc9') != null)
+                document.getElementById('lbwkdesc9').innerHTML = "Voir la description de l'atelier";
+
+        theform.submit.value = "Envoyer votre formulaire";
+}
+
+function toregEnglish()
+{
+        document.getElementById('lbregfm').innerHTML = "Registration Form";
+        document.getElementById('lbthyou').innerHTML = "Thank you for showing interest in registering for our conference:>";
+        if (document.getElementById('lbvw') != null)
+                document.getElementById('lbvw').innerHTML = "View the conference website";
+        document.getElementById('lbstudent').innerHTML = "I am registering for the conference as a Student.";
+        document.getElementById('lbadt').innerHTML = "I am registering for the conference as an Adult.";
+
+
+        if (document.getElementById('istudent') != null)
+        {
+                var sHref = document.getElementById('istudent').href;
+                sHref = sHref.substring(0, sHref.indexOf("&lang="));
+                document.getElementById('istudent').href = "http://www.eyhreg.org/student-registration.php?cid=&lang=EN";
+        }
+
+        if (document.getElementById('iadt') != null)
+        {
+                var sHref = document.getElementById('iadt').href;
+                sHref = sHref.substring(0, sHref.indexOf("&lang="));
+                document.getElementById('iadt').href = "http://www.eyhreg.org/adult-registration.php?cid=&lang=EN";
+        }
+
+}
+
+function toggleFlagRegForm()
+{
+
+        var flagName = document.getElementById('imgFlag').src ;
+        if(flagName.indexOf("flag_british.jpg", 0) >= 0)
+    {
+        document.getElementById('imgFlag').src = "/images/flag_french.jpg";
+        toregEnglish();
+    }
+    else 
+    { 
+        document.getElementById('imgFlag').src = "/images/flag_british.jpg";
+        toregFrench();
+    }
+}
+
+
+function toregFrench()
+{
+        document.getElementById('lbregfm').innerHTML = "Formulaire d'inscription";
+        document.getElementById('lbthyou').innerHTML = "Merci de l'int�r�t que tu portes � notre journ�e en t'y inscrivant:";
+        if (document.getElementById('lbvw') != null)
+                document.getElementById('lbvw').innerHTML = "Voir le site web de la journ�e";
+        document.getElementById('lbstudent').innerHTML = "Je m'inscris pour la journ�e en tant qu'�l�ve.";
+        document.getElementById('lbadt').innerHTML = "Je m'inscris pour la journ�e en tant qu'adulte.";
+
+                if (document.getElementById('istudent') != null)
+        {
+                var sHref = document.getElementById('istudent').href;
+                sHref = sHref.substring(0, sHref.indexOf("&lang="));
+                document.getElementById('istudent').href = "http://www.eyhreg.org/student-registration.php?cid=&lang=FR";
+
+        }
+
+        if (document.getElementById('iadt') != null)
+        {
+                var sHref = document.getElementById('iadt').href;
+                sHref = sHref.substring(0, sHref.indexOf("&lang="));
+                document.getElementById('iadt').href = "http://www.eyhreg.org/adult-registration.php?cid=&lang=FR";
+        }
+}
+</script>
+
+
+<script language="JavaScript" src="overlib_mini.js"></script>
+
+</head>
+<body onload="SetToFirstControl();"> 
+
+<div id="topMenu">
+Connected to <b>EYH Northern New Mexico (Los Alamos)</b>�|�Logged in as <b>EYH Los Alamos</b> (Coordinator) �|��<a href="/logout.php">Logout</a>��|��<a href="/home_coordinator.php">Home</a> �|�
+        <a href="/calendar.php">Calendar</a>
+
+        �|�
+        <a href="/contact_us.php">Contact Us</a>
+
+</div>
+
+<div id="header"  style="background-image:url(/images/hair.png); background-repeat:no-repeat">
+  <table border=0 cellpadding=0 cellspacing=0 style="padding-bottom:10px">
+    <tr>
+      <td valign="top"><a href="http://www.expandingyourhorizons.org/">
+                       <img src="/images/logo_subpage.gif" border="0"></a></td>
+      <td>����<img src="/images/title_line.gif" style="padding-left:10px; padding-right:10px"></td>
+
+      <td class="pagetitle"> Students of EYH Northern New Mexico (Los Alamos) </td>
+    </tr>
+  </table>
+
+
+</div>
+
+
+    <table border="0" cellpadding="0" cellspacing="0" class="secondaryMain">
+     <tr><td class="leftBlock">
+         <table class="leftNav" cellpadding="0" cellspacing="0">
+           <tr><td colspan=2><table class="secondaryMain">                    
+           <tr><td class="leftBlock"><b> Registration is <font color=#ff5555> CLOSED </font> 
+            <a href="/conference_open_closed.php">modify</a> </b></td></tr>                   
+           <tr><td class="leftBlock" NOWRAP valign="middle">
+             <table border="0">                  
+                        <tr><td valign="middle"><img src="/images/home.GIF" border="0"/></td>                         
+                    <td valign="middle"><a href="/home_coordinator.php">Home</a></td></tr>                          
+                        <tr><td valign="middle"><img src="/images/check.gif" border="0"/></td>                        
+                        <td valign="middle"><a href="/conference-admin.php">Plan My EYH</a></td></tr>                       
+                        <tr><td valign="middle" align="center"><img src="/images/check.gif" border="0"/></td>                         
+                        <td valign="middle"><a href="/time-admin.php">Conference Time Guide</a></td></tr>                           
+                        <tr><td valign="middle" align="center"><img src="/images/check.gif" border="0"/></td>                         
+                        <td valign="middle"><a href="/room-admin.php">Workshop Rooms</a></td></tr>                          
+                        <tr><td valign="middle" align="center"><img src="/images/check.gif" border="0"/></td>                        
+                        <td valign="middle"><a href="/session-admin.php">EYH Workshops</a></td></tr>                        
+                        <tr><td valign="middle" align="center"><img src="/images/check.gif" border="0"/></td>
+                        <td valign="middle"><a href="/report-admin.php">Reports</a></td></tr>                       
+                        <tr><td valign="middle" align="center"><img src="/images/check.gif" border="0"/></td>                         
+                        <td valign="middle"><a href="/part_tools/participant_tools.php">Participant Tools</a></td></tr>                     
+                        <tr><td valign="middle" align="center"><img src="/images/check.gif" border="0"/></td>
+                        <td valign="middle"><a href="/account-admin.php">Account Information</a></td></tr>                          
+                        <tr><td valign="middle" align="center"><img src="/images/check.gif" border="0"/></td>                         
+                        <td valign="middle"><a href="/student-admin.php">Students</a></td></tr>                   
+                  </table></td></tr>                  
+          <tr><td class="leftBlock"><B> Schedule Participants: </B> </td>       </tr>                 
+          <tr><td class="leftBlock" NOWRAP valign="middle">                       
+              <table border="0">                            
+                        <tr><td valign="middle"><img src="/images/check.gif" border="0"/></td>
+                        <td valign="middle"><a href="/schedule-wizard.php">Schedule Wizard</a></td></tr>                            
+                        <tr><td valign="middle"><img src="/images/check.gif" border="0"/></td>                        
+                        <td valign="middle"><a href="/schedule-students_manual.php">Students Manually</a></td></tr>                         
+                        <tr><td valign="middle"><img src="/images/check.gif" border="0"/></td>                        
+                        <td valign="middle"><a href="/adult-admin.php">Adults Manually</a></td></tr>                      
+                  </table></td></tr>                  
+          <tr><td class="leftBlock"><B> Help: </B> </td></tr>                 
+          <tr><td class="leftBlock" NOWRAP valign="middle"><table border="0">
+          <tr><td valign="middle"><img src="/images/question.GIF" border="0"/></td>                           
+              <td valign="middle"><a href="/refs/Reg_Assistant_Manual.pdf">HOW TO Manual</a></td></tr>                    
+          </table></td></tr>                
+        </table></td></tr>
+      </table>
+    </td>
+
+    <td width="10px"></td>
+
+    <td class="secondaryContent">
+        
+      <!--START Healthcodex date picker --><script type="text/javascript" src="lib/datepick.js"></script>
+      <form name=saveform action=/student-admin.php method=post><input type=hidden name=student_id value=29196>
+      <table>
+       <tr><td colspan=2><BR><font size="+1">Modify Student <B>Someone Else</B> ID:29196</font><BR><BR></td></tr>
+       <tr><td valign=top align=right>First Name:</td><td><input type=text name=first_name size=30 value="Someone"></td></tr>
+       <tr><td valign=top align=right>Last Name:</td><td><input type=text name=last_name size=30 value="Else"></td></tr>
+       <tr><td valign=top align=right>Street Address:</td><td><input type=text name=street size=40 value=""></td></tr>
+       <tr><td align="right">City:</td><td><input type=text name=city SIZE=40 MAXLENGTH=48 onkeypress="return noenter()" value="Los Alamos"></td></tr>
+       <tr><td align="right">State:</td>
+           <td><select name=msn_state>
+               <option value=0>Select One
+               <option value=1>Non US
+               <option value=2>Alaska
+               <option value=3>Arizona
+               <option value=4>Arkansas
+               <option value=5>California
+               <option value=6>Colorado
+               <option value=7>Connecticut
+               <option value=8>Delaware
+               <option value=9>District Of Columbia
+               <option value=10>Florida
+               <option value=11>Georgia
+               <option value=12>Hawaii
+               <option value=13>Idaho
+               <option value=14>Illinois
+               <option value=15>Indiana
+               <option value=16>Iowa
+               <option value=17>Kansas
+               <option value=18>Kentucky
+               <option value=19>Louisiana
+               <option value=20>Maine
+               <option value=21>Maryland
+               <option value=22>Massachusetts
+               <option value=23>Michigan
+               <option value=24>Minnesota
+               <option value=25>Mississippi
+               <option value=26>Missouri
+               <option value=27>Montana
+               <option value=28>Nebraska
+               <option value=29>Nevada
+               <option value=30>New Hampshire
+               <option value=31>New Jersey
+               <option value=32 selected>New Mexico
+               <option value=33>New York
+               <option value=34>North Carolina
+               <option value=35>North Dakota
+               <option value=36>Ohio
+               <option value=37>Oklahoma
+               <option value=38>Oregon
+               <option value=39>Pennsylvania
+               <option value=40>Rhode Island
+               <option value=41>South Carolina
+               <option value=42>South Dakota
+               <option value=43>Tennessee
+               <option value=44>Texas
+               <option value=45>Utah
+               <option value=46>Vermont
+               <option value=47>Virginia
+               <option value=48>Washington
+               <option value=49>West Virginia
+               <option value=50>Wisconsin
+               <option value=51>Wyoming
+               <option value=52>Alabama
+               </select></td></tr>
+         <tr><td align="right">Zip Code:</td><td><input type=text name=zip_code onkeypress="return noenter()" value=""></td></tr>
+         <tr><td colspan=2> &nbsp; </td></tr><tr><td align="right" NOWRAP>Phone Number w/ Area Code:</td>
+             <td><input type=text name=phone onkeypress="return noenter()" value=""></td></tr>
+         <tr><td align="right">Email Address:</td>
+             <td><input type=text name=email_participant SIZE=40 MAXLENGTH=48 onkeypress="return noenter()" value=""></td></tr>
+         <tr><td align="right">Email Address of Parent:</td>
+             <td><input type=text name=email_parent SIZE=40 MAXLENGTH=48 onkeypress="return noenter()" value=""></td></tr>
+         <tr><td colspan=2> &nbsp; </td></tr><tr><td align="right" NOWRAP>Which school do you attend?</td>
+             <td><input type=text name=school SIZE=40 MAXLENGTH=48 onkeypress="return noenter()" value=""></td></tr>
+         <tr><td align="right">Grade:</td><td>
+              <select name=msn_grade><option value=0>Select your grade
+              <option value=8>8
+              <option value=9>9
+              <option value=10 selected>10
+              <option value=11>11</select></td></tr>
+        <tr><td align="right">T-Shirt Size (adult size):</td>
+            <td><select name=t_shirt_size><option value="">Select One
+                <option value="S">Small
+                <option value="M">Medium
+                <option value="L">Large
+                <option value="XL">X-Large
+                <option value="XXL">XX-Large
+                </select></td></tr>
+       <tr><td align="right">Did you Attend Last Year?</td>
+           <td><input type=checkbox name=attend_last value=1></td></tr>
+           <tr><td align="right">How will you pay the<BR> <b>$5.00</b> registration fee?</td>
+               <td><select name=payment_type>
+                   <option value=0>Select one</option>
+                   <option value=1>I will bring a check the day of the conference
+                   <option value=2>I will mail in my check.
+                   <option value=3 SELECTED>I am requesting a scholarship.
+                   <option value=4>My school is paying for me.</select></td></tr>
+       <tr><td align=right>Date Student Paid:</td>
+           <td> <input type="text" autocomplete="off" size="25" id="date_paid" name="date_paid"  value="Unknown">
+               <A href="javascript:hc_show_calendar('saveform.date_paid');" id="show_paid_calendar">
+               <img src="../images/icon_calendar.gif" alt="Show Calendar" border="0" /></A></td></tr>
+      <tr><td align=right>Date Release Form Received:</td>
+          <td> <input type="text" autocomplete="off" size="25" id="date_release_form_received" name="date_release_form_received"  value="Unknown">
+               <A href="javascript:hc_show_calendar('saveform.date_release_form_received');" id="show_release_form_calendar">
+               <img src="../images/icon_calendar.gif" alt="Show Calendar" border="0" /></A></td></tr>
+      <tr><td valign=top align="right">Notes (300 char max):</td>
+          <td><textarea name=notes cols=40 rows=5></textarea></td></tr>
+     <tr><th colspan=2><BR><input type=submit name=submit value="Cancel">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type=submit name=submit value="Save"></th></tr></table></form>
+
+       <div id="footer"> <HR> Copyright � 2009 Expanding Your Horizons Network </div>
+
+    </td></tr>
+</table>
+
+<!--Start Google Analytics Tracking code -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+        var pageTracker = _gat._getTracker("UA-9119357-2");
+        pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<!-- End Google Analytics Tracking code -->
+
+</body>
+
+</html>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+<title>Technical Career Workshops for Young Women | Expanding Your Horizons Workshop | New Mexico Network for Women in Science and Engineering </title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="Description" content="Expanding Your Horizons Workshop Goals: To increase young women's interest in and awareness of mathematics, science, and other nontraditional professions; and to provide students an opportunity to meet and form personal contacts with women working in traditionally male occupations." />
+<meta name="Keywords" content="Expanding Your Horizons, mathematics, science, other nontraditional professions, technical career workshops, Los Alamos Women in Science" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<link href="layout.css" rel="stylesheet" type="text/css" />
+<script src="rollover.js" type="text/javascript"></script>
+</head>
+<body  id="page3">
+<div class="w">
+    <div id="header2">
+    <table width="850" height="272" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="576" height="229" valign="top">&nbsp;</td>
+    <td width="192" height="226" valign="top"><script language="JavaScript1.2" type="text/javascript">
+var slideshow_width='192px' //SET IMAGE WIDTH
+var slideshow_height='226px' //SET IMAGE HEIGHT
+var pause=6000 //SET PAUSE BETWEEN SLIDE (3000=3 seconds)
+
+var fadeimages=new Array()
+//SET IMAGE PATHS. Extend or contract array as needed
+fadeimages[0]="images/frame1.jpg"
+fadeimages[1]="images/frame2.jpg"
+fadeimages[2]="images/frame3.jpg"
+fadeimages[3]="images/frame4.jpg"
+////NO need to edit beyond here/////////////
+
+var preloadedimages=new Array()
+for (p=0;p<fadeimages.length;p++){
+preloadedimages[p]=new Image()
+preloadedimages[p].src=fadeimages[p]
+}
+
+var ie4=document.all
+var dom=document.getElementById
+
+if (ie4||dom)
+document.write('<div style="position:relative;width:'+slideshow_width+';height:'+slideshow_height+';overflow:hidden"><div  id="canvas0" style="position:absolute;width:'+slideshow_width+';height:'+slideshow_height+';top:0;left:0;filter:alpha(opacity=10);-moz-opacity:10"></div><div id="canvas1" style="position:absolute;width:'+slideshow_width+';height:'+slideshow_height+';top:0;left:0;filter:alpha(opacity=10);-moz-opacity:10;visibility: hidden"></div></div>')
+else
+document.write('<img name="defaultslide" src="'+fadeimages[0]+'">')
+
+var curpos=10
+var degree=10
+var curcanvas="canvas0"
+var curimageindex=0
+var nextimageindex=1
+
+
+function fadepic(){
+if (curpos<100){
+curpos+=10
+if (tempobj.filters)
+tempobj.filters.alpha.opacity=curpos
+else if (tempobj.style.MozOpacity)
+tempobj.style.MozOpacity=curpos/101
+}
+else{
+clearInterval(dropslide)
+nextcanvas=(curcanvas=="canvas0")? "canvas0" : "canvas1"
+tempobj=ie4? eval("document.all."+nextcanvas) : document.getElementById(nextcanvas)
+tempobj.innerHTML='<img src="'+fadeimages[nextimageindex]+'">'
+nextimageindex=(nextimageindex<fadeimages.length-1)? nextimageindex+1 : 0
+var tempobj2=ie4? eval("document.all."+nextcanvas) : document.getElementById(nextcanvas)
+tempobj2.style.visibility="hidden"
+setTimeout("rotateimage()",pause)
+}
+}
+
+function rotateimage(){
+if (ie4||dom){
+resetit(curcanvas)
+var crossobj=tempobj=ie4? eval("document.all."+curcanvas) : document.getElementById(curcanvas)
+crossobj.style.zIndex++
+tempobj.style.visibility="visible"
+var temp='setInterval("fadepic()",50)'
+dropslide=eval(temp)
+curcanvas=(curcanvas=="canvas0")? "canvas1" : "canvas0"
+}
+else
+document.images.defaultslide.src=fadeimages[curimageindex]
+curimageindex=(curimageindex<fadeimages.length-1)? curimageindex+1 : 0
+}
+
+function resetit(what){
+curpos=10
+var crossobj=ie4? eval("document.all."+what) : document.getElementById(what)
+if (crossobj.filters)
+crossobj.filters.alpha.opacity=curpos
+else if (crossobj.style.MozOpacity)
+crossobj.style.MozOpacity=curpos/101
+}
+
+function startit(){
+var crossobj=ie4? eval("document.all."+curcanvas) : document.getElementById(curcanvas)
+crossobj.innerHTML='<img src="'+fadeimages[curimageindex]+'">'
+rotateimage()
+}
+
+if (ie4||dom)
+window.onload=startit
+else
+setInterval("rotateimage()",pause)
+  </script></td>
+    <td width="82" height="229" valign="top">&nbsp;</td>
+  </tr>
+ <!--#include file="includes/top-bar.inc" -->
+</table>
+<br />
+</div>
+    <div id="content">		
+       <div class="indent_main">
+   		 	<div class="col1">
+           		<div class="indent_col1">
+                    <h1>Technical Career Workshops for Young Women</h1>
+                  <h4>Donations:</h4>
+                    <ul>
+                     
+                        <div align="justify">Become a sponsor of the Northern New Mexico EYH 2016 conference.  We are currently accepting donations to help support this important event.  Donations will be used to provide scholarships for the girls, and will cover the cost of providing snacks and breakfast.  EYH aims to promote creative and innovative thinkers for the 21st century!<br />
+                          <br />
+
+Donations to the NNM EYH conference  are fully tax deductible. The event is sponsored by the Northern and Central Chapters of the New Mexico Network for Women and Science and Engineering (NMNWSE),  a non-profit registered 501(c)(3) public charity.<br /><br />
+
+Please make contribution checks to LAWIS/Expanding Your Horizons and mail them to: <br /><br />
+Karen Kelley<br />
+EYH Treasurer<br />
+P. O. Box 564<br />
+Los Alamos, NM 87544<br />
+ <br />
+ </div>
+ <h4>EYH 2016 Sponsors</h4>
+ <ul>
+   <p>New Mexico Network for Women in Science and Engineering (NMNWSE) <br />
+     Los Alamos Women in Science (LAWIS) <br />
+     City of Santa Fe, Councilor Bill Dimas for donation of the Santa Fe Community Convention Center!
+     <br />
+     LANS LLC - via CPO <br />
+     TechSource Inc <br />
+     <a href="(NHMFL), http://www.magnet.fsu.edu/">National High Magnetic Field Laboratory (NHMFL)</a><br />
+     Los Alamos National Lab (LANL) - PADSTE <br />
+     Los Alamos National Lab (LANL) - SRO<br />
+     Los Alamos National Lab (LANL)- ADEPS<br />
+     Los Alamos National Lab (LANL)- ADTIR<br />
+     Los Alamos National Lab (LANL)- ADCLES<br />
+     LANL Foundation <br />
+     Los Alamos National Bank (LANB)<br />
+     Institute of Electrical & Electronics Engineers (IEEE)<br />
+     Los Alamos National Lab - ISR, CNLS divisions <br />
+     <br />
+     Google<br />Sandia Office Supply<br />Holmans<br />
+     PlanB Networx of Espanola<br />
+     Allergy Partners of New Mexico<br /> 
+     Drs. Lahiri &amp; Mesibov, LLC, Los Alamos<br />Trader Joes of Santa Fe <br />
+     Real Burger Catering of Santa Fe <br />
+     Houdini's Kettle Corn <br />
+     <a href="http://www.rentechsolutions.com/">Rentech Computer Rentals</a><br />
+     <a href="http://www.acm.org/">ACM (Association for Computing Machinery)</a><br />
+     Teacher Pens 25<br />Intel<br />
+     Zia Credit Union<br />
+     Del Norte Credit Union<br />
+     UNM Los ALamos<br />
+     Whole Foods<br />
+     <a href="http://www.sphero.com/">Orbotix Inc, Boulder, CO</a><br />ASME<br />Garcia Strong Photography<br />AAUW of Santa Fe 
+ </p>
+ </ul>
+                  </ul>
+                 
+              </div>
+         </div>
+      </div>
+           <!--#include virtual="includes/nav.inc" --><br />
+           <div class="clear">
+             <p class="gap">&nbsp;</p>
+           </div><div class="clear"></div>
+  </div>
+    </div>
+    <!--#include virtual="includes/footer.inc" -->	 
+</div>
+</body>
+</html>

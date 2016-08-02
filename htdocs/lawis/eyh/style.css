@@ -1,0 +1,165 @@
+/* CSS Document */
+* { margin:0; padding:0;}
+
+.clear { clear:both;}
+
+html, body { height:100%; }
+body {font-size:100%; line-height:0.9em; background:#101010; text-align:center} /* NTS Sides 101010 */
+html, input, textarea
+	{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#38F545; /*#6c7d85*/
+	}	
+
+#show {
+	
+	float: right;
+	/*left: 600px;
+	top: 10px;
+	right: 10px;
+	bottom: 5px;
+	width:100px;
+	height: 50px;*/
+	margin: 100px 110px 0px 0px;
+	background-color: #CC3366;
+}
+
+
+h1{
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 0px 0px 15px 0px;
+	font-size: 14px;
+	color: #FFFFFF;
+}
+.gap {margin: 0!important;}
+.gap2 {padding: 230px 0px 0px 0px;}
+.vam{ vertical-align:middle}
+.fl{ float:left}
+.fr{ float:right}
+.tac{ text-align: center}
+.width{ width:100%}
+
+a img{ border:0px}
+img{ vertical-align:top;  }
+
+b{color:#B51FDB;} /*c6d4db*/ /*Bold text*/
+
+a{color:#B51FDB; text-decoration:underline} /*Underlined links*/
+a:hover{text-decoration:none}
+.a1{background:url(images/arrow.gif) top left no-repeat; background-position:0 3px; margin:0px; padding-left:16px; color:#edf0f2; font-weight:bold; text-decoration:none} 
+.a1:hover{ text-decoration:underline}
+
+ul{margin:0; padding:0; list-style:none;}
+ul li{background:url(images/arrow.gif) top left no-repeat; background-position:0 7px; margin:0px; padding-left:16px; padding-bottom:5px; }
+ul li a{color:#A86EDB; text-decoration:none ; line-height:1.8em} 
+ul li a:hover { text-decoration:underline; }
+
+/*header*/
+#header {font-size:0.6875em; color:#a4aaac }
+#header .logo{ margin:29px 0 0px 117px }
+#header .logo1{ margin:70px 0 0px 527px }
+#header .but{ margin:16px 0 103px 665px }
+#header .m{ margin:0px 0 0px 102px }
+#header .menu{ position:absolute; margin:50px 0 0px 0px }
+#header .but2{ position:absolute; margin:368px 0 0px 572px }
+#header .menu span a{ color:#66a7c6; text-decoration:none; background:none; padding:3px 5px 3px 5px}
+#header .menu a{
+	color:#66a7c6;
+	text-decoration:none;
+	background:url(images/arrow_header.gif) no-repeat top left;
+	background-position:0 3px;
+	margin-top: -50px;
+	padding-top: 3px;
+	padding-right: 5px;
+	padding-bottom: 3px;
+	padding-left: 8px;
+}
+#header .menu a:hover{ text-decoration: underline}
+
+/*content*/
+#content{ font-size:0.6875em; width:100%; margin: -113px 0px 0px 0px; text-align:left; background:url(images/bg_cont.gif) no-repeat bottom #0e0f10 } /* NTS color top frame, bg_cont.gif does lower frame  background:url(images/bg_cont.gif) no-repeat bottom #0e0f10 */
+#content .indent_main{padding:10px 81px 18px 81px}
+#content .indent{padding:25px 10px 23px 10px}
+#content .indent_col1{padding:15px 35px 28px 10px}
+#content .indent_col2{padding:25px 15px 28px 37px}
+#content .title{  margin-bottom:16px}
+#content .title1{  margin-bottom:30px}
+#content .title2{  margin:30px 0 16px 0}
+#content .pic_left{ float:left; margin:0px 20px 27px 0px}
+#content .pic_left1{ float:left; margin:0px 20px 0px 0px}
+#content .pic{ margin:0px 0px 21px 0px}
+#content p{ margin:0px 0px 13px 0px}
+#content .p1{ margin:13px 0px 13px 0px}
+#content .p{ margin:0px 0px 13px 0px}
+#content .txt{ font-size:1.1em; color:#6c7d85}
+#content .txt a{  color:#0f79b0; text-decoration:none}
+#content .txt a:hover{text-decoration: underline}
+#content h4{
+	color:#B51FDB; /*smaller headings */
+	font-size:12px;
+	padding-bottom:13px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#content .block{ background:url(images/bg_block.gif) repeat-x top #242424; padding:27px 20px 35px 25px} /* NTS side frame */
+.block h2{color:#CFF5B4;
+	font-size:11px;
+	padding-bottom:13px;
+	font-family: Arial, Helvetica, sans-serif;}
+	
+.block a {
+	color:#A86EDB;
+	text-decoration:none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}  
+.block a:hover {
+	color:#A86EDB;
+	text-decoration:underline;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}	
+	
+.li{ background:url(images/bg_1.gif) repeat-x top}
+
+#page1 #content .indent_col1{padding:25px 35px 0px 10px}
+#page5 #content .indent_col1{padding:25px 22px 28px 10px}
+
+/*footer*/
+#footer { color:#6c7d85; font-size:10px; background:url(images/bg_bot.gif) no-repeat top; padding:29px 30px 16px 0px;} /* NTS footer background:url(images/bg_bot.gif) */
+#footer a {color:#fff; text-decoration:underline}  
+#footer a:hover {  text-decoration:none}
+
+.h{ height:27px}
+.input{
+   	border:1px solid #1b292f; 
+	background:#FFFFFF;
+	width:122px; height:22px;
+	font-size:1em;
+	padding-left:5px;
+	margin:0 3px 0 44px
+}input{
+   	border:1px solid #2a2e31; 
+	background:#1d1e1e;
+	width:200px; height:19px;
+	font-size:1em;
+	padding-left:5px;
+	margin-bottom:7px
+}
+textarea{
+   	border:1px solid #2a2e31; 
+	background:#1d1e1e;
+	width:200px; height:73px;
+	font-size:1em;
+	padding-left:5px;
+	margin-bottom:11px;
+	overflow:auto}
+	
+	.stretch{
+   	
+	width:200px; 
+	
+	overflow:auto}
+	
+.navs{padding-top:4px;}
+
+.KT_tngtable {width:850px}

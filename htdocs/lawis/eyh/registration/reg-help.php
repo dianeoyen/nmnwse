@@ -1,0 +1,2 @@
+<p>
+If you encounter any problems with online registration, please contact <img class=intxt src="help.jpg">.  Please include the date and time, what you were trying to do, and any errors or other output that you see.  We will try to respond as soon as possible.

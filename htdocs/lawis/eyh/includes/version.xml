@@ -1,0 +1,6 @@
+<products>
+  <product name="Transaction Engine" version="3.6.5" />
+  <product name="MX Form Validation" version="3.6.5" />
+  <product name="NeXTensio3" version="3.6.5" />
+  <product name="MX Widgets" version="3.6.5" />
+</products>
