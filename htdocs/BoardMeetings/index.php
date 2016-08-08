@@ -124,10 +124,13 @@ We will not know the room for the afternoon board meeting until the day of the S
       <br>&nbsp;
    </td><td valign="top">
       <font color="#cb6940"><B>
-      10:00am, Jeanne Banks' home, Placitas
-           &nbsp;<! img src="http://nmnwse.org/Images/updated.gif" >
+      10:00am, CNM-Montoya Campus, Building K, room 212A, 4700 Morris NE, Albuquerque, NM
+           &nbsp; <img src="http://nmnwse.org/Images/updated.gif">
       </b></font>
-      <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"> <a href="mailto:NMNWSE_Board-l@list.unm.edu">Contact the Board</a> if you need directions.
+      <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> North of Montgomery between Eubank and Juan Tabo
+      <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> <a href="http://www.cnm.edu/maps-and-directory/montoya-campus/map">CNM Montoya campus webpage</a>, with maps and directions.
+      <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> A web conferencing option may be available - contact the Board for more information.
+
 <!--
       Jeanne Banks' home
            &nbsp;<! img src="http://nmnwse.org/Images/updated.gif">
