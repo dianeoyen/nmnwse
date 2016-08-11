@@ -262,7 +262,7 @@ SMLC rm 124 is a small conference room on the first floor of the SMLC (Bldg 14) 
 <font color="#cb6940"><B>FY 15-16 Agendas: (Oct 2015 - 2016 Annual Meeting) </b></font>
 </dt>
 <dd>
-<a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Action_Aug_13_16.pdf">Aug 13, 2016</a> (action items)
+<a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Agenda_Aug16.pdf">Aug 13, 2016</a>
 </dd>
 <dd>
 <a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Action_Jun_11_16.pdf">June 11, 2016</a> (action items)
