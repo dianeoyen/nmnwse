@@ -37,7 +37,8 @@ Volunteers are needed both to help with existing conferences and to get new conf
 <! -------- Fall 2016 ---------- >
 <P><img src="http://nmnwse.org/Images/button.gif">&nbsp;
   <b><font color="#cb6940"><font size="+2">Fall 2016</font></font></b>
- <br> <b><I>Note: This site will be updated as additional Fall 2016 info becomes available (anticipated ~1 Aug 2016). In the meantime, the listed contacts can update you on status.</I></b>
+<!-- <br> <b><I>Note: This site will be updated as additional Fall 2016 info becomes available. In the meantime, the listed contacts can update you on status.</I></b>
+  -->
 <!--
  <br> <b><I>Note: Conferences below are over for 2014. They will be held again in 2015, and this site will be updated when 2015 info is available (anticipated ~1 Aug 2015). The listed contacts can update you on status.</I></b>
 -->
@@ -50,8 +51,7 @@ Volunteers are needed both to help with existing conferences and to get new conf
     <font color="#cb6940" size="+1"><b>Santa Fe - fall,&nbsp; grades 5-8</b></font></a>
  <br>
             <font size="+1"><b><font color="#4b9fc3">Saturday, October 15, 2016, Santa Fe Community College, Santa Fe, NM</font></b></font>
-<img src="http://nmnwse.org/Images/updated.gif" >
-             <br><b>2015 conference was held September 19, 2015</b>
+             <!-- <br><b>2015 conference was held September 19, 2015</b> -->
              <! 2014 conference was held November 8, 2014 >
              <! 2013 Conference was held October 5, 2013 >
 <br><I>Note there will be a separate spring 2017 EYH in Santa Fe - see below.</I>
@@ -71,7 +71,7 @@ Volunteers are needed both to help with existing conferences and to get new conf
                 <tr>
                   <td valign="top"> <b>Registration:</b></td> <td colspan="2" valign="top">
 <a href="http://www.expandingyourhorizons.org/conferences/SantaFe/">http://www.expandingyourhorizons.org/conferences/SantaFe/</a>  
-               <br>(not yet updated for 2016 - anticipated late summer, 2016)
+               <br>Registration is now open!
                  </td>
                 </tr>
 <!--
@@ -105,7 +105,7 @@ Volunteers are needed both to help with existing conferences and to get new conf
                   <td valign="top"><b>Presented by:</b>
                   </td>
                   <td colspan="2" rowspan="1" valign="top">
-                    NMNWSE, STEM Santa Fe
+                    NMNWSE, AAUW of Santa Fe, and STEM Santa Fe
                   </td>
                 </tr>
                 <tr>
