@@ -43,7 +43,10 @@ most recent.
 <dl>
  <dt><b>FY Oct 2015 - Oct 2016</b>
   <dd>
-    <a href="2016Feb_min.pdf">draft Feb 2016 Minutes (Board)</a>
+    <a href="2016Jun_min.pdf">draft June 2016 Minutes (Board)</a>
+  </dd>
+  <dd>
+    <a href="2016Feb_min.pdf">Feb 2016 Minutes (Board)</a>
     and <a href="2016Feb_min_financial.pdf"> attached financial report</a>
   </dd>
   <dd>
