@@ -23,7 +23,7 @@ include("Includes/pagetop2_cbeyh.php");
 
 
 <font size="+1"><b><font color="#4b9fc3">
-  October, 2016 (exact date TBA)
+  September 30, 2016
   <br> NMSU Carlsbad
   <br> grades 7-8  <! 6-10 >
   <br> registration deadline: TBA
@@ -45,7 +45,7 @@ include("Includes/pagetop2_cbeyh.php");
     </td></tr><tr><td></td><td valign="top">
    Registration:&nbsp;</td><td valign="top">
        <a href="http://www.expandingyourhorizons.org/conferences/Carlsbad">http://www.expandingyourhorizons.org/conferences/Carlsbad</a>
-      <br>(not yet updated for 2016 - please check back in late summer)
+      <br>(not yet updated for 2016 - please check back soon)
      <! (check back ~1 Sept if get error) >
    </td>
   </tr>
@@ -77,7 +77,7 @@ include("Includes/pagetop2_cbeyh.php");
 </tbody>
 </table>
 
-<P><img src="http://nmnwse.org/Images/bl_pin.gif">&nbsp; We are targeting a Friday in October at NMSU Carlsbad for the 2016 Carlsbad EYH.  Similar to last year, we plan to have the girls bussed in to NMSU Carlsbad from the middle school. 
+<P><img src="http://nmnwse.org/Images/bl_pin.gif">&nbsp; Similar to last year, we plan to have the girls bussed in to NMSU Carlsbad from the middle school. 
 
 <P>
 Our first EYH in 2014 was a learning experience: although attendance was low, both the girls and the presenters had a lot of fun, and there were exciting mentoring and networking interactions. 

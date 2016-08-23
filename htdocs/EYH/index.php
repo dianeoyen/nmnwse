@@ -43,6 +43,63 @@ Volunteers are needed both to help with existing conferences and to get new conf
  <br> <b><I>Note: Conferences below are over for 2014. They will be held again in 2015, and this site will be updated when 2015 info is available (anticipated ~1 Aug 2015). The listed contacts can update you on status.</I></b>
 -->
 </P>
+
+
+<! -------- Carlsbad EYH ---------- >
+<P>
+<img src="http://nmnwse.org/Images/r_hand.gif"> <a href="http://nmnwse.org/carlsbad-eyh/">
+    <font color="#cb6940" size="+1"><b>Carlsbad,&nbsp; grades 7-8</b></font></a>&nbsp;&nbsp;<! img src="http://nmnwse.org/Images/new.gif">
+ <br>
+        <font size="+1"><b><font color="#4b9fc3">Friday, September 30, 2016, NMSU Carlsbad, Carlsbad, NM</font></b></font>
+
+
+<!--
+<br><b> We are targeting a Friday in October for the 2016 conference.</b>
+<br><b> 2015 conference was held October 2, 2015.</b>
+-->
+<!--
+             <br><b>Further 2016 conference information anticipated late summer, 2016</b>
+<br><b> 2014 conference was held October 25, 2014.</b>
+&nbsp;<! img src="http://nmnwse.org/Images/new.gif" >
+-->
+            <table border="0" cellpadding="1" cellspacing="1">
+              <tbody>
+                <tr>
+                  <td valign="top"> <b>Contacts:</b></td>
+                  <td valign="top"> Cassie Marrs&nbsp;</td>
+                  <td valign="top"> <a href="mailto:marrs.cassie@gmail.com?Subject=Carlsbad EYH">marrs.cassie@gmail.com</a>, (956) 242-7865<! a google phone number ></td>  
+                </tr>
+                <tr>
+                  <td valign="top"> <b>Web Page:</b></td>
+                  <td valign="top"> Volunteers:</td>
+                  <td valign="top"> <a href="http://nmnwse.org/carlsbad-eyh">http://nmnwse.org/carlsbad-eyh</a></td>
+                </tr>
+                <tr>
+                  <td valign="top"> <b></b></td>
+                  <td valign="top"> Registration:</td>
+                  <td valign="top"> <a href="http://www.expandingyourhorizons.org/conferences/Carlsbad">http://www.expandingyourhorizons.org/conferences/Carlsbad</a>
+               <br>(not yet updated for 2016 - anticipated late summer, 2016)</td>
+                </tr>
+                <tr>
+                  <td valign="top"> <b>Mailing<br> address:</b></td>
+                  <td colspan="2" valign="top"> EYH - Carlsbad<br>
+                         Attn: Lisa Chappa<br>
+                         1101 Callaway Drive No. 3303<br>
+                         Carlsbad, NM  88220
+                  </td>
+                </tr>
+                <tr>
+                  <td valign="top"><b>Co-Hosts:</b>
+                  </td>
+                  <td colspan="2" rowspan="1" valign="top">
+                    NMSU Carlsbad, AAUW Carlsbad
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+             <br>
+
+
 <! -------- Santa Fe EYH ---------- >
 <P>
 <img src="http://nmnwse.org/Images/r_hand.gif">
@@ -97,7 +154,7 @@ Volunteers are needed both to help with existing conferences and to get new conf
                 <tr>
                   <td valign="top"> <b>Mailing<br> address:</b></td>
                   <td colspan="2" valign="top"> EYH - Santa Fe (Fall) <br>
-                         PO Box 33103 <img src="http://nmnwse.org/Images/updated.gif">  <br>
+                         PO Box 33103 <!-- <img src="http://nmnwse.org/Images/updated.gif"> -->  <br>
                          Santa Fe, NM 87594
                   </td>
                 </tr>
@@ -119,56 +176,6 @@ Volunteers are needed both to help with existing conferences and to get new conf
             </table>
             <br>
 
-
-<! -------- Carlsbad EYH ---------- >
-<P>
-<img src="http://nmnwse.org/Images/r_hand.gif"> <a href="http://nmnwse.org/carlsbad-eyh/">
-    <font color="#cb6940" size="+1"><b>Carlsbad,&nbsp; grades 7-8</b></font></a>&nbsp;&nbsp;<! img src="http://nmnwse.org/Images/new.gif">
- <br>
-            <font size="+1"><b><font color="#4b9fc3">Fall, 2016, NMSU Carlsbad, Carlsbad, NM</font></b></font>
-<br><b> We are targeting a Friday in October for the 2016 conference.</b>
-<br><b> 2015 conference was held October 2, 2015.</b>
-<!--
-             <br><b>Further 2016 conference information anticipated late summer, 2016</b>
-<br><b> 2014 conference was held October 25, 2014.</b>
-&nbsp;<! img src="http://nmnwse.org/Images/new.gif" >
--->
-            <table border="0" cellpadding="1" cellspacing="1">
-              <tbody>
-                <tr>
-                  <td valign="top"> <b>Contacts:</b></td>
-                  <td valign="top"> Cassie Marrs&nbsp;</td>
-                  <td valign="top"> <a href="mailto:marrs.cassie@gmail.com?Subject=Carlsbad EYH">marrs.cassie@gmail.com</a>, (956) 242-7865<! a google phone number ></td>  
-                </tr>
-                <tr>
-                  <td valign="top"> <b>Web Page:</b></td>
-                  <td valign="top"> Volunteers:</td>
-                  <td valign="top"> <a href="http://nmnwse.org/carlsbad-eyh">http://nmnwse.org/carlsbad-eyh</a></td>
-                </tr>
-                <tr>
-                  <td valign="top"> <b></b></td>
-                  <td valign="top"> Registration:</td>
-                  <td valign="top"> <a href="http://www.expandingyourhorizons.org/conferences/Carlsbad">http://www.expandingyourhorizons.org/conferences/Carlsbad</a>
-               <br>(not yet updated for 2016 - anticipated late summer, 2016)</td>
-                </tr>
-                <tr>
-                  <td valign="top"> <b>Mailing<br> address:</b></td>
-                  <td colspan="2" valign="top"> EYH - Carlsbad<br>
-                         Attn: Lisa Chappa<br>
-                         1101 Callaway Drive No. 3303<br>
-                         Carlsbad, NM  88220
-                  </td>
-                </tr>
-                <tr>
-                  <td valign="top"><b>Co-Hosts:</b>
-                  </td>
-                  <td colspan="2" rowspan="1" valign="top">
-                    NMSU Carlsbad, AAUW Carlsbad
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-             <br>
 
 
 <! -------- end Fall 2016 ---------- >
