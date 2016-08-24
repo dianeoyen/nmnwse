@@ -28,6 +28,11 @@ Blurb
 <br>&nbsp;
 -->
 
+<! Supercomputing Challenge >
+<?php
+   include("inNews/201608_news.htm");
+?>
+
 <h2><img src="http://nmnwse.org/Images/button.gif"> <font color="#cb6940">NMNWSE Has New Mailing Address</font>
 </h2>
 NMNWSE's new address is:<br><b>
@@ -93,7 +98,7 @@ Please see the <a href="http://nmnwse.org/central">Central Chapter Webpage</a> f
         <td>&nbsp;</td>
         <td valign="center"><font size="4">
           <a href="News/NMNWSE_newsletter_201508.pdf"><B><font color="#cb6940">August 2015 NMNWSE Newsletter</b></font></a></font>
-&nbsp;<img src="http://nmnwse.org/Images/new2.gif">
+&nbsp;
           <br><font size="1">(625 KB pdf file)</font><br>&nbsp;
         </td>
       </tr>
