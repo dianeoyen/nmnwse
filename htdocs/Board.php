@@ -48,28 +48,33 @@ include("Includes/pagetop2_nmnwse.php");
   <tr>
     <td valign="top"> <font color="#4b9fc3"><b>President</b></font> </td>
     <td valign="top"> Rebecca Galves</td>  <! Galves elected as Pres Oct 15 >  
-    <td valign="top"> Las Cruces</td> 
+    <td valign="top"> Las Cruces</td>
+    <td valign="top"> elected as Pres 2015</td>
   </tr>
   <tr>
     <td valign="top"> <font color="#4b9fc3"><b>Past President</b></font> </td>
     <td valign="top"> Phyllis Baca</td>
       <! Baca elected as VP Oct 13, served as Pres Oct 2014-2015 >
     <td valign="top"> Santa Fe  </td>
+    <td valign="top"> elected as VP 2013</td>
   </tr>
   <tr>
     <td valign="top"> <font color="#4b9fc3"><b>VP/Pres. Elect</b></font> </td>
     <td valign="top"> Sarah Vance </td> <! Vance elected as VP Oct 15 >  
-    <td valign="top"> Albuquerque</td> 
+    <td valign="top"> Albuquerque   </td> 
+    <td valign="top"> elected as VP 2015</td>
   </tr>
   <tr>
     <td valign="top"> <font color="#4b9fc3"><b>Treasurer</b></font> </td>
     <td valign="top"> Jeanne Banks</td>  <! elected Oct 14 >
     <td valign="top"> Placitas</td>
+    <td valign="top"> elected 2014</td>
   </tr>
   <tr>
     <td valign="top"> <font color="#4b9fc3"><b>Secretary</b></font> </td>
     <td valign="top"> Barbara Torres</td>  <! elected Oct 15 >
     <td valign="top"> Albuquerque<br>&nbsp;</td>
+    <td valign="top"> elected 2015</td>
   </tr>
   <tr>
     <td colspan="4" valign="middle">
@@ -86,11 +91,12 @@ include("Includes/pagetop2_nmnwse.php");
     <td valign="top"> Jan Frigo</td>
     <td valign="top"> Los Alamos </td>
   </tr>
-  <tr>
+<!--  <tr>
     <td valign="top"> <font color="#4b9fc3"><b>Eastern</b></font> </td>
     <td valign="top"> inactive </td>
     <td valign="top"> <i>contact the board if interest in making active</i></td>
   </tr>
+-->
   <tr>
     <td valign="top"> <font color="#4b9fc3"><b>Southern</b></font>  </td>
     <td valign="top"> Rebecca Galves  </td>
@@ -103,26 +109,56 @@ include("Includes/pagetop2_nmnwse.php");
   </tr>
   <tr>
     <td colspan="4" valign="top">
-        <table border="0" cellspacing="0" cellpadding="3">
+        <table border="0" cellspacing="0" cellpadding="0">
           <tbody>
           <tr>
               <td valign="top">
-                  <font color="#4b9fc3"><b>Oct 2014-Oct 2016</b></font>
-                  <br>&nbsp;&nbsp; Karmen Lappo <! new to board Oct 2014 >
-                  <br>&nbsp;&nbsp; Tinka Gammel <! on board since ~2000 >
-		  <! Barbara Torres, became secretary Oct 15 >
-              </td>
-              <td valign="top"> &nbsp; </td>
+                <font color="#4b9fc3"><b>Oct 2014-Oct 2016</b></font> </td>
+	      <td valign="top">
+              <td valign="top"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
               <td valign="top">
-                  <font color="#4b9fc3"><b>Oct 2015-Oct 2017</b></font>
-                  <br>&nbsp;&nbsp; Dana Roberson <! since Oct 13>
-                  <br>&nbsp;&nbsp; Diane Albert <! elected Oct 15>
-                  <br>&nbsp;&nbsp; Rajaa Shindi <! elected Oct 15>
-                  <br>&nbsp;&nbsp; Cheri Burch <! elected Oct 15>
-                  <br>&nbsp;&nbsp; Claudia Barreto <! elected Oct 15>
-                  <br>&nbsp;&nbsp; Lina Germann <! appointed Oct 15>
-              </td>
-          </tr>
+                  <font color="#4b9fc3"><b>Oct 2015-Oct 2017</b></font> </td>
+	  <tr>
+	    <td valign="top"> Karmen Lappo </td>
+	    <td valign="top"> since 2014 </td> <! new to board Oct 2014 >
+              <td valign="top"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
+	    <td valign="top"> Dana Roberson </td>
+	    <td valign="top"> since 2013 </td>
+	  </tr>
+	  <tr>
+	    <td valign="top"> Tinka Gammel </td>
+	    <td valign="top"> since 2000 </td> <! on board since ~2000 >
+            <td valign="top"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
+	    <td valign="top"> Diane Albert </td>
+	    <td valign="top"> since 2015 </td>
+	  <tr>
+	    <td valign="top">  </td>
+	    <td valign="top">  </td>
+            <td valign="top"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
+	    <td valign="top"> Rajaa Shindi </td>
+	    <td valign="top"> since 2015 </td>
+	  </tr>
+	  <tr>
+	    <td valign="top">  </td>
+	    <td valign="top">  </td>
+            <td valign="top"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
+	    <td valign="top"> Cheri Burch </td>
+	    <td valign="top"> since 2015 </td>
+	  </tr>
+	  <tr>
+	    <td valign="top">  </td>
+	    <td valign="top">  </td>
+            <td valign="top"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
+	    <td valign="top"> Claudia Barreto </td>
+	    <td valign="top"> since 2015 </td>
+	  </tr>
+	  <tr>
+	    <td valign="top">  </td>
+	    <td valign="top">  </td>
+            <td valign="top"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
+	    <td valign="top"> Lina Germann </td>
+	    <td valign="top"> since 2015 </td>
+	  </tr>
 <!--
               <td valign="top">
                   <font color="#4b9fc3"><b>Oct 2014-Oct 2016</b></font>
