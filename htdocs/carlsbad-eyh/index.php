@@ -25,7 +25,7 @@ include("Includes/pagetop2_cbeyh.php");
 <font size="+1"><b><font color="#4b9fc3">
   September 30, 2016
   <br> NMSU Carlsbad
-  <br> grades 7-8  <! 6-10 >
+  <br> grade 6
   <br> registration deadline: TBA
 </font></b></font>
 
@@ -35,7 +35,7 @@ include("Includes/pagetop2_cbeyh.php");
   <tr>
       <td valign="top"> <b>Contacts:</b></td>
       <td valign="top"> Cassie Marrs&nbsp; &nbsp;</td>
-      <td valign="top"> <a href="mailto:marrs.cassie@gmail.com?Subject=Carlsbad EYH">marrs.cassie@gmail.com</a>, (956) 242-7865 </td>
+      <td valign="top"> <a href="mailto:marrs.cassie@gmail.com?Subject=Carlsbad EYH">marrs.cassie@gmail.com</a>, (575) 361-4136 </td>
   </tr>
   <tr>
       <td valign="top"> <b>Web Page:</b></td>
@@ -53,8 +53,8 @@ include("Includes/pagetop2_cbeyh.php");
       <td valign="top"> <b>Mailing<br> address:</b></td>
       <td colspan="2" valign="top">
            Carlsbad EYH
-           <br>Attn: Lisa Chappa
-           <br>1101 Callaway Drive No. 3303
+           <br>Attn: Cassie Marrs
+           <br>712 Masters Drive
            <br>Carlsbad, NM 88220
       </td>
   </tr>
@@ -82,7 +82,7 @@ include("Includes/pagetop2_cbeyh.php");
 <P>
 Our first EYH in 2014 was a learning experience: although attendance was low, both the girls and the presenters had a lot of fun, and there were exciting mentoring and networking interactions. 
 Building on that experience, in 2015 we had 50 girls bussed in to the college from the 6th grade academy.
-There were 15 workshops offered in 3 sessions followed by a lunch and guest speaker who is a Physician.  The girls loved the opportunity! NMSU Carlsbad provides a wonderful environment, and we had many incredible volunteers, so we plan to continue with the model we used in 2015 as we work to improve the experience for the young women who attend our conference.
+There were 15 workshops offered in 3 sessions followed by a lunch and guest speaker who is a physician.  The girls loved the opportunity! NMSU Carlsbad provides a wonderful environment, and we had many incredible volunteers, so we plan to continue with the model we used in 2015 as we work to improve the experience for the young women who attend our conference.
 
 <P><img src="http://nmnwse.org/Images/bl_pin.gif">&nbsp; 
 We are actively looking for 2016 sponsors.

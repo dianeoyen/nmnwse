@@ -99,7 +99,7 @@ The Santa Fe-fall planning committee is actively seeking presenters and other vo
 <img src="http://nmnwse.org/Images/bl_pin.gif">To register as an adult or student attendee when registration opens (anticipated early Sep 2016), please go to:
 <br><img src="http://nmnwse.org/Images/spacer.gif" height=15 width=20><img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;<a href="http://www.expandingyourhorizons.org/conferences/SantaFe/">http://www.expandingyourhorizons.org/conferences/SantaFe</a>
 
-<br><img src="http://nmnwse.org/Images/bl_pin.gif">To sign up as an adult volunteer (including group guide) or as a High School girl, please go to 
+<br><img src="http://nmnwse.org/Images/bl_pin.gif">To sign up as an adult volunteer (including group guide), please go to 
 <br><img src="http://nmnwse.org/Images/spacer.gif" height=15 width=20><img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;<a href="http://nmnwse.org/sfeyh/volunteer">http://nmnwse.org/sfeyh/volunteer</a>
 <!--
 <br><b>Note:</b> now single form for general volunteers, high school girls, and group guides.
