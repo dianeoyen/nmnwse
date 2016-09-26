@@ -75,7 +75,9 @@ include("../Includes/pagetop2_nmnwse.php");
                   <td valign="top"><b>Presented by:</b>
                   </td>
                   <td colspan="2" rowspan="1" valign="top">
-                    NMNWSE, AAUW of Santa Fe, and STEM Santa Fe
+                    NMNWSE,
+		    <a href="https://santafe-nm.aauw.net/">AAUW of Santa Fe</a>,
+		    and <a href="http://www.stemsantafe.org">STEM Santa Fe</a>
                   </td>
                 </tr>
                 <tr>

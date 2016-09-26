@@ -115,6 +115,15 @@ or call in your vote to Tinka at 505-690-1318 by 9am Saturday.
 <td valign="top" align="center" bgcolor="#ffccff"><input type="radio" name="Balizan" value="At-Large"> </td>
 <td valign="top" align="center"><input type="radio" name="Balizan" value="No"> </td>
 </tr>
+<tr>
+<td valign="top"><sup>*</sup>Tinka Gammel</td>
+<td valign="top">Central</td>
+<td valign="top" align="center">&nbsp;</td>
+<td valign="top" align="center">&nbsp;</td>
+<td valign="top" align="center">&nbsp;</td>
+<td valign="top" align="center" bgcolor="#ffccff"><input type="radio" name="Gammel" value="At-Large"> </td>
+<td valign="top" align="center"><input type="radio" name="Gammel" value="No"> </td>
+</tr>
 <!--
 <tr>
 <td valign="top"><sup>*</sup>Cheri Burch</td>

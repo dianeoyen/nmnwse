@@ -111,6 +111,11 @@ Jeanne retired from Northrop Grumman after a 34+ year career as a program manage
 Sarah Balizan is a Las Cruces native who attended NMSU for a bachelors of Biology/Biochemistry and a Masters of Science in Biology and Biotechnology. She worked on research and development in genetics research from squid to algae, before changing careers to education. She has been at Dona Ana Community College (DACC) for 6 yrs teaching Anatomy & Physiology 2 and Cellular and Organismal Biology. She oversees and developed Anatomy Academy for grade school education and outreach of anatomy through current DACC students teaching 5th graders. She is also co-chair of the DACC STEM student group. She loves teaching along with running and outdoor adventures. Fun tidbit, she has a rescue mix (kind way of saying mutt) who is named Liger. Liger believes she is a 75lb lapdog and will be taking her therapy dog test in December.
 <br><img src="http://nmnwse.org/Images/bl_pin.gif"><I> Southern Chapter Member.</I>
 
+<P>
+<img src="http://nmnwse.org/Images/button.gif">&nbsp;<font size="+1"><B>Tinka Gammel</b></font> <br>
+Tinka is a theoretical Condensed Matter Physicist doing Equation of State work at Los Alamos National Lab. 
+She has served as NMNWSE Communications Chair and Board Member since about 2000. She moved the NMNWSE Careers book from hardcopy to the web, created the first "NMNWSE Careers CD" for the NMNWSE EYH conferences, and has overseen several revisions to the NMNWSE Careers Book and Careers CD, and served for 15 years as the NMNWSE webmaster - or more accurately, "web-amateur" &#x263A;.
+<br><img src="http://nmnwse.org/Images/bl_pin.gif"><I> Current NMNWSE Communications Chair. NMNWSE Central Chapter. Member since 1996.</I>
 
 <! ================================================== >
 <! continuing and departing >
@@ -144,10 +149,10 @@ Continuing chapter reps - not elected statewide so don't list
 
 <P><img src="http://nmnwse.org/Images/gr_dot.gif" height=10>
 <b>Departing Board members running for re-election:</b>
-
+<br>&nbsp;&nbsp;&nbsp; Tinka Gammel, Central Chapter
+  
 <P><img src="http://nmnwse.org/Images/gr_dot.gif" height=10>
 <b>Departing Board members not running for re-election:</b>
-<br>&nbsp;&nbsp;&nbsp; Tinka Gammel, Central Chapter
 <br>&nbsp;&nbsp;&nbsp; Karmen Lappo, Central Chapter
 
 
