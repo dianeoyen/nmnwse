@@ -4,7 +4,7 @@
 <?php
 include("../../../Includes/pagetop1_nmnwse.php");
 ?>
-2015 NMNWSE ELECTIONS FOR Oct 2016-Oct 2017 BOARD
+2016 NMNWSE ELECTIONS FOR Oct 2016-Oct 2017 BOARD
 <br>Notes and Instructions
 <?php
 include("../../../Includes/pagetop2_nmnwse.php");
@@ -50,7 +50,7 @@ If you have any questions on the elections process, please contact the Elections
 <br>For each open position (1 Pres, 1 VP, 1 Treas, up to 5 2-yr At-Large), you may vote for a declared candidate listed on the ballot, or a write-in candidtate of your choice - please contact the Elections chair if you need space for more write-ins.  You may vote for a given person only once, and you must select a choice for each declared candidate (including not voting for them), to insure you did not forget to make a choice. You may vote for only 1 person for VP, only 1 person for Secretary, and up to 5 people for At-Large, where "person" is to be interpreted as declared or write-in candidate. Voting for more than allowed will invalidate your ballot.
 
 <P><B>Required fields on the online voting form:</b>
-<br>To insure you did not accidentally skip casting one of your votes, you must select an option (which includes 'no vote') for each declared candidate before the form will be accepted. If votes are missing, it will send you to an error page, which will allow you to go back and finish the form. If the form is successfully submitted, you will be sent to a 'thank you for voting' page, which will forward you to the main AM2015 page after a few seconds.
+<br>To insure you did not accidentally skip casting one of your votes, you must select an option (which includes 'no vote') for each declared candidate before the form will be accepted. If votes are missing, it will send you to an error page, which will allow you to go back and finish the form. If the form is successfully submitted, you will be sent to a 'thank you for voting' page, which will forward you to the main AM2016 page after a few seconds.
 
 <P><B>How you know your vote was sucessfully submitted/received:</b>
 <br>If the online  the form is successfully submitted, you will be sent to a 'thank you for voting' page,

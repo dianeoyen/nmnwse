@@ -54,11 +54,11 @@ The NMNWSE Board's only position on the candidates is that we feel all the decla
 <P>
 <img src="http://nmnwse.org/Images/button.gif">&nbsp;<font size="+1"><B>Rebecca (Becca) Galves</b></font> 
 <br>
-<! 2015 profile >
-Rebecca Galves is a motivated leader in outreach and broadening the participation of women and underrepresented minorities in computing, science, technology, engineering, and mathematics (STEM). With degrees in Information Systems, Geography, and Business, Rebecca is responsible for extensive program development, management, and expansion of initiatives across New Mexico.  
-In her five-year tenure at NMSU, Rebecca and her team of outstanding young women have provided out-of-school computing and STEM programming to over 14,000 K - 12 students throughout the state, such as the very successful Young Women in Computing (YWiC) summer camps.  
-Rebecca is also the state lead for the NM Girls Collaborative, and coordinates or is otherwise involved in several other initiatives to empower, celebrate, and acknowledge the work of professional and young women, following her passion to bring together and support women in their chosen fields, through collaboration, leveraging of resources, and community involvement. 
-<br><img src="http://nmnwse.org/Images/r_hand.gif"><img src="http://nmnwse.org/Images/spacer.gif" height=18 width=1>&nbsp;<a href="NMNWSE_2015_elections_Rebecca_Galves_profile.pdf">Click here for Becca's full profile.</a>
+Rebecca Galves is a motivated leader in outreach and broadening the participation of women and underrepresented minorities in computing, science, technology, engineering, and mathematics (STEM). With degrees in Information Systems, Geography, and Business, Rebecca is responsible for extensive program development, management, and expansion of initiatives across New Mexico.
+<p>
+Currently serving as the Program Manager for the Center for Smart Grid Technologies with the NMSU Department of Computer Science, Rebecca and the outstanding Outreach team have provided out-of-school computing and STEM programming to over 16,000 K-12 students throughout the state.  Rebecca collaborates with many organizations to empower, celebrate, and acknowledge the work of professional and young women, following her passion to bring together and support all people in their chosen fields, through collaboration, leveraging of resources, and community involvement.
+
+<br><img src="http://nmnwse.org/Images/r_hand.gif"><img src="http://nmnwse.org/Images/spacer.gif" height=18 width=1>&nbsp;<a href="NMNWSE_2016_elections_Rebecca_Galves_profile.pdf">Click here for Becca's full profile.</a>
 <br><img src="http://nmnwse.org/Images/bl_pin.gif"><I> Southern Chapter Member, Las Cruces and NMNWSE State EYH Chairs</I>
 
 <! ------------------------------------------------------------ >
