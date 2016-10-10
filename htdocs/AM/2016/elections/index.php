@@ -32,10 +32,10 @@ We currently have NUMBER new candidates&nbsp;<img src="http://nmnwse.org/Images/
 <!--
        ONLINE VOTING CLOSED
 -->
-       DRAFT - VOTING NOT YET OPEN
 <!--
-       <input type="submit" name="Submit1" value=" SUBMIT VOTE">
+       DRAFT - VOTING NOT YET OPEN
 -->
+       <input type="submit" name="Submit1" value=" SUBMIT VOTE">
        <img src="http://nmnwse.org/Images/button.gif" height="12">
     </B> </font>
 <!--
@@ -62,7 +62,7 @@ or call in your vote to Tinka at 505-690-1318 by 9am Saturday.
 
 <P>
 <B>Your Votes:</B>
-<br>You may vote for a given person only once, and must select a choice for each declared candidate (including not voting for them). You may vote for only 1 person for each of President, Vice-President, and Secretary, and up to 5 people for At-Large. Write-in's, as well as volunteers to be "late additions to slate", are very welcome!
+<br>You may vote for a given person only once, and must select a choice for each declared candidate (including not voting for them). You may vote for only 1 person for each of President, Vice-President, and Treasurer, and up to 5 people for At-Large. Write-in's, as well as volunteers to be "late additions to slate", are very welcome!
 <P>
 <table border=1 cellpadding=5>
 <tr><td colspan=7 valign="center" align="center" bgcolor="#ccccff">Board Positions</td><tr>
@@ -247,13 +247,13 @@ or call in your vote to Tinka at 505-690-1318 by 9am Saturday.
     </td>
     <td align="center"> <font size="+2" color="red"><B>  <! green=#33CC00 >
        <img src="http://nmnwse.org/Images/button.gif" height="12">
-       DRAFT - VOTING NOT YET OPEN
+       <!--DRAFT - VOTING NOT YET OPEN-->
+       <input type="submit" name="Submit1" value=" SUBMIT VOTE">
        <img src="http://nmnwse.org/Images/button.gif" height="12">
        </B> </font>
 <!-- <br> see top of page for call-in instructions. -->
-<!--
-       <input type="submit" name="Submit1" value=" SUBMIT VOTE">
-        DRAFT - VOTING NOT YET OPEN
+
+<!--        DRAFT - VOTING NOT YET OPEN
        <! VOTING CLOSED ><br> submit button removed
       <br>You may vote in person at the Annual Meeting
       <br> or by call-in, see <a href="notes.php">notes</a>.
@@ -269,10 +269,10 @@ or call in your vote to Tinka at 505-690-1318 by 9am Saturday.
 
 <!--SCRIPT CONFIGURATION SECTION -->
 <input type="hidden" name="required"
-value="Person,Member,Galves,Vance,Torres,Shindi,Burch,Roberson,Barreto"> 
+value="Person,Member,Galves,Banks,Balizan,Gammel"> 
 <input type="hidden" name="data_order"
-value="Person,Member,Galves,Vance,Torres,Shindi,Burch,Roberson,Barreto,WriteInName1,WriteInPos1,WriteInName2,WriteInPos2,WriteInName3,WriteInPos3,WriteInName4,WriteInPos4,Comments">
-<input type="hidden" name="submit_to" value=" ">  <! insert valid later > 
+value="Person,Member,Galves,Banks,Balizan,Gammel,WriteInName1,WriteInPos1,WriteInName2,WriteInPos2,WriteInName3,WriteInPos3,WriteInName4,WriteInPos4,Comments">
+<input type="hidden" name="submit_to" value="webmaster@nmnwse.org">  <! insert valid later > 
 <input type="hidden" name="form_id" value="Oct 2016 NMNWSE Board Elections - Online Vote"> 
 <input type="hidden" name="ok_url" value="http://nmnwse.org/AM/2016/elections/vote_thanks.htm"> 
 <input type="hidden" name="not_ok_url" value="http://nmnwse.org/AM/2016/elections/vote_tryagain.htm"> 

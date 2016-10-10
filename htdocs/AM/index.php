@@ -70,10 +70,10 @@ Our Annual Meeting and Technical Symposium, held each fall, provides an opportun
   <img src="http://nmnwse.org/Images/r_hand.gif"><img src="http://nmnwse.org/Images/spacer.gif" width="1" height="18">&nbsp;<a href="http://nmnwse.org/AM/2016/elections/">Online Voting</a> is now closed - see elections page for call-in instructions. <! open now through 20:00 MST Thursday Oct 22.&nbsp; ><! img src="http://nmnwse.org/Images/updated.gif">
 <br>
 -->
-<!--
-  <img src="http://nmnwse.org/Images/r_hand.gif"><img src="http://nmnwse.org/Images/spacer.gif" width="1" height="18">&nbsp;<a href="http://nmnwse.org/AM/2014/elections/">Online Voting</a> closed - see <a href="http://nmnwse.org/AM/2014/elections/">form</a> for call in instructions. <! open now through 20:00 MST Oct 16.>&nbsp;<img src="http://nmnwse.org/Images/updated.gif">
+
+  <img src="http://nmnwse.org/Images/r_hand.gif"><img src="http://nmnwse.org/Images/spacer.gif" width="1" height="18">&nbsp;<a href="http://nmnwse.org/AM/2016/elections/">Online Voting</a> <!-- closed - see <a href="http://nmnwse.org/AM/2014/elections/">form</a> for call in instructions. --> open now through 20:00 MST Oct 20. &nbsp;<img src="http://nmnwse.org/Images/updated.gif">
 <br>
--->
+
 <img src="http://nmnwse.org/Images/bl_pin.gif"><img src="http://nmnwse.org/Images/spacer.gif" width="1" height="18">&nbsp;Please contact the <a href="mailto:NMNWSE_Board-l@list.unm.edu ?Subject=2014 NMNWSE Board Elections">NMNWSE Board</a> if you would be interested in helping with Board activities.
 </dd>
 </dt>
