@@ -29,19 +29,20 @@ We currently have NUMBER new candidates&nbsp;<img src="http://nmnwse.org/Images/
 <br>
 <font size="+3" color="red"> <! #33CC00 ><B>
        <img src="http://nmnwse.org/Images/button.gif" height="12">
-<!--
+
        ONLINE VOTING CLOSED
--->
+
 <!--
        DRAFT - VOTING NOT YET OPEN
--->
+  -->
+<!--
        <input type="submit" name="Submit1" value=" SUBMIT VOTE">
        <img src="http://nmnwse.org/Images/button.gif" height="12">
-    </B> </font>
-<!--
-<br> You can still vote in person at the annual meeting,
-or call in your vote to Tinka at 505-690-1318 by 9am Saturday.
--->
+-->    </B> </font>
+
+
+<br> You can still vote in person at the annual meeting.
+
 </center>
 <center>
 <IMG SRC="http://nmnwse.org/Images/linefrill.gif" ALT="-----------" HEIGHT=5 WIDTH=30%>
@@ -248,17 +249,21 @@ or call in your vote to Tinka at 505-690-1318 by 9am Saturday.
     <td align="center"> <font size="+2" color="red"><B>  <! green=#33CC00 >
        <img src="http://nmnwse.org/Images/button.gif" height="12">
        <!--DRAFT - VOTING NOT YET OPEN-->
+<!--
        <input type="submit" name="Submit1" value=" SUBMIT VOTE">
        <img src="http://nmnwse.org/Images/button.gif" height="12">
+-->
        </B> </font>
 <!-- <br> see top of page for call-in instructions. -->
 
 <!--        DRAFT - VOTING NOT YET OPEN
-       <! VOTING CLOSED ><br> submit button removed
+-->
+       VOTING CLOSED <br> submit button removed
       <br>You may vote in person at the Annual Meeting
-      <br> or by call-in, see <a href="notes.php">notes</a>.
-    <br>VOTING NOT YET OPEN <br> SUBMIT BUTTON FOR TEST PURPOSES ONLY
-       VOTING NOT YET OPEN<br> submit button removed
+<!-- 
+     <br> or by call-in, see <a href="notes.php">notes</a>.
+     <br>VOTING NOT YET OPEN <br> SUBMIT BUTTON FOR TEST PURPOSES ONLY
+     VOTING NOT YET OPEN<br> submit button removed
 -->
 </td>
     <td align="right" valign="top"> <font size="-1" face="Arial, Helvetica">
