@@ -60,8 +60,7 @@ most recent.
 <dl>
  <dt><b>FY Oct 2014 - Oct 2015</b>
   <dd>
-    <! a href="20151024Minutes_Annual_draft.pdf" > <! /a >
-    <! draft > Oct 2015 Minutes (Annual) - not yet available
+    <a href="2015Min_Annual.pdf">Oct 2015 Minutes (Annual) </a>
   </dd>
   <dd>
     <a href="20150613Min_draft.docx">draft Jun 2015 Minutes (Board)</a>
