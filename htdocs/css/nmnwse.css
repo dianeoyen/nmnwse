@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #cb6940;
+    size: 150%;
+    margin-bottom:0px;
+}
+
+h2{
+    color: #4b9fc3;
+    margin-bottom:0px;
+}
+
+h3{
+    color: #4b9fc3;
+    margin-bottom:0px;
+}
+
+p{
+    text-align: justify;
+}

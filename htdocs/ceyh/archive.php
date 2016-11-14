@@ -4,6 +4,7 @@
   <head>
     <meta charset="UTF-8">
     <title>NMNWSE Central EYH Conference - Archives</title>
+    <link rel="stylesheet" href="../css/nmnwse.css">
   </head>
 
   <body>
@@ -20,7 +21,7 @@
 
     <main>
       <font face="Arial,Helvetica">
-	<h3>Newspaper Articles and TV Spots: </h3>
+	<h2>Newspaper Articles and TV Spots: </h2>
 	<UL>
 	  <LI>
 	    <a href="http://www.abqjournal.com/347367/news/girls-get-exposed-to-science.html">"Girls get exposed to science"</a>, Feb 4, 2014, Abuquerque Journal
@@ -34,7 +35,7 @@
 	</UL>
 
 	<p>
-	  <h3>View photos of previous conferences: </h3>
+	  <h2>View photos of previous conferences: </h2>
 	  <a href="Archives/2012/CEYH2012.ppt" target="_blank">2012</a> | 
 	  <a href="Archives/2011/CEYH2011.ppt" target="_blank">2011</a> | 
 	  <a href="2010SlideShow.pps" target="_blank">2010</a> | 
@@ -47,7 +48,7 @@
 	</p>
 
 	<p>
-	  <h3>2014 EYH Feedback:</h3>
+	  <h2>2014 EYH Feedback:</h2>
 	  <h4> what excited the students:</h4>
 	  <ul>
 	    <li>Being on a college campus and in an "actual college classroom"</li>
@@ -64,7 +65,7 @@
 	  </ul>
 	</p>
 	
-	<h3>Past EYH Quotes:</h3>
+	<h2>Past EYH Quotes:</h2>
 	  
 	<p> &quot;<em>Just wanted to pass on to you the glowing comments I received from my 12 year old daughter about CEYH 2011. She enjoyed the hands-on projects in each workshop and is excited about her future academically and professionally. (Of course, she didn't phrase it that way but the meaning is the same!)&quot;</em> - J
 	</p>
@@ -82,7 +83,7 @@
 	<p> &quot;<em>My daughters go every year and come back so jazzed up!</em>&quot; - Joe
 	</p>
 
-	<h3>Past Flyers</h3>
+	<h2>Past Flyers</h2>
 	<a href="http://nmnwse.org/ceyh/Flyers/CEYH_2016_FLYER.pdf">2016</a> | 
 	<a href="http://nmnwse.org/ceyh/Flyers/CEYH_2015_FLYER.pdf">2015</a> | 
 	<a href="http://nmnwse.org/ceyh/Flyers/CEYH_2014_FLYER.pdf">2014</a> | 
@@ -90,7 +91,7 @@
 	<a href="http://nmnwse.org/ceyh/Flyers/eyhflyer2012.pdf">2012</a> | 
 	<a href="http://nmnwse.org/ceyh/Flyers/eyhflyer2011.pdf">2011</a> 
 
-	<h3>Past Workshops</h3>
+	<h2>Past Workshops</h2>
 	<a href="http://nmnwse.org/ceyh/workshops.php">2010</a> | 
 	<a href="http://nmnwse.org/ceyh/ceyh_2009/workshops09.htm">2009</a> | 
 	<a href="http://nmnwse.org/ceyh/ceyh_2008/Workshops2008.pdf">2008</a> | 
