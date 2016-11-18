@@ -1,8 +1,9 @@
-h2{
+
+h2 {
     margin-bottom:0px;
 }
 
-h3{
+h3 {
     color: black;
     margin-top:0px;
 }
@@ -10,6 +11,7 @@ h3{
 summary {
     font-family: Arial, Helvetica, sans-serif;
 }
+
 details {
     margin-bottom: 10px;
 }

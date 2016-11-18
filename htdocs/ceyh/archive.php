@@ -4,6 +4,7 @@
   <head>
     <meta charset="UTF-8">
     <title>NMNWSE Central EYH Conference - Archives</title>
+    <link rel="stylesheet" href="../Includes/style_nmnwse.css">
     <link rel="stylesheet" href="../css/nmnwse.css">
   </head>
 
