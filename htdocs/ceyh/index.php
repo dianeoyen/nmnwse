@@ -31,8 +31,8 @@
 	      <font size="+2"><b>
 		  <font color="#4b9fc3">
 		    <! font color="#cb6940">
-		    January 2017
-		    <br> University of New Mexico (UNM), Main Campus
+		    January 28, 2017
+		    <br> University of New Mexico (UNM)
 		    <br> grades 5-9
 	      </font></b></font>
 	    </td><td>

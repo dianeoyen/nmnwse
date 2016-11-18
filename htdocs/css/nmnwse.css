@@ -1,10 +1,10 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #ffffff;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
 
 a:link {
@@ -13,13 +13,6 @@ a:link {
 
 a:visited {
     color: #444444;
-}
-
-h1 {
-    color: #4b9fc3;
-    size: 125%;
-    margin-bottom: 0px;
-    margin-top: 0px;
 }
 
 h2 {
@@ -40,11 +33,24 @@ header {
     background: #ffffff;
     text-align: center;
     font-family: "Times New Roman", serif;
-    font-size: 80%;
 }
 
 nav {
     background: rgba(75,159,195,0.25);
+    padding: 5px;
+    font-family: "Times New Roman", serif;
+}
+
+nav ul {
+    list-style: none;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-top: 0px;
+}
+
+nav li {
+    padding-top: 0px;
+    padding-bottom: 5px;
 }
 
 section {
@@ -55,3 +61,9 @@ section {
     float: right;
 }
 
+h1 {
+    color: #4b9fc3;
+    font-size: 150%;
+    margin-bottom: 0px;
+    margin-top: 15px;
+}

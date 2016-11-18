@@ -4,6 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title>NM Expanding Your Horizons</title>
+  <link rel="stylesheet" href="Includes/style_eyh.css">
   <link rel="stylesheet" href="../css/nmnwse.css">
   <link rel="stylesheet" href="css/eyh.css">
 </head>
@@ -11,11 +12,21 @@
 <body>
   <header>
     <?php
-       include("Includes/pagetop_eyh.php");
+       include("include/pagetop_eyh.php");
        ?>
   </header>
 
   <main>
+
+    <! Sidebar >
+    <section>
+      <?php
+	 if ($_GET['printable'] != 1) {
+	   include("include/sidebar_eyh.php"); 
+         }
+	 ?>
+    </section>
+
     <h1>NMNWSE Expanding Your Horizons (EYH) Conferences and Contacts</h1>
 
     <p>
@@ -40,17 +51,12 @@ with questions about the conferences, or to let us know your interest in helping
 
     <! -------- Spring 2017 ---------- >
     <h1>Spring 2017</h1>
-    <P font-style=italic>Note: Conferences below are over for 2016. They will be held again in 2017, and this site will be updated when 2017 info is available (anticipated ~1 Jan 2017). The listed contacts can update you on status.</P>
 
     <! -------- Las Cruces ---------- >
-    <!--
-    <a href="http://nmnwse.org/lceyh"> <img src="http://nmnwse.org/Images/new2.gif" alt="" align="right" border="0" height="37" width="90"></a>
-    -->
     <a href="http://www.eyhnmsu.webs.com">
       <h2>Las Cruces,&nbsp; grades 5-9</h2></a>
-    <h3>Early Spring 2017,
-      New Mexico State University, Las Cruces, NM</h3>
-    <b>2016 Conference was held January 23, 2016</b>
+    <h3>Saturday, January 28, 2017
+      <br>New Mexico State University, Las Cruces, NM</h3>
     <details>
       <summary>More info & contacts</summary>
     <table border="0" cellpadding="1" cellspacing="1">
@@ -96,11 +102,10 @@ with questions about the conferences, or to let us know your interest in helping
     <! -------- Albuquerque EYH ---------- >
     <a href="http://nmnwse.org/ceyh">
       <h2>Albuquerque,&nbsp;&nbsp; grades 5-9</h2></a>
-    <h3>Early Spring 2017,
-        University of New Mexico (UNM), main Campus, Albuquerque, NM
+    <h3>Saturday, January 28, 2017
+      <br>
+      University of New Mexico (UNM), Albuquerque, NM
     </h3>
-    <b>2016 conference was held on January 30, 2016 at UNM main campus.
-    </b>
     <details>
       <summary>More info & contacts</summary>
     <table border="0" cellpadding="1" cellspacing="1">
@@ -170,9 +175,8 @@ with questions about the conferences, or to let us know your interest in helping
     -->
     <a href="http://nmnwse.org/sceyh/">
       <h2>Silver City, grades 5-8</h2></a>
-    <h3>Early Spring, 2017, Western New Mexico University, Silver City, NM</h3>
-    <b>2016 conference was held on February 27, 2016 at WNMU.
-    </b>
+    <h3>Saturday, February 25, 2017
+      <br>Western New Mexico University, Silver City, NM</h3>
     <details>
       <summary>More info & contacts</summary>
     <table border="0" cellpadding="1" cellspacing="1">
@@ -222,9 +226,9 @@ with questions about the conferences, or to let us know your interest in helping
     -->
     <a href="http://nmnwse.org/lawis/eyh/index.shtml">
       <h2>Santa Fe - spring,&nbsp; grades 5-8</h2></a>
-    <h3>Spring, 2017, Santa Fe, NM </h3>
-    <b>2016 conference was held on March 4, 2016 at the Santa Fe Convention Center. </b>
-    <br><I>Note this EYH is the "Los Alamos" EYH, also called the "Northern NM EYH", which is now held in Santa Fe. There will be a separate fall 2016 EYH in Santa Fe - see above</I>
+    <h3>Thursday, March 9, 2017
+      <br>Santa Fe Convention Center, Santa Fe, NM </h3>
+    <I>Note this EYH is the "Los Alamos" EYH, also called the "Northern NM EYH", which is now held in Santa Fe. There will be a separate fall EYH in Santa Fe</I>
     <details>
       <summary>More info & contacts</summary>
     <table border="0" cellpadding="1" cellspacing="1">
@@ -275,14 +279,14 @@ with questions about the conferences, or to let us know your interest in helping
 
 
     <! -------- Fall 2017 ---------- >
+
     <h1>Fall 2017</h1>
-    <!-- <br> <b><I>Note: This site will be updated as additional Fall 2016 info becomes available. In the meantime, the listed contacts can update you on status.</I></b>
-    -->
+
     <! -------- Carlsbad EYH ---------- >
     <a href="http://nmnwse.org/carlsbad-eyh/">
       <h2>Carlsbad, grades 7-8</h2></a>
     <h3>September, NMSU Carlsbad, Carlsbad, NM</h3>
-    <b>2016 conference was held September 30 at NMSU Carlsbad, Carlsbad, NM</b>
+    2016 conference was held September 30 at NMSU Carlsbad, Carlsbad, NM
     <details>
       <summary>
         More info and contacts
@@ -338,7 +342,7 @@ with questions about the conferences, or to let us know your interest in helping
       <h2>Santa Fe - fall,&nbsp; grades 5-8</h2></a>
     
     <h3>October, Santa Fe Community College, Santa Fe, NM</h3>
-    <b>2016 conference was held October 15 at Santa Fe Community College, Santa Fe, NM</b>
+    2016 conference was held October 15 at Santa Fe Community College, Santa Fe, NM
     <details>
       <summary>More info & contacts</summary>
     <table border="0" cellpadding="1" cellspacing="1">
