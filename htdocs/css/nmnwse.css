@@ -35,6 +35,19 @@ header {
     font-family: "Times New Roman", serif;
 }
 
+footer {
+    text-align: center;
+}
+
+footer img {
+    padding: 5px;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
 nav {
     background: rgba(75,159,195,0.25);
     padding: 5px;

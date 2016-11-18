@@ -1,198 +1,179 @@
-<html>
-<head>
-<title>NMNWSE Board Meetings</title>
-<?php
-include("../Includes/pagetop1_nmnwse.php");
-?>
-FY 15-16 BOARD MEETINGS
-<br>(Oct 2015-Oct 2016)
-<?php
-include("../Includes/pagetop2_nmnwse.php");
-?>
+<!DOCTYPE html>
+<html lang="en">
 
-<P>
-Board meeting dates, times, and locations may be subject to change - check this page for updates and/or <a href="mailto:NMNWSE_Board-l@list.unm.edu">contact the Board</a> to confirm if you are not on the Board mailing list and wish to attend a Board Meeting.
+  <head>
+    <meta charset="utf-8">
+    <title>NMNWSE Board Meetings</title>
+    <link rel="stylesheet" href="../css/nmnwse.css">
+  </head>
+
+  <body>
+
+    <header>
+      <?php
+	 $banner_title = "FY 16-17 Board Meetings";
+	 include("../include/pagetop_nmnwse.php");
+	 ?>
+    </header>
+
+    <main>
+
+      <section>
+	<?php
+	   include("../include/sidebar.php");
+	   ?>
+      </section>
+
+      <P>
+	Board meeting dates, times, and locations may be subject to change - check this page for updates and/or <a href="mailto:NMNWSE_Board-l@list.unm.edu">contact the Board</a> to confirm if you are not on the Board mailing list and wish to attend a Board Meeting.
 Call-in options may be available, contact the <a href="mailto:NMNWSE_Board-l@list.unm.edu">NMNWSE board</a> for details.
-<br><img src="http://nmnwse.org/Images/button.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="18" width="1"><b>Board meetings are at 10 am unless otherwise noted, and are generally held on the 2nd Saturday of even months.</b> 
+      </P>
+      <P>
+	<img src="http://nmnwse.org/Images/button.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="18" width="1"><b>Board meetings are at 10 am unless otherwise noted, and are generally held on the 2nd Saturday of even months.</b> 
 Board meetings are open unless otherwise noted. 
+      </P>
 
+      <table border="0" cellspacing=5>
+	<tr>
+	  <td valign="top">
+	  </td>
+	  <td valign="top">
+	    Sun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>Oct 23
+	    <br>2016
+	  </td><td valign="top">
+            <b>8:30 am:</b> First Meeting of FY 16-17 Board at AM16 in Albuquerque, NM
+	    <br>see <a href="http://nmnwse.org/AM">http://nmnwse.org/AM</a> for details.
+	    <br>
+	  </td>
+	</tr><tr>
+	  <td valign="top">
+	  </td><td valign="top">
+	    Sat <br>Dec 3
+	    <br> 2016
+	    <br>&nbsp;
+	  </td><td valign="top">
+	    NMSU Albuquerque Center at the CNM Montoya Campus Bldg K, 4700 Morris St NE, Albuquerque, NM
+	    <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1">
+            See <a href="http://www.cnm.edu/maps-and-directory/montoya-campus/map">map</a>.
+	    <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1">
+            <! B >Note this is the 1st Saturday of the month.<! /B >
+	    <br>&nbsp;
+	  </td>
+	</tr><tr>
+	  <td valign="top">
+	  </td><td valign="top">
+	    Feb 11
+	    <br> 2017
+	    <br>&nbsp;
+	  </td><td valign="top">
+	    11:00 AM, Science Hall, room 124, NMSU, Las Cruces, NM
+	    &nbsp;
+	    <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"> Call-in option available, contact the <a href="mailto:NMNWSE_Board-l@list.unm.edu">NMNWSE board</a> for details.
+	    <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"> The Science Hall (SH) is located on Stewart St, between Sweet and Williams (<a href="https://maps.google.com/maps?q=Science+Hall,+University+Park,+NM,+88003&hl=en&sll=35.891922,-106.290041&sspn=0.145881,0.15604&t=m&z=17">map</a>)
+	    <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"> Best parking lots are either south of SH, off Stewart and Sweet, or due east of the building, off of Williams.
+	    <br>&nbsp;
+	  </td>
+	</tr><tr>
+	  <td valign="top">
+	  </td>
+	  <td valign="top">
+	    Apr 1
+	  </td><td valign="top">
+            Board meeting at State Science Fair <! img src="http://nmnwse.org/Images/updated.gif" >
+	    <br><img src="http://nmnwse.org/Images/button.gif" height="12">&nbsp;<b>Volunteers to help judge the NMNWSE special awards are welcome!</b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please <a href="mailto:NMNWSE_Board-L@list.unm.edu?NMNWSE Awards at State Science Fair">contact the Board</a> if you wish to help judge.
+	    <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>7:45 am:</b> NMNWSE Award Judging, Fidel Student Center, NMT, Socorro, NM
+	    <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>12:30 pm:</b> Award Winner Selection, <! location TBA > Jones Annex, Room 101, NMT, Socorro, NM
+	    <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>1:00 pm:</b> Board Meeting, <! location TBA > Jones Annex, Room 101,  NMT, Socorro, NM
+	    <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"><a href="http://infohost.nmt.edu/~science/fair/"><I><B>New Mexico Science &amp; Engineering Fair</b></I></a>
+	    <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"><a href="http://www.nmt.edu/campus-maps">NM Tech maps page</a>
+	    <br>&nbsp;
+	  </td>
+	</tr><tr>
+	  <td valign="top">
+	  </td>
+	  <td valign="top">
+	    Jun 1
+	    <br>&nbsp;
+	    <! tentative >
+	  </td><td valign="middle">
+            10:00am, New Mexico Highlands University, Las Vegas, NM
+            &nbsp;<! img src="http://nmnwse.org/Images/updated.gif" >
+	    <!--
+	    <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> Note starts at 10:30am, not the usual 10am.
+	    <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> <a href="https://santafelibrary.org/hours-phone-locations/">SFPL Locations webpage</a>, with maps and directions.
+	    <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> A web conferencing option may be available - contact the Board for more information.
+	    -->
+	    <!--
+		Tentatively in Las Vegas, NM, exact location TBA
+		<br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"> <b>location details:</b> Flying Star Cafe Downtown, 723 Silver Ave SW, ABQ (505-244-8099, <a href="http://www.flyingstarcafe.com">flyingstarcafe.com</a>) 
+		-->
+	    <br>&nbsp;
+	  </td>
+	</tr><tr>
+	  <td valign="top">
+	    <!--<img src="http://nmnwse.org/Images/arrow2r.gif">-->
+	  </td><td valign="top">
+	    <!--<font color="#cb6940"><B>-->
+		Aug 19
+	    <!--</b></font>-->
+	    <br>&nbsp;
+	  </td><td valign="top">
+	    <!-- <font color="#cb6940"><B> -->
+		10:00am, CNM-Montoya Campus, Building K, room 212A, 4700 Morris NE, Albuquerque, NM
+	    <!--&nbsp; <img src="http://nmnwse.org/Images/updated.gif">-->
+	    <!--</b></font>-->
+	    <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> North of Montgomery between Eubank and Juan Tabo
+	    <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> <a href="http://www.cnm.edu/maps-and-directory/montoya-campus/map">CNM Montoya campus webpage</a>, with maps and directions.
+	    <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> A web conferencing option may be available - contact the Board for more information.
+	    
+	    <br> &nbsp;
+	  </td>
+	</tr><tr>
+	  <td valign="top">
+	  </td>
+	  <td valign="top">
+	    Oct 20-22, 2017
+	  </td><td> <! valign >
+	    <!--
+		<I><a href="http://nmnwse.org/AM/2015">
+		    -->
+	    2017 NMNWSE Technical Symposium and Annual Meeting
+	    <br> Silver City, NM
+	    <!--<br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="18" width="1"> See the <a href="http://nmnwse.org/AM">AM webpage</a> for further details. -->
+	    <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="18" width="1">Further details will be announced when available. 
+	    In the meantime, please fill in the <a href="http://nmnwse.org/AM/survey/">interest survey</a> if you would like to indicate your interest in attending or give input for meeting planning.
 
-<P>
-<table border="0" cellspacing=5>
-<tr>
-   <td valign="top">
-   </td>
-   <td valign="top">
-      Sun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>Oct 25
-   <br>2015
-   </td><td valign="top">
-         <b>8:30 am:</b> First Meeting of FY 15-16 Board at AM15 in Truth or Consequences, NM
-      <br>see <a href="http://nmnwse.org/AM/2015">http://nmnwse.org/AM/2015/</a> for details.
-      <br>
-   </td>
-</tr><tr>
-   <td valign="top">
-   </td><td valign="top">
-      Sat <br>Dec 5
-      <br> 2015
-      <br>&nbsp;
-   </td><td valign="top">
-      <! Jeanne Banks' home, Placitas, NM >
-      NMSU Albuquerque Center, 4501 Indian School Rd NE, Suite 100, Albuquerque, NM
-           &nbsp;<! img src="http://nmnwse.org/Images/updated.gif">
-      <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1">
-         <!  Note change of location - >
-          See <a href="http://abq.nmsu.edu/">http://abq.nmsu.edu/</a> for more information about the Center and a map link.
-      <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1">
-        <! B >Note this is the 1st Saturday of the month.<! /B >
-<!--
-      <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"> <a href="mailto:NMNWSE_Board-l@list.unm.edu">contact the Board</a> if you need directions.
-      <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"> <b>location details:</b> Flying Star Cafe Downtown, 723 Silver Ave SW, ABQ (505-244-8099, <a href="http://www.flyingstarcafe.com">flyingstarcafe.com</a>) 
--->
-<!--
-      <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"> We are working on a call-in option, which will be announced via the board listserver. If you are not on the listserver and wish to participate via call-in, contact the board for details.
-      <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1">Time and location are still in flux - if not posted soon, please <a href="mailto:NMNWSE_Board-L@list.unm.edu">contact the board</a> if you are not on the board listserver and would like to attend.
--->
-<!--
-      <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1">Planned board meeting in Las Vegas, orig sched for Dec 13, to be held spring 2015, date TBA.
--->
-      <br>&nbsp;
-   </td>
-</tr><tr>
-   <td valign="top">
-   </td><td valign="top">
-      Feb 13
-      <br> 2016
-      <br>&nbsp;
-   </td><td valign="top">
-      11:00 AM, Science Hall, room 124, NMSU, Las Cruces, NM
-      &nbsp;
-<!--
-      <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"> call-in option available - contact the Board for details.
--->
-      <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"> Call-in option available, contact the <a href="mailto:NMNWSE_Board-l@list.unm.edu">NMNWSE board</a> for details.
-      <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"> The Science Hall (SH) is located on Stewart St, between Sweet and Williams (<a href="https://maps.google.com/maps?q=Science+Hall,+University+Park,+NM,+88003&hl=en&sll=35.891922,-106.290041&sspn=0.145881,0.15604&t=m&z=17">map</a>)
-      <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"> Best parking lots are either south of SH, off Stewart and Sweet, or due east of the building, off of Williams.
-      <br>&nbsp;
-   </td>
-</tr><tr>
-   <td valign="top">
-   </td>
-   <td valign="top">
-      Apr 2
-   </td><td valign="top">
-        Board meeting at State Science Fair <! img src="http://nmnwse.org/Images/updated.gif" >
-      <br><img src="http://nmnwse.org/Images/button.gif" height="12">&nbsp;<b>Volunteers to help judge the NMNWSE special awards are welcome!</b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please <a href="mailto:NMNWSE_Board-L@list.unm.edu?NMNWSE Awards at State Science Fair">contact the Board</a> if you wish to help judge.
-      <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>7:45 am:</b> NMNWSE Award Judging, Fidel Student Center, NMT, Socorro, NM
-      <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>1:00 pm:</b> Award Winner Selection, <! location TBA > Jones Annex, Room 101, NMT, Socorro, NM
-      <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>2:00 pm:</b> Board Meeting, <! location TBA > Jones Annex, Room 101,  NMT, Socorro, NM
-<br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"><a href="http://infohost.nmt.edu/~science/fair/"><I><B>New Mexico Science &amp; Engineering Fair</b></I></a>
-      <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"><a href="http://www.nmt.edu/campus-maps">NM Tech maps page</a>
-<!--
-<br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1">Judges should plan to gather at 7:45am in Fidel Center at one of the tables near the food area, just beyond where you pick up your judge's packet, below and to the left.
-<br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1">If you need to locate us on DATE, call Tinka's cell phone, 505-   .
-We will not know the room for the afternoon board meeting until the day of the Science Fair. It will be in the judge's packets for those judging.
-
--->
-   <br>&nbsp;
-   </td>
-</tr><tr>
-   <td valign="top">
-   </td><td valign="top">
-      Jun 11
-    <br>&nbsp;
-      <! tentative >
-   </td><td valign="middle">
-          10:30am, Oliver La Farge Branch, Santa Fe Public Library, 1730 Llano Street, Santa Fe
-           &nbsp;<! img src="http://nmnwse.org/Images/updated.gif" >
-      <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> Note starts at 10:30am, not the usual 10am.
-      <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> <a href="https://santafelibrary.org/hours-phone-locations/">SFPL Locations webpage</a>, with maps and directions.
-      <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> A web conferencing option may be available - contact the Board for more information.
-<!--
-          Tentatively in Las Vegas, NM, exact location TBA
-      <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"> <b>location details:</b> Flying Star Cafe Downtown, 723 Silver Ave SW, ABQ (505-244-8099, <a href="http://www.flyingstarcafe.com">flyingstarcafe.com</a>) 
--->
-<br>&nbsp;
-   </td>
-</tr><tr>
-   <td valign="top">
-    <img src="http://nmnwse.org/Images/arrow2r.gif">
-   </td><td valign="top">
-      <font color="#cb6940"><B>
-      Aug 13
-      </b></font>
-      <br>&nbsp;
-   </td><td valign="top">
-      <font color="#cb6940"><B>
-      10:00am, CNM-Montoya Campus, Building K, room 212A, 4700 Morris NE, Albuquerque, NM
-           &nbsp; <img src="http://nmnwse.org/Images/updated.gif">
-      </b></font>
-      <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> North of Montgomery between Eubank and Juan Tabo
-      <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> <a href="http://www.cnm.edu/maps-and-directory/montoya-campus/map">CNM Montoya campus webpage</a>, with maps and directions.
-      <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> A web conferencing option may be available - contact the Board for more information.
-
-<!--
-      Jeanne Banks' home
-           &nbsp;<! img src="http://nmnwse.org/Images/updated.gif">
-      <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"> <B>Note new date and location!</B>  The meeting will be 10am-12noon as usual.
-      <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"> <a href="mailto:NMNWSE_Board-l@list.unm.edu">contact the Board</a> if you need directions.
--->
-<br> &nbsp;
-   </td>
-</tr><tr>
-   <td valign="top">
-   </td>
-   <td valign="top">
-      Oct 21-23, 2016
-   </td><td> <! valign >
-<!--
-      <I><a href="http://nmnwse.org/AM/2015">
--->
-    2016 NMNWSE Technical Symposium and Annual Meeting
-      <br> Nativo Lodge, Albuquerque, NM
-      </b></font>
-<br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="18" width="1"> See the <a href="http://nmnwse.org/AM">AM16 webpage</a> for further details. 
-<!--        </a></I>
--->
-<!--
-      <font color="#cb6940"><B>
-      <br> Sierra Grande Lodge and Spa, Truth or Consequences, NM
-      </b></font>
-<br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="18" width="1"> See the <a href="http://nmnwse.org/AM/2015">AM15 webpage</a> for further details and the <a href="http://nmnwse.org/AM/2015/NMNWSE_AM15_draft_schedule.pdf">Meeting Schedule</a>. 
--->
-<br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="18" width="1">Further details will be announced when available. 
-In the meantime, please fill in the <a href="http://nmnwse.org/AM/survey/">interest survey</a> if you would like to indicate your interest in attending or give input for meeting planning.
-
-<!--
-      <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="18" width="1"> See <a href="http://nmnwse.org/AM/2015">http://nmnwse.org/AM/2015/</a> for registration forms etc. 
--->
-
-      <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1">
-The 2016 NMNWSE IMPACT! Award winner will be <! presented > announced at the meeting - 
-see <a href="http://nmnwse.org/ImpactAward">http://nmnwse.org/ImpactAward/</a>.
-<! Nominations due 1 Oct 2013. >
-      <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1">The first Meeting of the FY 16-17 Board is Sunday morning of the annual meeting - the gavel will be passed to the FY 16-17 president after elections at the Business Meeting of the full membership on Saturday.
-
-   </td>
-</tr></table>
-<font size="-1"><B>Notes:</b>
-<br> <b><sup>a</sup></b>Due to spam concerns, some contact info may be given via image files which do not cut-and-paste, and/or emails may have no "mailto" links or have extra spaces or the  "@" or "." spelled out as "at" or "dot".
-<br> <b><sup>b</sup></b>Due to privacy concerns, if the meeting is in a private home we may list contact info instead of specifying the address on this webpage.
-</font>
-
-<!--
-save re locations...
-
-Paul Bardacke Complex, 408 Galisteo St, Santa Fe, NM
-
-UNM Albuquerque
-      <br> in room 1028 of the Centennial Engineering Center at UNM in Albuquerque.
-      <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><a href="http://iss.unm.edu/PCD/campus-map.html">UNM campus maps</a>, &nbsp; &nbsp;<img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><a href="http://maps.google.com/maps?daddr=35.083376,-106.625973&t=m&z=16">google map (marked by "B")</a>
-      <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"><a href="directions120609.htm">directions</a>
-
-Santa Fe Institute, 1399 Hyde Park Road, Santa Fe, NM
-      <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> 
-<a href="http://www.santafe.edu/contact/">SFI "contact us" page with map and driving directions links</a>
+	    <!--
+		<br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="18" width="1"> See <a href="http://nmnwse.org/AM/2015">http://nmnwse.org/AM/2015/</a> for registration forms etc. 
+		-->
+	    
+	    <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1">
+	    The 2017 NMNWSE IMPACT! Award winner will be <! presented > announced at the meeting - 
+	    see <a href="http://nmnwse.org/ImpactAward">http://nmnwse.org/ImpactAward/</a>.
+	    <! Nominations due 1 Oct 2013. >
+	    <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1">The first Meeting of the FY 17-18 Board is Sunday morning of the annual meeting - the gavel will be passed to the FY 17-18 president after elections at the Business Meeting of the full membership on Saturday.
+	    
+	  </td>
+	</tr>
+      </table>
+      <font size="-1"><B>Notes:</b>
+	<br> <b><sup>a</sup></b>Due to spam concerns, some contact info may be given via image files which do not cut-and-paste, and/or emails may have no "mailto" links or have extra spaces or the  "@" or "." spelled out as "at" or "dot".
+	<br> <b><sup>b</sup></b>Due to privacy concerns, if the meeting is in a private home we may list contact info instead of specifying the address on this webpage.
+      </font>
+      
+      <!--
+	  save re locations...
+	  
+	  Paul Bardacke Complex, 408 Galisteo St, Santa Fe, NM
+	  
+	  UNM Albuquerque
+	  <br> in room 1028 of the Centennial Engineering Center at UNM in Albuquerque.
+	  <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><a href="http://iss.unm.edu/PCD/campus-map.html">UNM campus maps</a>, &nbsp; &nbsp;<img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><a href="http://maps.google.com/maps?daddr=35.083376,-106.625973&t=m&z=16">google map (marked by "B")</a>
+	  <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"><a href="directions120609.htm">directions</a>
+	  
+	  Santa Fe Institute, 1399 Hyde Park Road, Santa Fe, NM
+	  <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> 
+	  <a href="http://www.santafe.edu/contact/">SFI "contact us" page with map and driving directions links</a>
 
       Las Cruces, 1pm<br> NMSU, Computer Science Conference Room, 124, located in Science Hall
       <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"> <a href="http://www.nmsu.edu/General/Maps/">NMSU Campus map</a>, Science Hall is building #54, at the corner of Stewart and Sweet Streets
@@ -444,8 +425,15 @@ See <a href="http://nmnwse.org/BoardMeetings/drafts">http://nmnwse.org/BoardMeet
 
 
 <P>&nbsp;
-<?php
-include("../Includes/pagebot_nmnwse.php");
-?>
+    </main>
+    
+    <footer>
+      <?php
+	 include("../include/pagefoot_nmnwse.php");
+	 ?>
+    </footer>
+
+  </body>
+</html>
 
 
