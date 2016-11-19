@@ -35,6 +35,10 @@ header {
     font-family: "Times New Roman", serif;
 }
 
+header a {
+    text-decoration: none;
+}
+
 footer {
     text-align: center;
 }

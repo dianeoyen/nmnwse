@@ -25,6 +25,19 @@ TECHNICAL SYMPOSIUM CANCELLED,
 <! --------------- >
 <dl>
 <dt>
+<b> The 2016 NMNWSE Technical Symposium and Annual Meeting</b>
+<dd>
+   was held 21-23 October 2016 at the<br>
+  <a href="http://www.nativolodge.com">Nativo Lodge</a> in Albuquerque, NM
+  <br>For further meeting details, see 
+  <br><img src="http://nmnwse.org/Images/r_hand.gif"><a href="http://nmnwse.org/AM/2016/index.php">http://nmnwse.org/AM/2016/</a>
+</dd>
+</dt>
+</dl>
+
+<! --------------- >
+<dl>
+<dt>
 <b> The 2015 NMNWSE Technical Symposium and Annual Meeting</b>
 <dd>
    was held 23-25 October 2015 at the<br>

@@ -7,12 +7,13 @@
 <a href="http://nmnwse.org/" style="float:right">
   <img src="http://nmnwse.org/Images/NMNWSE4a.gif" class="decoration" vspace="3" width="150" border="0"></a>
 
-<h1>New Mexico Network for 
+<a href="http://nmnwse.org">
+  <h1>New Mexico Network for 
   <br>Women in Science and Engineering
-</h1>
+  </h1>
+</a>
 
 PO Box 51926, Albuquerque, New Mexico, 87181 USA
-<br> <a href="http://nmnwse.org/">http://nmnwse.org/</a>
 
 <h2>
     <! add title here, if any > 

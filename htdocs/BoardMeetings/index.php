@@ -24,35 +24,39 @@
 	   ?>
       </section>
 
+      Board meeting dates, times, and locations may be subject to change - check this page for updates and/or <a href="mailto:NMNWSE_Board-l@list.unm.edu">contact the Board</a> to confirm if you are not on the Board mailing list and wish to attend a Board Meeting.
+      Call-in options may be available, contact the <a href="mailto:NMNWSE_Board-l@list.unm.edu">NMNWSE board</a> for details.
+
       <P>
-	Board meeting dates, times, and locations may be subject to change - check this page for updates and/or <a href="mailto:NMNWSE_Board-l@list.unm.edu">contact the Board</a> to confirm if you are not on the Board mailing list and wish to attend a Board Meeting.
-Call-in options may be available, contact the <a href="mailto:NMNWSE_Board-l@list.unm.edu">NMNWSE board</a> for details.
-      </P>
-      <P>
-	<img src="http://nmnwse.org/Images/button.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="18" width="1"><b>Board meetings are at 10 am unless otherwise noted, and are generally held on the 2nd Saturday of even months.</b> 
-Board meetings are open unless otherwise noted. 
+	<b>Board meetings are generally held at 10am on the 2nd Saturday of even months.</b> 
+	Board meetings are open unless otherwise noted. 
       </P>
 
       <table border="0" cellspacing=5>
-	<tr>
+	  <!--
+	      <tr>
+		<td valign="top">
+		</td>
+		<td valign="top">
+		  Sun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>Oct 23
+		  <br>2016
+		</td><td valign="top">
+		  <b>8:30 am:</b> First Meeting of FY 16-17 Board at AM16 in Albuquerque, NM
+		  <br>see <a href="http://nmnwse.org/AM">http://nmnwse.org/AM</a> for details.
+		  <br>
+		</td>
+	      </tr>
+	      -->
+	  <tr>
 	  <td valign="top">
 	  </td>
-	  <td valign="top">
-	    Sun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>Oct 23
-	    <br>2016
-	  </td><td valign="top">
-            <b>8:30 am:</b> First Meeting of FY 16-17 Board at AM16 in Albuquerque, NM
-	    <br>see <a href="http://nmnwse.org/AM">http://nmnwse.org/AM</a> for details.
-	    <br>
-	  </td>
-	</tr><tr>
-	  <td valign="top">
-	  </td><td valign="top">
-	    Sat <br>Dec 3
+	  <td valign="top" width=50px>
+	    Dec 3
 	    <br> 2016
 	    <br>&nbsp;
 	  </td><td valign="top">
-	    NMSU Albuquerque Center at the CNM Montoya Campus Bldg K, 4700 Morris St NE, Albuquerque, NM
+	    10:00am, NMSU Albuquerque Center at the CNM Montoya Campus 
+	    <br>Bldg K, 4700 Morris St NE, Albuquerque, NM
 	    <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1">
             See <a href="http://www.cnm.edu/maps-and-directory/montoya-campus/map">map</a>.
 	    <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1">
@@ -156,9 +160,9 @@ Board meetings are open unless otherwise noted.
 	  </td>
 	</tr>
       </table>
+
       <font size="-1"><B>Notes:</b>
-	<br> <b><sup>a</sup></b>Due to spam concerns, some contact info may be given via image files which do not cut-and-paste, and/or emails may have no "mailto" links or have extra spaces or the  "@" or "." spelled out as "at" or "dot".
-	<br> <b><sup>b</sup></b>Due to privacy concerns, if the meeting is in a private home we may list contact info instead of specifying the address on this webpage.
+	<br>Due to privacy concerns, if the meeting is in a private home we post contact info instead of the address.
       </font>
       
       <!--
@@ -229,66 +233,65 @@ SMLC rm 124 is a small conference room on the first floor of the SMLC (Bldg 14) 
 -->
 
 
-<br>&nbsp;
-<p>
-<img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;
-<a href="../Board.php">Board members</a>
-</p>
-
-<! none at this time >
-
-<! start of agendas >
-
-<dt>
-<font color="#cb6940"><B>FY 15-16 Agendas: (Oct 2015 - 2016 Annual Meeting) </b></font>
-</dt>
-<dd>
-<a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Agenda_Aug16.pdf">Aug 13, 2016</a>
-</dd>
-<dd>
-<a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Action_Jun_11_16.pdf">June 11, 2016</a> (action items)
-</dd>
-<dd>
-<a href="http://nmnwse.org/BoardMeetings/NMNWSE_Board_Meeting_Agenda_Dec2015.pdf">Dec 5, 2015</a>
-&nbsp;&nbsp; (<a href="http://nmnwse.org/BoardMeetings/NMNWSE_Board_Meeting_Agenda_Dec2015.docx">as docx</a>)
-</dd>
-<dd>
-<a href="http://nmnwse.org/AM/2015/NMNWSE_AM15_draft_schedule.pdf">Oct 25, 2015</a>
-</dd>
-
-<dt>
-<font color="#cb6940"><B>FY 14-15 Agendas: (Oct 2014 - 2015 Annual Meeting) </b></font>
-</dt>
-<dd>
-<a href="http://nmnwse.org/AM/2015/NMNWSE_AM15_draft_schedule.pdf">Oct 24, 2015</a> (annual)
-</dd>
-<dd>
-(Dec, Feb, Apr, Jul, and Aug agendas missing)
-</dd>
-<dd>
-<a href="http://nmnwse.org/AM/2014/NMNWSE_AM14_draft_schedule.pdf">Oct 19, 2014</a>
-</dd>
-
-<dt>
-<font color="#cb6940"><B>FY 13-14 Agendas: (Oct 2013 - 2014 Annual Meeting) </b></font>
-</dt>
-<dd>
-<a href="http://nmnwse.org/AM/2014/NMNWSE_AM14_draft_schedule.pdf">Oct 18, 2014 (annual)</a>
-</dd>
-<dd>
-<a href="http://nmnwse.org/BoardMeetings/NMNWSE_Board_Meeting_Agenda_Aug2014.doc">Aug 9, 2014</a>
-</dd>
-<dd>
-<a href="http://nmnwse.org/BoardMeetings/NMNWSE_Board_Meeting_Agenda_Jun2014.doc">Jun 21, 2014</a>
-</dd>
-<dd>
-<a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Agenda_201402.doc">Feb 8, 2014</a>
-<!--
-(none at this time - see FY below for 2013 Annual Meeting)
--->
-</dd>
-
-<!--
+      <p>
+	<img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;
+	<a href="../Board.php">Board members</a>
+      </p>
+      
+      <! none at this time >
+      
+      <! start of agendas >
+      
+      <dt>
+	<font color="#cb6940"><B>FY 15-16 Agendas: (Oct 2015 - 2016 Annual Meeting) </b></font>
+      </dt>
+      <dd>
+	<a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Agenda_Aug16.pdf">Aug 13, 2016</a>
+      </dd>
+      <dd>
+	<a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Action_Jun_11_16.pdf">June 11, 2016</a> (action items)
+      </dd>
+      <dd>
+	<a href="http://nmnwse.org/BoardMeetings/NMNWSE_Board_Meeting_Agenda_Dec2015.pdf">Dec 5, 2015</a>
+	&nbsp;&nbsp; (<a href="http://nmnwse.org/BoardMeetings/NMNWSE_Board_Meeting_Agenda_Dec2015.docx">as docx</a>)
+      </dd>
+      <dd>
+	<a href="http://nmnwse.org/AM/2015/NMNWSE_AM15_draft_schedule.pdf">Oct 25, 2015</a>
+      </dd>
+      
+      <dt>
+	<font color="#cb6940"><B>FY 14-15 Agendas: (Oct 2014 - 2015 Annual Meeting) </b></font>
+      </dt>
+      <dd>
+	<a href="http://nmnwse.org/AM/2015/NMNWSE_AM15_draft_schedule.pdf">Oct 24, 2015</a> (annual)
+      </dd>
+      <dd>
+	(Dec, Feb, Apr, Jul, and Aug agendas missing)
+      </dd>
+      <dd>
+	<a href="http://nmnwse.org/AM/2014/NMNWSE_AM14_draft_schedule.pdf">Oct 19, 2014</a>
+      </dd>
+      
+      <dt>
+	<font color="#cb6940"><B>FY 13-14 Agendas: (Oct 2013 - 2014 Annual Meeting) </b></font>
+      </dt>
+      <dd>
+	<a href="http://nmnwse.org/AM/2014/NMNWSE_AM14_draft_schedule.pdf">Oct 18, 2014 (annual)</a>
+      </dd>
+      <dd>
+	<a href="http://nmnwse.org/BoardMeetings/NMNWSE_Board_Meeting_Agenda_Aug2014.doc">Aug 9, 2014</a>
+      </dd>
+      <dd>
+	<a href="http://nmnwse.org/BoardMeetings/NMNWSE_Board_Meeting_Agenda_Jun2014.doc">Jun 21, 2014</a>
+      </dd>
+      <dd>
+	<a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Agenda_201402.doc">Feb 8, 2014</a>
+	<!--
+	    (none at this time - see FY below for 2013 Annual Meeting)
+	  -->
+      </dd>
+      
+      <!--
 <dt>
 <font color="#cb6940"><B>FY 12-13 Agendas: (Oct 2012 - 2013 Annual Meeting) </b></font>
 </dt>
@@ -423,8 +426,6 @@ See <a href="http://nmnwse.org/BoardMeetings/drafts">http://nmnwse.org/BoardMeet
 </dd>
 </dt>
 
-
-<P>&nbsp;
     </main>
     
     <footer>
