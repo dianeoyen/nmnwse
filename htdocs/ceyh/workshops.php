@@ -44,13 +44,6 @@ include("Includes/pagetop2_ceyh.php");
 
 <?php
 if($_GET['printable'] != 1){
-echo "<p><img src=\"http://nmnwse.org/Images/updated.gif\"> 
-<font color=\"red\">
-4/1 - several workshops have had to be cancelled due to low registration numbers. 
-</font>
-<br> Please <a href=\"contacts.php\">contact us</a> if you have any questions.
-<! 3/18: 7 more workshops added, totalling 24! >
-";
 echo "<br><img src=\"http://nmnwse.org/bl_pin.gif\"><a href=\"CEYH2010_Workshop_Descriptions.pdf\">Click here for a printable version of the CEYH 2010 workshops in pdf format</a>, or use the \"w/o Navigation\" link in the sidebar to view the <a href=\"http://nmnwse.org/ceyh/workshops.php?printable=1\">printer-friendly version of this page</a>.";
 }
 ?>

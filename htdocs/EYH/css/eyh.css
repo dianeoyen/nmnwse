@@ -1,0 +1,23 @@
+h2 {
+    margin-bottom:0px;
+}
+
+h3 {
+    color: black;
+    margin-top:0px;
+}
+
+summary {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+details {
+    margin-bottom: 10px;
+}
+
+body {
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}

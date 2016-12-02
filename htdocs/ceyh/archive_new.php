@@ -10,9 +10,9 @@
 
   <body>
     <header>
-      <?php
+      <?php	
 	 include("Includes/pagetop1_ceyh_p1.php");
-	 ?>
+      ?>
       NMNWSE Central Expanding Your Horizons<sup>tm</sup>
       Archives
       <?php
