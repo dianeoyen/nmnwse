@@ -28,6 +28,11 @@ Blurb
 <br>&nbsp;
 -->
 
+<! 2016 Impact! Award >
+<?php
+   include("inNews/201612_news.html");
+?>
+
 <! Supercomputing Challenge >
 <?php
    include("inNews/201608_news.htm");

@@ -32,6 +32,32 @@ NMNWSE is proud to recognize the following <B>IMPACT! Award</b> winners and nomi
 
 <!  ============  >
 <tr><td colspan=3>
+  <img src="http://nmnwse.org/Images/bl_pin.gif"> <B>2016: Carol Linder, Las Vegas</b><br>
+ </td></tr><tr><td valign="top">
+  <a href="http://nmnwse.org/ImpactAward/winners/CarolLinder2016_web.jpg">
+     <img src="http://nmnwse.org/ImpactAward/winners/CarolLinder2016_web.jpg" width=100>
+  </a>
+    </td><td valign="top">&nbsp;</td><td valign="top"> <I>
+	<P>
+	Carol Linder, Ph.D.; the New Mexico Highlands University Interim Provost and Vice President for Academic Affairs, and Professor of Cell Biology is honored with the 2016 Impact! Award.
+	</P
+	<P>
+	  Dr. Carol Linder is an amazing woman whose extraordinary efforts encourage women to enter and develop their careers in science, engineering and allied professions. She is extremely passionate about helping women become successful in these careers. Dr. Linder also reaches out to young girls in the community to inspire their interest in becoming scientists. Sparking this early interest is critical.
+	</P>
+</I>
+<!--<br><img src="http://nmnwse.org/Images/spacer.gif" width=6 height=6>-->
+<img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;<a href="http://www.nmhu.edu/biology-prof-honored-encouraging-women-pursue-science/">In the news</a>
+<br><img src="http://nmnwse.org/Images/spacer.gif" width=6 height=6>
+<!--
+<br><img src="http://nmnwse.org/Images/button.gif" height=10>&nbsp;<I>Full new release coming soon.</I>
+-->
+<!--<br><img src="http://nmnwse.org/Images/button.gif" height=10>&nbsp;<b>2015 nominees:</b><! br>
+Laura Crossey (winner), and Carol Linder. Past nominees were also considered.
+<br>&nbsp;-->
+</td></tr>
+
+<!  ============  >
+<tr><td colspan=3>
   <img src="http://nmnwse.org/Images/bl_pin.gif"> <B>2015: Laura Crossey, Albuquerque</b><br>
  </td></tr><tr><td valign="top">
   <a href="http://nmnwse.org/ImpactAward/winners/Crossey2015_large.jpg">

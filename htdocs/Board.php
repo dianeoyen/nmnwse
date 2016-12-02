@@ -4,14 +4,14 @@
 <?php
 include("Includes/pagetop1_nmnwse.php");
 ?>
-FY 15-16 Executive Board<br>
+FY 16-17 Executive Board<br>
 <a href="mailto:NMNWSE_Board-L@List.unm.edu" style="text-decoration:none; color:#cb6940">NMNWSE_Board-L@List.unm.edu </a>
 <?php
 include("Includes/pagetop2_nmnwse.php");
 ?>
 
 <P> &nbsp;<br>
-<b>The FY 15-16 Board serves 10-1-2015 thru 9-30-2016 (FY 15-16)</b>,<br> or from the date they were elected until their successors have been chosen, if different.
+<b>The FY 16-17 Board serves 10-1-2016 thru 9-30-2017 (FY 16-17)</b>,<br> or from the date they were elected until their successors have been chosen, if different.
 
 <table><tr><td valign="top">
 <img src="http://nmnwse.org/Images/bl_pin.gif">&nbsp;
@@ -49,7 +49,7 @@ include("Includes/pagetop2_nmnwse.php");
     <td valign="top"> <font color="#4b9fc3"><b>President</b></font> </td>
     <td valign="top"> Rebecca Galves</td>  <! Galves elected as Pres Oct 15 >  
     <td valign="top"> Las Cruces</td>
-    <td valign="top"> elected as Pres 2015</td>
+    <td valign="top"> elected as Pres 2015, 2016</td>
   </tr>
   <tr>
     <td valign="top"> <font color="#4b9fc3"><b>Past President</b></font> </td>
@@ -60,15 +60,13 @@ include("Includes/pagetop2_nmnwse.php");
   </tr>
   <tr>
     <td valign="top"> <font color="#4b9fc3"><b>VP/Pres. Elect</b></font> </td>
-    <td valign="top"> Sarah Vance </td> <! Vance elected as VP Oct 15 >  
-    <td valign="top"> Albuquerque   </td> 
-    <td valign="top"> elected as VP 2015</td>
+    <td valign="top"> open </td>
   </tr>
   <tr>
     <td valign="top"> <font color="#4b9fc3"><b>Treasurer</b></font> </td>
     <td valign="top"> Jeanne Banks</td>  <! elected Oct 14 >
     <td valign="top"> Placitas</td>
-    <td valign="top"> elected 2014</td>
+    <td valign="top"> elected 2014, 2016</td>
   </tr>
   <tr>
     <td valign="top"> <font color="#4b9fc3"><b>Secretary</b></font> </td>
@@ -113,14 +111,14 @@ include("Includes/pagetop2_nmnwse.php");
           <tbody>
           <tr>
               <td valign="top">
-                <font color="#4b9fc3"><b>Oct 2014-Oct 2016</b></font> </td>
+                <font color="#4b9fc3"><b>Oct 2016-Oct 2018</b></font> </td>
 	      <td valign="top">
               <td valign="top"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
               <td valign="top">
                   <font color="#4b9fc3"><b>Oct 2015-Oct 2017</b></font> </td>
 	  <tr>
-	    <td valign="top"> Karmen Lappo </td>
-	    <td valign="top"> since 2014 </td> <! new to board Oct 2014 >
+	    <td valign="top"> Sarah Balizan </td>
+	    <td valign="top"> since 2016 </td>
               <td valign="top"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
 	    <td valign="top"> Dana Roberson </td>
 	    <td valign="top"> since 2013 </td>
