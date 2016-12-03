@@ -1,4 +1,4 @@
-body{
+body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #ffffff;
     margin-left: 1%;
@@ -83,4 +83,24 @@ h1 {
     font-size: 150%;
     margin-bottom: 0px;
     margin-top: 15px;
+}
+
+div.bio img {
+    width: 100px;
+    display: inline-block;
+    padding-right: 10px;
+    padding-top: 15px;
+    float: left;
+}
+
+p.note {
+    font-style: italic;
+}
+
+p.highlight {
+    font-weight: bold;
+    color: #4b9fc3;
+    text-align: center;
+    padding-left: 1em;
+    padding-right: 1em;
 }
