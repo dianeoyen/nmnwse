@@ -16,11 +16,9 @@
 
     <main>
 
-      <section>
-	<?php
-	   include("../include/sidebar.php");
-	   ?>
-      </section>
+      <?php
+	 include("../include/sidebar.php");
+	 ?>
       
       <p>
 	The Network, in cooperation with the New Mexico Commission on the Status of Women, in 2007 embarked upon a new means to recognize the contributions of women in New Mexico.  Each fall, the Annual New Mexico Network for Women in Science and Engineering <b>IMPACT! Award</b> is presented to a New Mexico woman for her extraordinary efforts in furthering the goals of the Network:

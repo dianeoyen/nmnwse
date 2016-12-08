@@ -18,11 +18,10 @@
 
     <main>
       
-      <section>
-	<?php
-	   include("../include/sidebar.php");
-	   ?>
-      </section>
+      <!-- NAV -->
+      <?php
+	 include("../include/sidebar.php");
+	 ?>
 
       <h2>Board Meeting Minutes</h2>
 

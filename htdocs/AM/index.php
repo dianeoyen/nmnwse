@@ -18,11 +18,10 @@
     </header>
 
     <main>
-      <section>
-	<?php
-	   include("../include/sidebar.php");
-	   ?>
-      </section>
+
+      <?php
+	 include("../include/sidebar.php");
+	 ?>
 
       Our Annual Meeting and Technical Symposium, held each fall, provides an opportunity to present technical papers in a supportive environment. It also provides professional development and networking opportunities.
       

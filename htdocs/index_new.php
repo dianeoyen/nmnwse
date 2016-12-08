@@ -19,9 +19,7 @@
   <main>
 
     <! Sidebar >
-    <section>
       <?php include("include/sidebar.php"); ?>
-    </section>
 
     <h3>
 	Encouraging women in science, engineering, and allied professions through outreach and networking

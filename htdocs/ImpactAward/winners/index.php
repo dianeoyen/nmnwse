@@ -15,11 +15,10 @@
     </header>
 
     <main>
-      <section>
-	<?php
-	   include("../../include/sidebar.php");
-	   ?>
-      </section>
+
+      <?php
+	 include("../../include/sidebar.php");
+	 ?>
 
       <a href="http://nmnwse.org/ImpactAward">back to main IMPACT! Award page</a>
 

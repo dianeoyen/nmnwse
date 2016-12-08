@@ -18,18 +18,17 @@
 
     <main>
 
-      <section>
-	<?php
-	   include("../include/sidebar.php");
-	   ?>
-      </section>
-
-      Board meeting dates, times, and locations may be subject to change - check this page for updates and/or <a href="mailto:NMNWSE_Board-l@list.unm.edu">contact the Board</a> to confirm if you are not on the Board mailing list and wish to attend a Board Meeting.
-      Call-in options may be available, contact the <a href="mailto:NMNWSE_Board-l@list.unm.edu">NMNWSE board</a> for details.
+      <?php
+	 include("../include/sidebar.php");
+	 ?>
 
       <P>
-	<b>Board meetings are generally held at 10am on the 2nd Saturday of even months.</b> 
 	Board meetings are open unless otherwise noted. 
+      </P>
+
+      <P>
+      Board meeting dates, times, and locations may be subject to change - check this page for updates and/or <a href="mailto:NMNWSE_Board-l@list.unm.edu">contact the Board</a> to confirm if you are not on the Board mailing list and wish to attend a Board Meeting.
+      Call-in options may be available, contact the <a href="mailto:NMNWSE_Board-l@list.unm.edu">NMNWSE board</a> for details.
       </P>
 
       <table border="0" cellspacing=5>
@@ -59,8 +58,6 @@
 	    <br>Bldg K, 4700 Morris St NE, Albuquerque, NM
 	    <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1">
             See <a href="http://www.cnm.edu/maps-and-directory/montoya-campus/map">map</a>.
-	    <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1">
-            <! B >Note this is the 1st Saturday of the month.<! /B >
 	    <br>&nbsp;
 	  </td>
 	</tr><tr>
@@ -96,11 +93,11 @@
 	  <td valign="top">
 	  </td>
 	  <td valign="top">
-	    Jun 1
+	    Jun 3
 	    <br>&nbsp;
 	    <! tentative >
 	  </td><td valign="middle">
-            10:00am, New Mexico Highlands University, Las Vegas, NM
+            11:00am, New Mexico Highlands University, Las Vegas, NM
             &nbsp;<! img src="http://nmnwse.org/Images/updated.gif" >
 	    <!--
 	    <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> Note starts at 10:30am, not the usual 10am.
@@ -161,10 +158,10 @@
 	</tr>
       </table>
 
-      <font size="-1"><B>Notes:</b>
+      <!--      <font size="-1"><B>Notes:</b>
 	<br>Due to privacy concerns, if the meeting is in a private home we post contact info instead of the address.
       </font>
-      
+      -->
       <!--
 	  save re locations...
 	  

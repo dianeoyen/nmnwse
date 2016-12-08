@@ -53,21 +53,42 @@ img.center {
 }
 
 nav {
-    background: rgba(75,159,195,0.25);
     padding: 5px;
     font-family: "Times New Roman", serif;
+    font-size: 100%;
+    width: 20%;
+    margin-left: 2%;
+    display: inline-block;
+    float: right;
 }
 
 nav ul {
+    background: rgba(75,159,195,0.25);
     list-style: none;
     padding-left: 5px;
     padding-bottom: 5px;
-    padding-top: 0px;
+    padding-top: 5px;
 }
 
 nav li {
-    padding-top: 0px;
     padding-bottom: 5px;
+}
+
+nav ul ul {
+    padding-top: 0px;
+    padding-left: 10px;
+    background: none;
+}
+
+nav ul ul li {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+nav img:decoration {
+    width: 100%;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 section {

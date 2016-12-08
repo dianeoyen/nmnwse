@@ -4,7 +4,6 @@
 <head>
   <meta charset="UTF-8">
   <title>NM Expanding Your Horizons</title>
-  <link rel="stylesheet" href="Includes/style_eyh.css">
   <link rel="stylesheet" href="../css/nmnwse.css">
   <link rel="stylesheet" href="css/eyh.css">
 </head>
@@ -19,13 +18,12 @@
   <main>
 
     <! Sidebar >
-    <section>
-      <?php
-	 if ($_GET['printable'] != 1) {
-	   include("include/sidebar_eyh.php"); 
-         }
-	 ?>
-    </section>
+
+    <?php
+       if ($_GET['printable'] != 1) {
+       include("include/sidebar_eyh.php"); 
+       }
+       ?>
 
     <h1>NMNWSE Expanding Your Horizons (EYH) Conferences and Contacts</h1>
 
