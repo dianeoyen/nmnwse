@@ -29,6 +29,13 @@ p {
     text-align: justify;
 }
 
+p.mission {
+    color: #4b9fc3;
+    margin-top: 0px;
+    font-weight: bold;
+    font-size: 120%
+}
+
 header {
     background: #ffffff;
     text-align: center;

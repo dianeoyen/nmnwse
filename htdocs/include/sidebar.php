@@ -10,14 +10,6 @@
     </li>
     <li>
       <a href="http://nmnwse.org/Chapters.php">Chapters</a>
-      <ul>
-	<li>
-	  <a href="http://nmnwse.org/central">Central</a>
-	</li>
-	<li>
-	  <a href="http://nmnwse.org/lawis">Northern</a>
-	</li>
-      </ul>
     </li>
     <li>
       <a href="http://nmnwse.org/WhoWeAreNMNWSE.pdf">Who We Are Brochure</a>
