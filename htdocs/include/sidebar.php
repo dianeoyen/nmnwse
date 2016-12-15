@@ -7,15 +7,15 @@
   <ul>
     <li>
       <a href="http://nmnwse.org/index.php">NMNWSE Home</a>
-    </li>
-    <li>
-      <a href="http://nmnwse.org/Chapters.php">Chapters</a>
-    </li>
-    <li>
-      <a href="http://nmnwse.org/WhoWeAreNMNWSE.pdf">Who We Are Brochure</a>
       <ul>
 	<li>
+	  <a href="http://nmnwse.org/WhoWeAreNMNWSE.pdf">Who We Are Brochure</a>
+	</li>
+	<li>
 	  <a href="http://nmnwse.org/Membership.php">Membership</a>
+	</li>
+	<li>
+	  <a href="http://nmnwse.org/Chapters.php">Chapters</a>
 	</li>
 	<li>
 	  <a href="http://nmnwse.org/History.php">History</a>
@@ -27,9 +27,6 @@
       <ul>
 	<li>
 	  <a href="http://nmnwse.org/News.php">Newsletters</a>
-	</li>
-	<li>
-	  <a href="http://nmnwse.org/jobs.php">Resumes &amp; Jobs</a>
 	</li>
       </ul>
     </li>
