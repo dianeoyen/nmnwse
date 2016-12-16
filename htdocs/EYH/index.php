@@ -21,7 +21,7 @@
 
     <?php
        if ($_GET['printable'] != 1) {
-       include("include/sidebar_eyh.php"); 
+       include("../include/sidebar.php"); 
        }
        ?>
 
