@@ -6,7 +6,7 @@
 <?php
 include("Includes/pagetop1_sceyh.php");
 ?>
-2016 Conference Information
+
 <?php
 include("Includes/pagetop2_sceyh.php");
 ?>
@@ -16,17 +16,16 @@ include("Includes/pagetop2_sceyh.php");
 <font face="Arial,Helvetica">
 
   &nbsp; &nbsp;<br>
-  <b><font color="#cb6940" size="+1">2016 Silver City Expanding Your Horizons<sup>tm</sup> (EYH)</font></b>
+  <b><font color="#cb6940" size="+1">Silver City Expanding Your Horizons<sup>tm</sup> (EYH)</font></b>
   <br>
 
 <! -------- Silver City EYH ---------- >
 
 
 <font size="+1"><b><font color="#4b9fc3">
-  Saturday, February 27, 2016
+  Saturday, February 25, 2017
   <br> Western New Mexico University
   <br> grades 5-8
-  <!registration CLOSED deadline: TBA >
 </font></b></font>
 
 <p>
@@ -78,11 +77,7 @@ include("Includes/pagetop2_sceyh.php");
 <br>The conference will be similar to 2014 (see 2014 info...)
 -->
 
-<P>
-<img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;<b><font color="#cb6940" size="+1">Detailed Conference Information:</font></b>
 
-<P>The date for our 24thannual EYH conference in Silver City  will be Saturday February 27, 2016 on the 
-Western New Mexico University campus.  We are targeting 250 5th - 8th grade girls.
 <!--
 <P>
 The format will be similar to previous conferences - choice of three workshops, a pizza lunch, a closing activity and free t-shirts for the students attending the conference. Registration forms and further 2015 conference information anticipated Jan 2015.
@@ -91,8 +86,9 @@ The format will be similar to previous conferences - choice of three workshops, 
 <br><b>Registration is closed - conference full</b>
 -->
 
-<P><img src="http://nmnwse.org/Images/button.gif" height=12><b>January 2016 update:</b>&nbsp;<! img src="http://nmnwse.org/Images/new2.gif" >
+<!--
 <br><img src="http://nmnwse.org/Images/bl_pin.gif"><a href="http://nmnwse.org/sceyh/2016/SCEYH_2016_Brochure.pdf">Conference Brochure</a> - includes registration form
+-->
 <!--
 <br><img src="http://nmnwse.org/Images/bl_pin.gif"><a href="http://nmnwse.org/sceyh/2015/SCEYH_2015_Poster.pdf">Conference Flyer</a> - suitable for posting!
 -->
@@ -112,6 +108,8 @@ Contact <a href="mailto:maryjemin@yahoo.com">Mikki Jemin</a>, or any of the abov
 
 <P> &nbsp;<br>
 <font size=+1 color="#cb6940"><B>Previous Conferences:</font></B>
+<br> &nbsp; &nbsp; &nbsp;
+<img src="http://nmnwse.org/Images/bl_pin.gif"><a href="http://nmnwse.org/sceyh/2016/SCEYH_2016_Brochure.pdf"> 2016 Silver City EYH brochure</a>
 <br> &nbsp; &nbsp; &nbsp;
 <img src="http://nmnwse.org/Images/bl_pin.gif"><a href="index15.php"> 2015 Silver City EYH webpage</a>
 <br> &nbsp; &nbsp; &nbsp;

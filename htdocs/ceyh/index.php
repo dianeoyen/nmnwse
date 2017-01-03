@@ -39,9 +39,14 @@
 	</td></tr></table>
       </P>
 
-      <P> <! Registration to open in early January >
-	Planning for the 2017 EYH has begun.
-      </P>
+      <p>
+	<a href="http://www.expandingyourhorizons.org/conferences/Albuquerque"> <b>Central NM EYH home</b></a>
+      </p>
+      
+      <p>
+	<a href="http://www.expandingyourhorizons.org/conferences/Albuquerque/page2.php"> <b>Register for EYH</b></a>
+      </p>
+      
 
       <!--
 	  <P><img src="http://nmnwse.org/Images/updated.gif">&nbsp;11/24/14:&nbsp;<img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;<a href="http://nmnwse.org/ceyh/Flyers/CEYH_2015_FLYER.pdf">Postable 2015 Flyer</a>
@@ -55,7 +60,7 @@
          -->
 
       <P>
-	<B>If you would like to volunteer to help with the conference:</b>
+	If you would like to volunteer to help with the conference:
 	<!--&nbsp;&nbsp;&nbsp;<img src="http://nmnwse.org/Images/gr_dot.gif" height=10>-->
 	<ul>
 	  <li>contact the CEYH planning committee at <a href="mailto:CENTRAL_EYH-L@list.unm.edu">CENTRAL_EYH-L@list.unm.edu</a>, </li>
@@ -64,9 +69,6 @@
 	</ul>
       </P>
 
-      <P>
-	<b>For EYH registration information,</b> please check back around January 1st, 2017.
-      </P>
 
       <hr>
 
