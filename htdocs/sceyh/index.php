@@ -42,11 +42,6 @@ include("Includes/pagetop2_sceyh.php");
       <td valign="top"> <a href="mailto:dareadrienne@gmail.com">dareadrienne@gmail.com</a>, 575-388-2013</td>
   </tr>
   <tr>
-      <td valign="top"> <b>&nbsp; </b></td>
-      <td valign="top"> Priscilla Mathena&nbsp;&nbsp;</td>
-      <td valign="top"> <a href="mailto:pmathena@q.com">pmathena@q.com</a>, 575-388-1217</td>
-  </tr>
-  <tr>
       <td valign="top"> <b>Web Page:</b></td>
       <td colspan="2" valign="top"><a href="http://nmnwse.org/sceyh">http://nmnwse.org/sceyh</a> </td>
   </tr>
@@ -54,16 +49,15 @@ include("Includes/pagetop2_sceyh.php");
       <td valign="top"> <b>Mailing<br> address:</b></td>
       <td colspan="2" valign="top">
            Silver City EYH c/o 
-           Adrienne Dare<br>
-           54 Wendy Rd<br>
+           Mikki Jemin<br>
+           409 S. Pinos Altos St.<br>
            Silver City, NM 88061
       </td>
   </tr>
   <tr>
-      <td valign="top"><b>Co-Hosts:</b><br>
+      <td valign="top"><b>Sponsors: </b><br>
       </td>
-      <td colspan="2" rowspan="1" valign="top">
-           AAUW, GSDSW, WNMU<br>
+          <td colspan="2" rowspan="1" valign="top">Silver City-Southwest NM Branch of AAUW, The Girl Scouts of the Desert Southwest, Freeport-McMoRan, Silver City Woman's Club<br>
       </td>
   </tr>
 </tbody>
