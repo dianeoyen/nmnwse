@@ -12,7 +12,7 @@
     <header>
       <?php
 	 $banner_title = "FY 16-17 Board Meetings";
-	 include("../include/pagetop_nmnwse.php");
+         include("../include/pagetop_nmnwse.php");
 	 ?>
     </header>
 
@@ -88,8 +88,8 @@
             Board meeting at State Science Fair <! img src="http://nmnwse.org/Images/updated.gif" >
 	    <br><img src="http://nmnwse.org/Images/button.gif" height="12">&nbsp;<b>Volunteers to help judge the NMNWSE special awards are welcome!</b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please <a href="mailto:NMNWSE_Board-L@list.unm.edu?NMNWSE Awards at State Science Fair">contact the Board</a> if you wish to help judge.
 	    <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>7:45 am:</b> NMNWSE Award Judging, Fidel Student Center, NMT, Socorro, NM
-	    <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>12:30 pm:</b> Award Winner Selection, location TBA, <! Jones Annex, Room 101,> NMT, Socorro, NM
-	    <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>1:00 pm:</b> Board Meeting,  location TBA, <!Jones Annex, Room 101, > NMT, Socorro, NM
+	    <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>12:30 pm:</b> Award Winner Selection, Jones Annex, Room 101, NMT, Socorro, NM
+	    <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>1:00 pm:</b> Board Meeting,  Jones Annex, Room 101, NMT, Socorro, NM
 	    <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"><a href="http://infohost.nmt.edu/~science/fair/"><I><B>New Mexico Science &amp; Engineering Fair</b></I></a>
 	    <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"><a href="http://www.nmt.edu/campus-maps">NM Tech maps page</a>
 	    <br>&nbsp;
@@ -244,6 +244,13 @@ SMLC rm 124 is a small conference room on the first floor of the SMLC (Bldg 14) 
       
       <! start of agendas >
       
+      <dt>
+	<font color="#cb6940"><B>FY 16-17 Agendas: (Oct 2016 - 2017 Annual Meeting) </b></font>
+      </dt>
+      <dd>
+	<a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Agenda_20170401.pdf">Apr 1, 2017</a>
+      </dd>
+
       <dt>
 	<font color="#cb6940"><B>FY 15-16 Agendas: (Oct 2015 - 2016 Annual Meeting) </b></font>
       </dt>
