@@ -46,6 +46,7 @@
 		</td>
 	      </tr>
 	      -->
+	  <!--
 	  <tr>
 	  <td valign="top">
 	  </td>
@@ -61,6 +62,8 @@
 	    <br>&nbsp;
 	  </td>
 	</tr><tr>
+	  -->
+	  <!--
 	  <td valign="top">
 	  </td><td valign="top">
 	    Feb 11
@@ -74,7 +77,9 @@
 	    <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"> Best parking lots are either south of SH, off Stewart and Sweet, or due east of the building, off of Williams.
 	    <br>&nbsp;
 	  </td>
-	</tr><tr>
+	</tr>
+        -->
+	  <tr>
 	  <td valign="top">
 	  </td>
 	  <td valign="top">
@@ -83,8 +88,8 @@
             Board meeting at State Science Fair <! img src="http://nmnwse.org/Images/updated.gif" >
 	    <br><img src="http://nmnwse.org/Images/button.gif" height="12">&nbsp;<b>Volunteers to help judge the NMNWSE special awards are welcome!</b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please <a href="mailto:NMNWSE_Board-L@list.unm.edu?NMNWSE Awards at State Science Fair">contact the Board</a> if you wish to help judge.
 	    <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>7:45 am:</b> NMNWSE Award Judging, Fidel Student Center, NMT, Socorro, NM
-	    <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>12:30 pm:</b> Award Winner Selection, <! location TBA > Jones Annex, Room 101, NMT, Socorro, NM
-	    <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>1:00 pm:</b> Board Meeting, <! location TBA > Jones Annex, Room 101,  NMT, Socorro, NM
+	    <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>12:30 pm:</b> Award Winner Selection, location TBA, <! Jones Annex, Room 101,> NMT, Socorro, NM
+	    <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>1:00 pm:</b> Board Meeting,  location TBA, <!Jones Annex, Room 101, > NMT, Socorro, NM
 	    <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"><a href="http://infohost.nmt.edu/~science/fair/"><I><B>New Mexico Science &amp; Engineering Fair</b></I></a>
 	    <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"><a href="http://www.nmt.edu/campus-maps">NM Tech maps page</a>
 	    <br>&nbsp;

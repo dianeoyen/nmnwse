@@ -57,7 +57,20 @@ include("Includes/pagetop2_sceyh.php");
   <tr>
       <td valign="top"><b>Sponsors: </b><br>
       </td>
-          <td colspan="2" rowspan="1" valign="top">Silver City-Southwest NM Branch of AAUW, The Girl Scouts of the Desert Southwest, Freeport-McMoRan, Silver City Woman's Club<br>
+      <td colspan="2" rowspan="1" valign="top">
+	Silver City-Southwest NM Branch of AAUW
+	<br>
+	NMNWSE
+	<br>
+	Western New Mexico University
+	<br>
+	Freeport-McMoRan
+	<br>
+	The Girl Scouts of the Desert Southwest
+	<br>
+	Forward NM
+	<br>
+	Silver City Woman's Club
       </td>
   </tr>
 </tbody>

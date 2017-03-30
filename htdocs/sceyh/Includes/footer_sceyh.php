@@ -17,7 +17,9 @@
        </font>
   </td>
   <td align="center" valign="top">
-      <! -------- GSA---------- >
+
+
+<! -------- GSA---------- >
       <a href="http://www.gsdsw.org"><img alt="Girl Scouts of America" src="http://nmnwse.org/Images/GSA.gif" height="53" width="56" border="0"></a><br>
       <font face="Arial,Helvetica">
       <a href="http://www.gsdsw.org">girlscouts.org</a>
