@@ -160,3 +160,13 @@ table.headingcolumn td:first-child {
     color: #4b9fc3;
     font-weight: bold;
 }
+
+div.multicolumn {
+    display: inline-block;
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+    -webkit-column-width: 200px;
+    -moz-column-width: 200px;
+    column-width: 200px;
+}
