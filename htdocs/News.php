@@ -30,7 +30,7 @@
           <li> <a href="News/NMNWSE_newsletter_201506.pdf">June 2015</a> </li>
           <li> <a href="News/NMNWSE_newsletter_09_2014.pdf">September 2014</a> </li>
           <li> <a href="News/NMNWSE_newsletter_08_2013.pdf">August 2013</a> </li>
-          <li> <a href="News/NMNWSE_PresNote_Spring2013.pdf">Spring 2013</a><sup>a</sup> </li>
+          <li> <a href="News/NMNWSE_PresNote_Spring2013.pdf">Spring 2013</a> </li>
           <li> <a href="News/NMNWSE_newsletter_08_2012.pdf">October 2012</a> </li>
           <li> <a href="News/NMNWSE_newsletter_09_2010.pdf">September 2010</a> </li>
           <li> <a href="News/NMNWSE_newsletter_08_2009.pdf">August 2009</a> </li>
@@ -68,10 +68,6 @@
         <li> <a href="News/9510.html">October 1995</a> </li>
         <li> <a href="News/9507.html">July 1995</a> </li>
       </ul>
-
-      <p>
-        <sup>a</sup>Mini-Newsletter/Note from President
-      </p>
 
     </main>
 

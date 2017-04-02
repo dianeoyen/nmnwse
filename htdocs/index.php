@@ -36,8 +36,13 @@
 	   <h2> News title </h2>
 	   <p>
 	     blurb
-	   <p>
+	   </p>
       -->
+
+      <! Science fair >
+      <?php 
+	 include("inNews/201704_news.html"); 
+	 ?>
 
       <! 2016 Impact! Award >
       <?php
@@ -56,11 +61,6 @@
 	  &nbsp;&nbsp;&nbsp;&nbsp;PO Box 51926<br>
 	  &nbsp;&nbsp;&nbsp;&nbsp;Albuquerque, NM 87181 </b><br>
       </p>
-
-      <! Science fair and SCC >
-      <?php 
-	 include("inNews/201604_news.htm"); 
-	 ?>
 
       <!-- more news -->
       <a href="http://nmnwse.org/inNews/index.php"><h2>More News</h2></a>
