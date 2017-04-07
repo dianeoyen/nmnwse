@@ -34,7 +34,7 @@ include("Includes/pagetop2_sceyh.php");
   <tr>
       <td valign="top"> <b>Contacts:</b></td>
       <td valign="top"> Mikki Jemin &nbsp;&nbsp;</td>
-      <td valign="top"> <a href="mailto:maryjemin@yahoo.com">maryjemin@yahoo.com</a>, 575-654-5816</td>
+      <td valign="top"> <a href="mailto:mary.jemin@gmail.com">mary.jemin@gmail.com</a>, 575-654-5816</td>
   </tr>
   <tr>
       <td valign="top"> <b>&nbsp; </b></td>
@@ -109,7 +109,7 @@ The format will be similar to previous conferences - choice of three workshops, 
 
 <P><img src="http://nmnwse.org/Images/button.gif" height=12><b>Questions? Like to be involved?</b>
 <br>
-Contact <a href="mailto:maryjemin@yahoo.com">Mikki Jemin</a>, or any of the above contacts, if you'd like to get involved with Silver City EYH conference planning or have any questions. See also the <a href="http://nmnwse.org/eyh">NMNWSE EYH</a> and <a href="http://www.expandingyourhorizons.org">national EYH</a> webpages for <a href="http://nmnwse.org/eyh/eyh_confs.php">other EYH conferences in New Mexico</a> and background on these conferences.
+Contact <a href="mailto:mary.jemin@gmail.com">Mikki Jemin</a>, or any of the above contacts, if you'd like to get involved with Silver City EYH conference planning or have any questions. See also the <a href="http://nmnwse.org/eyh">NMNWSE EYH</a> and <a href="http://www.expandingyourhorizons.org">national EYH</a> webpages for <a href="http://nmnwse.org/eyh/eyh_confs.php">other EYH conferences in New Mexico</a> and background on these conferences.
 
 
 
