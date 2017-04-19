@@ -46,6 +46,10 @@ header a {
     text-decoration: none;
 }
 
+header p a {
+    text-decoration: underline;
+}
+
 footer {
     text-align: center;
 }
@@ -136,6 +140,10 @@ p.highlight {
     text-align: center;
     padding-left: 1em;
     padding-right: 1em;
+}
+
+p.center {
+    text-align: center;
 }
 
 table {

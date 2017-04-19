@@ -17,10 +17,11 @@
 
 <a href="http://nmnwse.org/eyh/index.php"><h1 color="#cb6940">Expanding Your Horizons</h1></a>
 
-licensed from the<br>
-<a href="http://www.expandingyourhorizons.org/">national EYH Network</a>
+<p class="center">
+  licensed from the<br>
+  <a href="http://www.expandingyourhorizons.org/">national EYH Network</a>
+</p>
 
-<br>
 <img alt="" src="http://nmnwse.org/Images/linefrill.gif" class="decoration" height="7" vspace="3" width="100%">
 
 <! ---------- end top bar -------- >
