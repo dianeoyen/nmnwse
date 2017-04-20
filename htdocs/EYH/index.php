@@ -52,7 +52,7 @@ with questions about the conferences, or to let us know your interest in helping
 
     <! -------- Las Cruces ---------- >
     <a href="http://www.eyhnmsu.webs.com">
-      <h2>Las Cruces,&nbsp; grades 5-9</h2></a>
+      <h2>Las Cruces, grades 5-9</h2></a>
     <h3>Saturday, January 28, 2017
       <br>New Mexico State University, Las Cruces, NM</h3>
     <details>
@@ -61,7 +61,7 @@ with questions about the conferences, or to let us know your interest in helping
       <tbody>
         <tr>
           <td valign="top"> <b>Contacts:</b></td>
-          <td valign="top">Rebecca Galves &nbsp; &nbsp; </td>
+          <td valign="top">Rebecca Galves</td>
           <td valign="top"> <a href="mailto:rgalves@cs.nmsu.edu">rgalves@cs.nmsu.edu</a>
           </td>
         </tr>
@@ -99,7 +99,7 @@ with questions about the conferences, or to let us know your interest in helping
 
     <! -------- Albuquerque EYH ---------- >
     <a href="http://nmnwse.org/ceyh">
-      <h2>Albuquerque,&nbsp;&nbsp; grades 5-9</h2></a>
+      <h2>Albuquerque, grades 5-9</h2></a>
     <h3>Saturday, January 28, 2017
       <br>
       University of New Mexico (UNM), Albuquerque, NM
@@ -111,7 +111,7 @@ with questions about the conferences, or to let us know your interest in helping
         <tr>
           <td valign="top"> <b>Contact:</b></td>
           <td valign="top">
-            Rochelle Larson&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            Rochelle Larson
           </td>
           <td valign="top">
             <a href="mailto:rochellelnjim@gmail.com?Subject=EYH">rochellelnjim@gmail.com</a>, 505-243-3200
@@ -120,7 +120,7 @@ with questions about the conferences, or to let us know your interest in helping
         <tr>
           <td valign="top"> </td>
           <td valign="top">
-            Planning Committee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+            Planning Committee <br>
           </td>
           <td valign="top">
             <a href="mailto:central_EYH-L@list.unm.edu?Subject=ABQ EYH">central_EYH-L@list.unm.edu</a>
@@ -149,12 +149,6 @@ with questions about the conferences, or to let us know your interest in helping
             EYH ABQ<br>
             P.O. Box 50907 <br>
             Albuquerque, NM 87181-0907
-	    <!--
-		Beulah Woodfin<br>
-		5004 Northern Trail NW<br>
-		Albuquerque, NM 87120<br>
-		505-831-0682
-	      -->
           </td>
         </tr>
         <tr>
@@ -181,12 +175,12 @@ with questions about the conferences, or to let us know your interest in helping
       <tbody>
         <tr>
           <td valign="top"> <b>Contacts:</b></td>
-          <td valign="top"> Mikki Jemin &nbsp; &nbsp;</td>
-          <td valign="top"> <a href="mailto:maryjemin@yahoo.com">maryjemin@yahoo.com</a>, 575-654-5816</td>
+          <td valign="top"> Mikki Jemin </td>
+          <td valign="top"> <a href="mailto:mary.jemin@gmail.com">mary.jemin@gmail.com</a>, 575-654-5816</td>
         </tr>
         <tr>
           <td valign="top"> <b>&nbsp;</b></td>
-          <td valign="top"> Adrienne Dare &nbsp; &nbsp;</td>
+          <td valign="top"> Adrienne Dare </td>
           <td valign="top"> <a href="mailto:dareadrienne@gmail.com">dareadrienne@gmail.com</a>, 575-388-2013</td>
         </tr>
         <tr>
@@ -217,17 +211,16 @@ with questions about the conferences, or to let us know your interest in helping
     <a href="http://nmnwse.org/lawis/eyh/index.shtml"><img src="http://nmnwse.org/Images/NEYH_mtn2_100.jpg" alt="" align="right" border="0" height="77" width="200"></a>
     -->
     <a href="http://nmnwse.org/lawis/eyh/index.shtml">
-      <h2>Santa Fe - spring,&nbsp; grades 5-8</h2></a>
+      <h2>Northern NM, grades 5-8</h2></a>
     <h3>Thursday, March 9, 2017
       <br>Santa Fe Convention Center, Santa Fe, NM </h3>
-    <I>Note this EYH is the "Los Alamos" EYH, also called the "Northern NM EYH", which is now held in Santa Fe. There will be a separate fall EYH in Santa Fe</I>
     <details>
       <summary>More info & contacts</summary>
     <table border="0" cellpadding="1" cellspacing="1">
       <tbody>
         <tr>
           <td valign="top"> <b>Contacts:</b></td>
-          <td valign="top"> Jan Frigo &nbsp;&nbsp;
+          <td valign="top"> Jan Frigo
           </td>
           <td valign="top"> 
             <a href="mailto:jfrigo@lanl.gov?Subject=NNM EYH">jfrigo@lanl.gov</a>, 505-667-1263
@@ -235,7 +228,7 @@ with questions about the conferences, or to let us know your interest in helping
         </tr>
         <tr>
           <td valign="top"> <b>&nbsp;</b></td>
-          <td valign="top"> Josefina E. Salazar &nbsp;&nbsp;</td>
+          <td valign="top"> Josefina E. Salazar </td>
           <td valign="top"> 
             <a href="mailto:eyh-registrar@lanl.gov?Subject=NNM EYH">eyh-registrar@lanl.gov</a>, 505-667-2701
           </td>
@@ -283,20 +276,11 @@ with questions about the conferences, or to let us know your interest in helping
       <summary>
         More info and contacts
       </summary>
-      <!--
-      <br><b> We are targeting a Friday in October for the 2016 conference.</b>
-      <br><b> 2015 conference was held October 2, 2015.</b>
-      -->
-      <!--
-      <br><b>Further 2016 conference information anticipated late summer, 2016</b>
-      <br><b> 2014 conference was held October 25, 2014.</b>
-      &nbsp;<! img src="http://nmnwse.org/Images/new.gif" >
-      -->
     <table border="0" cellpadding="1" cellspacing="1">
       <tbody>
         <tr>
           <td valign="top"> <b>Contact:</b></td>
-          <td valign="top"> Cassie Marrs&nbsp;</td>
+          <td valign="top"> Cassie Marrs </td>
           <td valign="top"> <a href="mailto:marrs.cassie@gmail.com?Subject=Carlsbad EYH">marrs.cassie@gmail.com</a>, (956) 242-7865<! a google phone number ></td>  
         </tr>
         <tr>
@@ -331,7 +315,7 @@ with questions about the conferences, or to let us know your interest in helping
 
     <! -------- Santa Fe EYH ---------- >
     <a href="http://nmnwse.org/sfeyh/">
-      <h2>Santa Fe - fall,&nbsp; grades 5-8</h2></a>
+      <h2>Santa Fe, grades 5-8</h2></a>
     
     <h3>October, Santa Fe Community College, Santa Fe, NM</h3>
     2016 conference was held October 15 at Santa Fe Community College, Santa Fe, NM

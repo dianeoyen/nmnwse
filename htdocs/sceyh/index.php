@@ -24,7 +24,7 @@
         ?>
       
       <h2> 
-        TBD: A Saturday in February
+        February
         <br> Western New Mexico University
         <br> grades 5-8
       </h2>
@@ -126,7 +126,7 @@
 
     <footer>
       <?php
-        include("Includes/pagebotnew_sceyh.php");
+        include("../include/footer_sceyh.php");
         ?>
     </footer>
   </body>
