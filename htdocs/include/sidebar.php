@@ -94,27 +94,19 @@
 	  <a href="http://nmnwse.org/lceyh">Las Cruces</a>
 	</li>
 	<li>
-	  <a href="http://nmnwse.org/lawis/eyh/index.shtml">Santa Fe - spring</a>
+	  <a href="http://nmnwse.org/lawis/eyh/index.shtml">Northern NM</a>
 	</li>
 	<li>
-	  <a href="http://nmnwse.org/sfeyh">Santa Fe - fall</a>
+	  <a href="http://nmnwse.org/sfeyh">Santa Fe</a>
 	</li>
 	<li>
 	  <a href="http://nmnwse.org/sceyh">Silver City</a>
 	</li>
-	<!--
-	    <br>&nbsp; &nbsp; <a href="http://www.expandingyourhorizons.org/conferences/SantaFe/">Santa Fe - fall</a>
-	    <br>&nbsp; &nbsp; <a href="http://nmnwse.org/nnmeyh">Northern (LA&SF)</a>
-	    <br>&nbsp; &nbsp; <a href="http://nmnwse.org/wseyh">White Sands</a>
-	    -->
       </ul>
     </li>
     <li>
       <a href="http://nmnwse.org/careers"><b><! font color="#cb6940" >Careers: Exploring the Possibilities<! /font ></b></a>,
-      <!--
-	  <br>Our Careers Book, created for our EYH conferences
-	  -->
-      created and published by NMNWSE for our
+      created by NMNWSE for our
       EYH conferences
     </li>
     <li>

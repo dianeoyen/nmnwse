@@ -41,14 +41,14 @@
       <h3> 2017 </h3>
        <ul>
 	<li>
-	  <a href="201704_news.htm">NMNWSE Awards at the State Science Fair</a>
+	  <a href="201704_news.html">NMNWSE Awards at the State Science Fair</a>
 	</li>
        </ul>
 
       <h3> 2016 </h3>
        <ul>
 	<li>
-	  <a href="201612_news.htm">Carol Linder honored as IMPACT! Award winner</a>
+	  <a href="201612_news.html">Carol Linder honored as IMPACT! Award winner</a>
 	</li>
 	<li>
 	  <a href="201608_news.htm">NMNWSE Awards at the Supercomputing Challenge</a>
