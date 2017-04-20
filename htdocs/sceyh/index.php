@@ -86,7 +86,7 @@
         <li>
           <a href="http://nmnwse.org/sceyh/2017/SCEYH_2017_Brochure.pdf"> 2017 Silver City EYH brochure</a>
           and
-          <a href="http://nmnwse.org/sceyh/2017/SCEYH_2017_Brochure_Spanish.pdf"> in Spanish</a>
+          <a href="http://nmnwse.org/sceyh/2017/SCEYH_2017_Brochure_Spanish.pdf"> en español</a>
         </li>
         <li>
           <a href="http://nmnwse.org/sceyh/2016/SCEYH_2016_Brochure.pdf"> 2016 Silver City EYH brochure</a>
