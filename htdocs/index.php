@@ -39,6 +39,11 @@
 	   </p>
       -->
 
+      <! Supercomputing Challenge >
+      <?php
+        include("inNews/20170425_news.html");
+        ?>
+
       <! Science fair >
       <?php 
 	 include("inNews/201704_news.html"); 
@@ -47,11 +52,6 @@
       <! 2016 Impact! Award >
       <?php
 	 include("inNews/201612_news.html");
-	 ?>
-
-      <! Supercomputing Challenge >
-      <?php 
-	 include("inNews/201608_news.htm"); 
 	 ?>
 
       <h2>NMNWSE Has New Mailing Address</h2>

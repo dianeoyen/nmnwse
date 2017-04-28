@@ -41,6 +41,9 @@
       <h3> 2017 </h3>
        <ul>
 	<li>
+	  <a href="20170425_news.html">NMNWSE Award at the Supercomputing Challenge</a>
+	</li>
+	<li>
 	  <a href="201704_news.html">NMNWSE Awards at the State Science Fair</a>
 	</li>
        </ul>

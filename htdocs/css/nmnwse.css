@@ -63,6 +63,15 @@ img.center {
     margin: 0 auto;
 }
 
+img.news {
+    display: inline;
+    float: left;
+    max-width: 100%;
+    height: 200px;
+    margin-right: 5px;
+    border: 1px solid black;
+}
+
 nav {
     padding: 5px;
     font-family: "Times New Roman", serif;
