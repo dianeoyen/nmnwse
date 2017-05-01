@@ -14,11 +14,6 @@
     <li>
       <a href="http://nmnwse.org/careers">Careers:
         Exploring the Possibilities</a>
-      <ul>
-        <li>
-          created by NMNWSE for our EYH conferences
-        </li>
-      </ul>
     </li>
     <li>
       <a href="http://nmnwse.org/eyh">NMNWSE EYH home</a>

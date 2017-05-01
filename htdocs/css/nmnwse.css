@@ -191,3 +191,32 @@ div.multicolumn {
 div.multicolumn ul {
     padding-left: 18px;
 }
+
+div.img_bar {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+div.img_bar img {
+    border: 1px solid black;
+    margin: 0;
+    width: 23%;
+}
+
+div.img_bar_vert {
+    float: left;
+    display: inline;
+    width: 25%;
+}
+
+div.img_bar_vert img {
+    border: 1px solid black;
+    margin: 0;
+    width: 90%;
+}
+
+div.sceyh {
+    margin: 5px;
+}
