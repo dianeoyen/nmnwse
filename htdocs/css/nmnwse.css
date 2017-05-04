@@ -193,30 +193,66 @@ div.multicolumn ul {
 }
 
 div.img_bar {
-    display: inline;
+    box-sizing: border-box;
+    display: block;
     margin: 0;
     padding: 0;
     width: 100%;
+    background-color: #4b9fc3;
+    text-align: center;
 }
 
 div.img_bar img {
+    box-sizing: border-box;
     border: 1px solid black;
-    margin: 0;
-    width: 23%;
+    display: inline-block;
+    margin-left: -2px;
+    margin-right: -2px;
+    padding: 0;
+    width: 33%;
 }
 
 div.img_bar_vert {
+    box-sizing: border-box;
     float: left;
     display: inline;
     width: 25%;
+    background-color: #4b9fc3;
+    align-items: stretch;
+    overflow: hidden;
 }
 
 div.img_bar_vert img {
+    box-sizing: border-box;
     border: 1px solid black;
-    margin: 0;
+    display: block;
+    margin: auto;
+    padding: 0;
     width: 90%;
 }
 
-div.sceyh {
-    margin: 5px;
+div.content img.logo {
+    box-sizing: border-box;
+    border: 0px;
+    float: right;
+    display: inline-block;
+    height: 120px;
+    padding: 2px;
+}
+
+div.content {
+    box-sizing: border-box;
+    float: right;
+    display: inline-block;
+    width: 75%;
+    padding-left: 10px;
+    background-color: #ffffff;
+}
+
+div.wrapper {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
 }
