@@ -28,8 +28,8 @@
       </a>
 
 
-      <a href="http://www.facebook.com/group.php?gid=7005676895&ref=share">
-	<h2> Unofficial facebook Page </h2>
+      <a href="https://www.facebook.com/groups/7005676895">
+	<h2> Facebook Group </h2>
       </a>
       <p class="note">
 	Members have created a facebook page to facillitate communication among members who use facebook, though it is not officially maintained by the NMNWSE Board. 
@@ -40,6 +40,9 @@
 
       <h3> 2017 </h3>
        <ul>
+	<li>
+	  <a href="20170503_news.html">AAUW-NM honors NMNWSE with Mission in Action Award</a>
+	</li>
 	<li>
 	  <a href="20170425_news.html">NMNWSE Award at the Supercomputing Challenge</a>
 	</li>

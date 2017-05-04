@@ -39,6 +39,11 @@
 	   </p>
       -->
 
+      <! AAUW-NM Mission in Action award >
+      <?php
+        include("inNews/20170503_news.html");
+        ?>
+
       <! Supercomputing Challenge >
       <?php
         include("inNews/20170425_news.html");
