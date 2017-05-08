@@ -28,50 +28,40 @@
       </p>
 
       <!--
-	  <P><hr width="50%">
-	    
 	  <P><img src="http://nmnwse.org/Images/arrow2r.gif"><font color="#cb6940" size=+1><b>BREAKING NEWS:</b></font>&nbsp;&nbsp;<b>Laura Crossey has been selected as the 2015 IMPACT! Award winner.</b><br>
 	    <img src="http://nmnwse.org/Images/r_hand.gif">
 	    <a href="http://nmnwse.org/ImpactAward/winners/2015_Impact_Award_Winner_News_Release.pdf">Click here for the press release summarizing Laura's contributions.</a>
-	    <! will be posted shortly >
-	    
-	    
-	  <P><hr width="50%">
-	    
-	  <P><img src="http://nmnwse.org/Images/arrow2r.gif"><font color="#cb6940" size=+1><b>BREAKING NEWS:</b></font>&nbsp;&nbsp;<b>WINNERNAME has been selected as the LASTYEAR IMPACT! Award winner.</b><br>
-	    <a href="http://nmnwse.org/ImpactAward/winners/LASTYEAR_Impact_Award_Winner_News_Release.pdf">Click here for the press release summarizing WINNERNAME's contributions.</a>
-	    <! will be posted shortly >
 	    
 	    <br><img src="http://nmnwse.org/Images/arrow2r.gif"><font color="#cb6940" size=+1><b>BREAKING NEWS:</b></font>&nbsp;&nbsp;DATE: <B>IMPACT! Award nomination deadline extended to NEWDATE.</b>  &nbsp;<img src="http://nmnwse.org/Images/new2.gif"><br>
 	    <br>Not all forms below have been updated to reflect this - all forms, corrected or not, received by NEWDATE will be considered for the CURRENTYEAR Award. Forms received after this date will be considered for the NEXTYEAR Award.
 	  <P><img src="http://nmnwse.org/Images/updated.gif">&nbsp;
 	    
-	    DATE: <B>CURRENTYEAR nomination deadline extend to NEWDATE.</b>
-	    
-	    DATE: Information and forms now updated for CURRENTYEAR.
-	    
 	    -->
+      <!--
       <p>
 	The IMPACT! Award call is anticpated spring 2017, with nominations due in the mid-September timeframe and the winner announced roughly one month later and honored at the NMNWSE annual meeting in October. 
 	Updated information and forms will be posted here when available. In the meantime, 2016 forms may be used to submit 2017 nominations.
       </P>
+      -->
 
-      <h2>Award Information</h2>
+      <h2>2017 Award Information</h2>
       <ul>
+        <!--
 	<li>
 	  <a href="http://nmnwse.org/ImpactAward/NewsRelease2016nominations.pdf">News Release</a>
 	</li>
+        -->
 	<li>
-	  <a href="http://nmnwse.org/ImpactAward/ImpactFlyer.pdf">Postable Flyer</a>  &nbsp; (<a href="http://nmnwse.org/ImpactAward/ImpactFlyer_long.pdf">landscape version</a>)
+	  <a href="http://nmnwse.org/ImpactAward/Impact_Flyer.pdf">Postable Flyer</a>
 	</li>
 	<li>
 	  <a href="http://nmnwse.org/ImpactAward/Impact_Cover_Letter.pdf">Cover Letter</a>  
 	</li>
 	<li>
-	  <a href="http://nmnwse.org/ImpactAward/Impact_Nomination_Form.pdf">Nomination Form</a> &nbsp; (<a href="http://nmnwse.org/ImpactAward/Impact_Nomination_Form.htm">html version</a>)
+	  <a href="http://nmnwse.org/ImpactAward/Impact_Nomination_Form.pdf">Nomination Form</a>
 	</li>
 	<li>
-	  <a href="http://nmnwse.org/ImpactAward/ImpactHandout.pdf">Flyer, Cover letter, and Nomination Form as 5-page handout</a>
+	  <a href="http://nmnwse.org/ImpactAward/Impact_Handout.pdf">Flyer, Cover letter, and Nomination Form as 5-page handout</a>
 	</li>
 	<li>
           The honoree is recognized during the Network's <a href="http://nmnwse.org/AM/">Annual Meeting and Technical Symposium</a>.
@@ -117,7 +107,7 @@
 	</li>
 	<li>
 	  The award will be presented at the <a href="http://nmnwse.org/AM/2016">NMNWSE Annual meeting</a> dinner
-	  on a Saturday in late October - the exact date will be posted when available.
+	  on a Saturday in late October.
 	  Nominees and nominators will be notified as to the winner in plenty of time to schedule attending.
 	</li>
 	<li>
