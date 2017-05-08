@@ -19,6 +19,11 @@ include("../../Includes/pagetop2_nmnwse.php");
 <img src="http://nmnwse.org/Images/button.gif">
     <font color="#cb6940" size="+1"><b>Santa Fe - fall EYH Archives</b></font>
 
+<P><img src="http://nmnwse.org/Images/bl_pin.gif"> 2016 SF-fall EYH
+<UL><LI>
+<a href="http://nmnwse.org/sfeyh/EYH-SF-fall_Report_2016.pdf">Click here to download the 2016 SF-fall EYH report.<a>
+</LI></UL>
+
 <P><img src="http://nmnwse.org/Images/bl_pin.gif"> 2015 SF-fall EYH
 <UL><LI>
 <!  LosAlamosDailyPost_201509.pdf >
@@ -43,12 +48,6 @@ Article on the 2015 EYH in the Santa Fe New Mexican</a>
 </LI></UL>
 
 
-
-<P>
-<img src="http://nmnwse.org/Images/button.gif">
-  <a href="http://nmnwse.org/eyh/eyh_archives.php">
-    <font color="#cb6940" size="+1"><b>NMNWSE EYH archives</b></font></a>
- </P>
 
 <! ------------------------------------------ >
 

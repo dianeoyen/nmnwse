@@ -1,10 +1,10 @@
 <html>
 <head>
-<title>NMNWSE SF-fall EYH</title>
+<title>NMNWSE Santa Fe EYH</title>
 <?php
 include("../Includes/pagetop1_nmnwse.php");
 ?>
-Santa Fe-fall EYH Conference
+Santa Fe EYH Conference
 <?php
 include("../Includes/pagetop2_nmnwse.php");
 ?>
@@ -19,7 +19,7 @@ include("../Includes/pagetop2_nmnwse.php");
   <! a href="http://nmnwse.org/sfeyh/">
     <font color="#cb6940" size="+1"><b>Santa Fe - fall Expanding Your Horizons (EYH),&nbsp; grades 5-8</b></font></a>
  <br>
-            <font size="+1"><b><font color="#4b9fc3">Saturday, October 15, 2016, Santa Fe Community College, Santa Fe, NM</font></b></font>
+            <font size="+1"><b><font color="#4b9fc3">Saturday, October 21, 2017, Santa Fe Community College, Santa Fe, NM</font></b></font>
 <! img src="http://nmnwse.org/Images/updated.gif" >
              <! 2015 conference was held September 19, 2015 >
              <! 2014 conference was held November 8, 2014 >
@@ -67,7 +67,7 @@ include("../Includes/pagetop2_nmnwse.php");
                 <tr>
                   <td valign="top"> <b>Mailing<br> address:</b></td>
                   <td colspan="2" valign="top"> EYH - Santa Fe (Fall)<br>
-                         PO Box 33103 &nbsp; <img src="http://nmnwse.org/Images/updated.gif"><br>
+                         PO Box 33103 <br>
                          Santa Fe, NM 87594
                   </td>
                 </tr>
@@ -91,14 +91,14 @@ include("../Includes/pagetop2_nmnwse.php");
             </table>
 
 <P>
-The Santa Fe-fall planning committee is actively seeking presenters and other volunteers to help with the SF-fall EYH on Saturday, October 15, 2016, at Santa Fe Community College (SFCC). We are planning for 150 to 170 girls (grades 5-8) to come explore careers in Science, Technology, Engineering, and Math (STEM). The girls will attend two hands-on workshops, hear a dynamic keynote speaker, and participate a STEM fair. Adults (teachers and parents) can also register to attend the conference that includes the Adult Workshop <I>"Math Circle"</I> presented by James Taylor et al.
+The Santa Fe-fall planning committee is actively seeking presenters and other volunteers to help with the SF-fall EYH on Saturday, October 21, 2017, at Santa Fe Community College (SFCC). We are planning for 150 to 170 girls (grades 5-8) to come explore careers in Science, Technology, Engineering, and Math (STEM). The girls will attend two hands-on workshops, hear a dynamic keynote speaker, and participate a STEM fair. Adults (teachers and parents) can also register to attend the conference that includes the Adult Workshop <I>"Math Circle"</I> presented by James Taylor et al.
 </P>
 
 <P>
 <b>Please note our new mailing address:</b> SF-fall EYH, PO Box 33103, Santa Fe, NM 87594
 </P>
 
-<img src="http://nmnwse.org/Images/bl_pin.gif">To register as an adult or student attendee when registration opens (anticipated early Sep 2016), please go to:
+<img src="http://nmnwse.org/Images/bl_pin.gif">To register as an adult or student attendee when registration opens (anticipated early September), please go to:
 <br><img src="http://nmnwse.org/Images/spacer.gif" height=15 width=20><img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;<a href="http://www.expandingyourhorizons.org/conferences/SantaFe/">http://www.expandingyourhorizons.org/conferences/SantaFe</a>
 
 <br><img src="http://nmnwse.org/Images/bl_pin.gif">To sign up as an adult volunteer (including group guide), please go to 
@@ -111,7 +111,7 @@ The Santa Fe-fall planning committee is actively seeking presenters and other vo
 
 <br><img src="http://nmnwse.org/Images/bl_pin.gif">To get more information or if you have any questions, please contact the co-Chairs Lina and Kate at 505-539-0394 or eyhsantafe@gmail.com.
 
-<br><img src="http://nmnwse.org/Images/bl_pin.gif"><a href="EYH-SF-fall_Report_2015.pdf">Click here to download the 2015 SF-fall EYH report.<a>
+<br><img src="http://nmnwse.org/Images/bl_pin.gif"><a href="EYH-SF-fall_Report_2016.pdf">Click here to download the 2016 SF-fall EYH report.<a>
 <br>
 Previous year reports can be found on the <a href="http://nmnwse.org/sfeyh/archives">archives</a> page.
 <!---

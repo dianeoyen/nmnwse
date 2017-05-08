@@ -47,6 +47,126 @@ with questions about the conferences, or to let us know your interest in helping
     </P>
     <hr>
 
+    <! -------- Fall 2017 ---------- >
+
+    <h1>Fall 2017</h1>
+
+    <! -------- Carlsbad EYH ---------- >
+    <a href="http://nmnwse.org/carlsbad-eyh/">
+      <h2>Carlsbad, grades 7-8</h2></a>
+    <h3>September, NMSU Carlsbad, Carlsbad, NM</h3>
+    2016 conference was held September 30 at NMSU Carlsbad, Carlsbad, NM
+    <details>
+      <summary>
+        More info and contacts
+      </summary>
+    <table border="0" cellpadding="1" cellspacing="1">
+      <tbody>
+        <tr>
+          <td valign="top"> <b>Contact:</b></td>
+          <td valign="top"> Cassie Marrs </td>
+          <td valign="top"> <a href="mailto:marrs.cassie@gmail.com?Subject=Carlsbad EYH">marrs.cassie@gmail.com</a>, (956) 242-7865<! a google phone number ></td>  
+        </tr>
+        <tr>
+          <td valign="top"> <b>Web Page:</b></td>
+          <td valign="top"> Volunteers:</td>
+          <td valign="top"> <a href="http://nmnwse.org/carlsbad-eyh">http://nmnwse.org/carlsbad-eyh</a></td>
+        </tr>
+        <tr>
+          <td valign="top"> <b></b></td>
+          <td valign="top"> Registration:</td>
+          <td valign="top"> <a href="http://www.expandingyourhorizons.org/conferences/Carlsbad">http://www.expandingyourhorizons.org/conferences/Carlsbad</a>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"> <b>Mailing<br> address:</b></td>
+          <td colspan="2" valign="top"> EYH - Carlsbad<br>
+            Attn: Lisa Chappa<br>
+            1101 Callaway Drive No. 3303<br>
+            Carlsbad, NM  88220
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"><b>Co-Hosts:</b>
+          </td>
+          <td colspan="2" rowspan="1" valign="top">
+            NMSU Carlsbad, AAUW Carlsbad
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    </details>
+
+    <! -------- Santa Fe EYH ---------- >
+    <a href="http://nmnwse.org/sfeyh/">
+      <h2>Santa Fe, grades 5-8</h2></a>
+    
+    <h3>Saturday, October 21, 2017 <br>
+      Santa Fe Community College, Santa Fe, NM</h3>
+
+    <details>
+      <summary>More info & contacts</summary>
+      <table border="0" cellpadding="1" cellspacing="1">
+        <tbody>
+          <tr>
+          <td valign="top"> <b>Contacts:</b></td>
+          <td valign="top" colspan="2"> Lina Germann and Kate Gomez, co-Chairs 
+            <br> <a href="mailto:eyhsantafe@gmail.com?Subject=SF EYH">eyhsantafe@gmail.com</a>, 505-539-0394
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"> <b>Web Page:</b></td> <td colspan="2" valign="top">
+	    <a href="http://nmnwse.org/sfeyh/">http://nmnwse.org/sfeyh</a>  
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"> <b>Registration:</b></td> <td colspan="2" valign="top">
+	    <a href="http://www.expandingyourhorizons.org/conferences/SantaFe/">http://www.expandingyourhorizons.org/conferences/SantaFe/</a>  
+          </td>
+        </tr>
+	<!--
+        <tr>
+          <td valign="top"> <b>Flyer w<br>Reg Form:</b></td>
+          <td colspan="2" valign="center"><a href="http://nmnwse.org/sfeyh/SFEYH_20150919_brochure.pdf">http://nmnwse.org/sfeyh/SFEYH_20150919_brochure.pdf</a>
+	    &nbsp;<img src="http://nmnwse.org/Images/updated.gif">
+            <! http://nmnwse.org/sfeyh/SFEYH_20141108_brochure.pdf.pdf >
+            <! http://nmnwse.org/sfeyh/SFEYH_20131005_brochure.pdf >
+          </td>
+        </tr>
+        -->
+        <tr>
+          <td valign="top"> <b>Volunteer<br>Sign-Up:</b></td> <td colspan="2" valign="center">
+            <a href="http://nmnwse.org/sfeyh/volunteer">http://nmnwse.org/sfeyh/volunteer</a>  
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"> <b>Mailing<br> address:</b></td>
+          <td colspan="2" valign="top"> EYH - Santa Fe (Fall) <br>
+            PO Box 33103 <br>
+            Santa Fe, NM 87594
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"><b>Presented by:</b>
+          </td>
+          <td colspan="2" rowspan="1" valign="top">
+            NMNWSE, AAUW of Santa Fe, and STEM Santa Fe
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"><b>Hosted by:</b>
+          </td>
+          <td colspan="2" rowspan="1" valign="top">
+            Santa Fe Community College
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    </details>
+
+    <! -------- end Fall 2017 ---------- >
+
+
     <! -------- Spring 2017 ---------- >
     <h1>Spring 2017</h1>
 
@@ -261,125 +381,6 @@ with questions about the conferences, or to let us know your interest in helping
       </tbody>
     </table>
     </details>
-
-
-    <! -------- Fall 2017 ---------- >
-
-    <h1>Fall 2017</h1>
-
-    <! -------- Carlsbad EYH ---------- >
-    <a href="http://nmnwse.org/carlsbad-eyh/">
-      <h2>Carlsbad, grades 7-8</h2></a>
-    <h3>September, NMSU Carlsbad, Carlsbad, NM</h3>
-    2016 conference was held September 30 at NMSU Carlsbad, Carlsbad, NM
-    <details>
-      <summary>
-        More info and contacts
-      </summary>
-    <table border="0" cellpadding="1" cellspacing="1">
-      <tbody>
-        <tr>
-          <td valign="top"> <b>Contact:</b></td>
-          <td valign="top"> Cassie Marrs </td>
-          <td valign="top"> <a href="mailto:marrs.cassie@gmail.com?Subject=Carlsbad EYH">marrs.cassie@gmail.com</a>, (956) 242-7865<! a google phone number ></td>  
-        </tr>
-        <tr>
-          <td valign="top"> <b>Web Page:</b></td>
-          <td valign="top"> Volunteers:</td>
-          <td valign="top"> <a href="http://nmnwse.org/carlsbad-eyh">http://nmnwse.org/carlsbad-eyh</a></td>
-        </tr>
-        <tr>
-          <td valign="top"> <b></b></td>
-          <td valign="top"> Registration:</td>
-          <td valign="top"> <a href="http://www.expandingyourhorizons.org/conferences/Carlsbad">http://www.expandingyourhorizons.org/conferences/Carlsbad</a>
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>Mailing<br> address:</b></td>
-          <td colspan="2" valign="top"> EYH - Carlsbad<br>
-            Attn: Lisa Chappa<br>
-            1101 Callaway Drive No. 3303<br>
-            Carlsbad, NM  88220
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"><b>Co-Hosts:</b>
-          </td>
-          <td colspan="2" rowspan="1" valign="top">
-            NMSU Carlsbad, AAUW Carlsbad
-          </td>
-        </tr>
-      </tbody>
-    </table>
-    </details>
-
-    <! -------- Santa Fe EYH ---------- >
-    <a href="http://nmnwse.org/sfeyh/">
-      <h2>Santa Fe, grades 5-8</h2></a>
-    
-    <h3>October, Santa Fe Community College, Santa Fe, NM</h3>
-    2016 conference was held October 15 at Santa Fe Community College, Santa Fe, NM
-    <details>
-      <summary>More info & contacts</summary>
-    <table border="0" cellpadding="1" cellspacing="1">
-      <tbody>
-        <tr>
-          <td valign="top"> <b>Contacts:</b></td>
-          <td valign="top" colspan="2"> Lina Germann and Kate Gomez, co-Chairs 
-            <br> <a href="mailto:eyhsantafe@gmail.com?Subject=SF EYH">eyhsantafe@gmail.com</a>, 505-539-0394
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>Web Page:</b></td> <td colspan="2" valign="top">
-	    <a href="http://nmnwse.org/sfeyh/">http://nmnwse.org/sfeyh</a>  
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>Registration:</b></td> <td colspan="2" valign="top">
-	    <a href="http://www.expandingyourhorizons.org/conferences/SantaFe/">http://www.expandingyourhorizons.org/conferences/SantaFe/</a>  
-          </td>
-        </tr>
-	<!--
-        <tr>
-          <td valign="top"> <b>Flyer w<br>Reg Form:</b></td>
-          <td colspan="2" valign="center"><a href="http://nmnwse.org/sfeyh/SFEYH_20150919_brochure.pdf">http://nmnwse.org/sfeyh/SFEYH_20150919_brochure.pdf</a>
-	    &nbsp;<img src="http://nmnwse.org/Images/updated.gif">
-            <! http://nmnwse.org/sfeyh/SFEYH_20141108_brochure.pdf.pdf >
-            <! http://nmnwse.org/sfeyh/SFEYH_20131005_brochure.pdf >
-          </td>
-        </tr>
-        -->
-        <tr>
-          <td valign="top"> <b>Volunteer<br>Sign-Up:</b></td> <td colspan="2" valign="center">
-            <a href="http://nmnwse.org/sfeyh/volunteer">http://nmnwse.org/sfeyh/volunteer</a>  
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>Mailing<br> address:</b></td>
-          <td colspan="2" valign="top"> EYH - Santa Fe (Fall) <br>
-            PO Box 33103 <br>
-            Santa Fe, NM 87594
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"><b>Presented by:</b>
-          </td>
-          <td colspan="2" rowspan="1" valign="top">
-            NMNWSE, AAUW of Santa Fe, and STEM Santa Fe
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"><b>Hosted by:</b>
-          </td>
-          <td colspan="2" rowspan="1" valign="top">
-            Santa Fe Community College
-          </td>
-        </tr>
-      </tbody>
-    </table>
-    </details>
-
-    <! -------- end Fall 2017 ---------- >
 
 
     <! -------- New ---------- >
