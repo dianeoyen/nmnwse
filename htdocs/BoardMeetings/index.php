@@ -79,6 +79,7 @@
 	  </td>
 	</tr>
         -->
+	  <!--
 	  <tr>
 	  <td valign="top">
 	  </td>
@@ -94,7 +95,9 @@
 	    <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"><a href="http://www.nmt.edu/campus-maps">NM Tech maps page</a>
 	    <br>&nbsp;
 	  </td>
-	</tr><tr>
+	</tr>
+	  -->
+	  <tr>
 	  <td valign="top">
 	  </td>
 	  <td valign="top">
@@ -102,8 +105,9 @@
 	    <br>&nbsp;
 	    <! tentative >
 	  </td><td valign="middle">
-            11:00am, New Mexico Highlands University, Las Vegas, NM
-            &nbsp;<! img src="http://nmnwse.org/Images/updated.gif" >
+	      Cancelled
+              <! 11:00am, New Mexico Highlands University, Las Vegas, NM >
+
 	    <!--
 	    <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> Note starts at 10:30am, not the usual 10am.
 	    <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"> <a href="https://santafelibrary.org/hours-phone-locations/">SFPL Locations webpage</a>, with maps and directions.

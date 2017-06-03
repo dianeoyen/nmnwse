@@ -150,7 +150,7 @@ with questions about the conferences, or to let us know your interest in helping
           <td valign="top"><b>Presented by:</b>
           </td>
           <td colspan="2" rowspan="1" valign="top">
-            NMNWSE, AAUW of Santa Fe, and STEM Santa Fe
+            <a href="http://www.stemsantafe.org"> STEM Santa Fe </a>
           </td>
         </tr>
         <tr>
