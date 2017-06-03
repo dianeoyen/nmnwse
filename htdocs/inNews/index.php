@@ -41,6 +41,9 @@
       <h3> 2017 </h3>
        <ul>
 	<li>
+	  <a href="20170603_news.html">Mercedes Agogino wins 2017 IMPACT! Award</a>
+	</li>
+	<li>
 	  <a href="20170503_news.html">AAUW-NM honors NMNWSE with Mission in Action Award</a>
 	</li>
 	<li>
