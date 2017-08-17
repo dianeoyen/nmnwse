@@ -86,7 +86,7 @@ southeast parking space.
 	  <a href="http://www.cnm.edu/maps-and-directory/montoya-campus/montoya-map">CNM Montoya campus webpage</a>, with maps and directions.
 	</li>
 	<li>
-	  A web conferencing option may be available - contact the Board for more information.
+	  A phone/web conferencing option is available - see agenda below.
 	</li> 
       </ul>
 
@@ -161,6 +161,9 @@ southeast parking space.
       <h3> FY 16-17 Agendas (Oct 2016 - 2017 Annual Meeting) </h3>
       <ul>
 	<li>
+	  <a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Agenda_20170819.pdf">Aug 19, 2017</a>
+	</li>
+        <li>
 	  <a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Agenda_20170401.pdf">Apr 1, 2017</a>
 	</li>
       </ul>

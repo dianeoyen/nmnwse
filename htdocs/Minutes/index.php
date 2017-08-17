@@ -34,10 +34,18 @@
       </p>
 
 
-      <h3>FY Oct 2015 - Oct 2016</h3>
+      <h3>FY Oct 2016 - Oct 2017</h3>
       <ul>
 	<li>
-	  <a href="2016Jun_min.pdf">draft June 2016 Minutes (Board)</a>
+	  <a href="minutes_201704.pdf">draft April 2017 Minutes (Board)</a>
+	</li>
+      </ul>
+      
+
+        <h3>FY Oct 2015 - Oct 2016</h3>
+      <ul>
+	<li>
+	  <a href="2016Jun_min.pdf">June 2016 Minutes (Board)</a>
 	</li>
 	<li>
 	  <a href="2016Feb_min.pdf">Feb 2016 Minutes (Board)</a>
