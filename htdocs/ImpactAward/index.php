@@ -27,40 +27,39 @@
 	to encourage  women to enter into and develop their careers in science, engineering, and allied professions.
       </p>
 
+      <!-- <h2>Award Information</h2> -->
+      <h2> 2017 IMPACT! Award Nominations Now Being Accepted </h2>
+      <ul>
+        <!--
+	<li>
+	  <a href="http://nmnwse.org/ImpactAward/NewsRelease2016nominations.pdf">News Release</a>
+	</li>
+        -->
+	<li>
+	  <a href="http://nmnwse.org/ImpactAward/Impact_Flyer.pdf">Postable Flyer</a>
+	</li>
+	<li>
+	  <a href="http://nmnwse.org/ImpactAward/Impact_Cover_Letter.pdf">Cover Letter</a>  
+	</li>
+	<li>
+	  <a href="http://nmnwse.org/ImpactAward/Impact_Nomination_Form.pdf">Nomination Form</a>
+	</li>
+	<li>
+	  <a href="http://nmnwse.org/ImpactAward/Impact_Handout.pdf">Flyer, Cover letter, and Nomination Form as 5-page handout</a>
+	</li>
+	<li>
+          The honoree is recognized during the Network's <a href="http://nmnwse.org/AM/">Annual Meeting and Technical Symposium</a>.
+	</li>
+      </ul>
+
       <!-- Mercedes special award -->
-      <h2> Merecedes Agogino is the winner of the 2017 IMPACT! Award </h2>
+      <h2> Announcement: Merecedes Agogino wins a Lifetime Achievement Award </h2>
       <p>
-	It is with great pride and pleasure that the New Mexico Network for Women in Science and Engineering is presenting a 2017 IMPACT! Award to Dr. Mercedes Agogino.  She truly merits this award for her extraordinary career and efforts in furthering the Network’s goals of encouraging women to enter into science, technology, engineering, mathematics, and allied professions (STEM-AP). Her lifelong passion and desire to increase the role of women in these fields through support of students in middle school through college is awe-inspiring and deserves to be celebrated.
+	It is with great pride and pleasure that the New Mexico Network for Women in Science and Engineering is presenting a Lifetime Achievement Award to Dr. Mercedes Agogino.  She truly merits this award for her extraordinary career and efforts in furthering the Network’s goals of encouraging women to enter into science, technology, engineering, mathematics, and allied professions (STEM-AP). Her lifelong passion and desire to increase the role of women in these fields through support of students in middle school through college is awe-inspiring and deserves to be celebrated.
       </p>
-
-      <p class="highlight">
-	Please join us for the IMPACT! Award celebration!
-	<ul>
-	  <li>
-	    Saturday, June 17, 2017
-	  </li>
-	  <li>
-	    Artichoke Café at 424 Central SE, Albuquerque  
-	  </li>
-	  <li>
-	    5:30 cocktail/social time, followed by dinner and award presentation at 6:30 pm  
-	  </li>
-	  <li>
-	    Cost is $40 per person
-	  </li>
-	  <li>
-	    RSVP to Jeanne Banks at <a href=mailto:Jeanne.Banks@comcast.net> Jeanne.Banks@comcast.net </a> or 505-239-2403
-	  </li>
-	</ul>
-      </p>
-
       <p>
 	Mercedes has been a trailblazer for women, for STEM-AP, and for all
 underrepresented groups in New Mexico! As a long-time member of the Network, she has participated in many of our efforts over the years.  She served as our State Science Fair Awards coordinator for many years.  Mercedes enabled us to reward and encourage well over 200 students during this time at both the middle school and high school levels.  We are very excited to hold this event in her honor and share her remarkable life and career.
-      </p>
-
-      <p>
-	If you can attend, please RSVP to Jeanne Banks at Jeanne.Banks [at] comcast.net or 505-239-2403 by June 14.  If you are unable to attend but would like to send a card or congratulatory message to Mercedes, you may either use the email above or mail in care of Jeanne Banks, 14 Leah Lane, Placitas, NM  87043.
       </p>
 
       <!--
@@ -80,33 +79,7 @@ underrepresented groups in New Mexico! As a long-time member of the Network, she
       </P>
       -->
 
-      <h2>Award Information</h2>
-      <ul>
-        <!--
-	<li>
-	  <a href="http://nmnwse.org/ImpactAward/NewsRelease2016nominations.pdf">News Release</a>
-	</li>
-        -->
-	<li>
-	  <a href="http://nmnwse.org/ImpactAward/Impact_Flyer.pdf">Postable Flyer</a>
-	</li>
-	<li>
-	  <a href="http://nmnwse.org/ImpactAward/Impact_Cover_Letter.pdf">Cover Letter</a>  
-	</li>
-	<li>
-	  <a href="http://nmnwse.org/ImpactAward/Impact_Nomination_Form.pdf">Nomination Form</a>
-	</li>
-	<li>
-	  <a href="http://nmnwse.org/ImpactAward/Impact_Handout.pdf">Flyer, Cover letter, and Nomination Form as 5-page handout</a>
-	</li>
-	<!--
-	<li>
-          The honoree is recognized during the Network's <a href="http://nmnwse.org/AM/">Annual Meeting and Technical Symposium</a>.
-	</li>
-	-->
-      </ul>
-
-      <h2>Congratulations to our 2017 winner Mercedes Agogino, and all past winners!</h2>
+      <h2>Congratulations to Mercedes Agogino and all past winners of the IMPACT Award!</h2>
 
       <a href="http://nmnwse.org/ImpactAward/winners/index.php">Past Winners</a>, with links to the news releases summarizing their contributions.
       
