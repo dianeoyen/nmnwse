@@ -37,7 +37,6 @@
 	  <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1">
           See <a href="http://www.cnm.edu/maps-and-directory/montoya-campus/map">map</a>.
 	  <br>&nbsp;
-<<<<<<< HEAD
 	  -->
 	  
       <!--
@@ -63,10 +62,6 @@
 	  -->
 
       <!--
-=======
-	  -->
-	  
-      <!--
 	  Feb 11
 	  <br> 2017
 	  11:00 AM, Science Hall, room 124, NMSU, Las Cruces, NM
@@ -89,13 +84,12 @@
 	  -->
 
 
->>>>>>> a5790e4b096f3bba2cbbee17ee4823c79fc3f298
+      <!--
       <h2> Board Meeting Schedule </h2>
       <h3> June 3, 2017 </h3>
       <p>
 	Cancelled
       </p>
-<<<<<<< HEAD
       -->
 
       <h3> August 19, 2017 </h3>
@@ -116,24 +110,6 @@ southeast parking space.
 	</li>
 	<li>
 	  A phone/web conferencing option is available - see agenda below.
-=======
-
-
-      <h3> August 19, 2017 </h3>
-      <p>
-	10:00am, CNM-Montoya Campus, Building K, room 212A, 4700 Morris NE, Albuquerque, NM
-      </p>
-      <ul>
-	<li>
-	  North of Montgomery between Eubank and Juan Tabo
-	</li>
-	<li>
-	  <a href="http://www.cnm.edu/maps-and-directory/montoya-campus/map">CNM Montoya campus webpage</a>, with maps and directions.
-	</li>
-	<li>
-	  A web conferencing option may be available - contact the Board for more information.
->>>>>>> a5790e4b096f3bba2cbbee17ee4823c79fc3f298
-	</li> 
       </ul>
 
 
@@ -207,12 +183,9 @@ southeast parking space.
       <h3> FY 16-17 Agendas (Oct 2016 - 2017 Annual Meeting) </h3>
       <ul>
 	<li>
-<<<<<<< HEAD
 	  <a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Agenda_20170819.pdf">Aug 19, 2017</a>
 	</li>
         <li>
-=======
->>>>>>> a5790e4b096f3bba2cbbee17ee4823c79fc3f298
 	  <a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Agenda_20170401.pdf">Apr 1, 2017</a>
 	</li>
       </ul>
