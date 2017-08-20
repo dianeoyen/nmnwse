@@ -37,6 +37,7 @@
 	  <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1">
           See <a href="http://www.cnm.edu/maps-and-directory/montoya-campus/map">map</a>.
 	  <br>&nbsp;
+<<<<<<< HEAD
 	  -->
 	  
       <!--
@@ -62,11 +63,39 @@
 	  -->
 
       <!--
+=======
+	  -->
+	  
+      <!--
+	  Feb 11
+	  <br> 2017
+	  11:00 AM, Science Hall, room 124, NMSU, Las Cruces, NM
+	  <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"> Call-in option available, contact the <a href="mailto:NMNWSE_Board-l@list.unm.edu">NMNWSE board</a> for details.
+	  <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"> The Science Hall (SH) is located on Stewart St, between Sweet and Williams (<a href="https://maps.google.com/maps?q=Science+Hall,+University+Park,+NM,+88003&hl=en&sll=35.891922,-106.290041&sspn=0.145881,0.15604&t=m&z=17">map</a>)
+	  <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"> Best parking lots are either south of SH, off Stewart and Sweet, or due east of the building, off of Williams.
+	  <br>&nbsp;
+          -->
+	  
+      <!--
+	  Apr 1
+          Board meeting at State Science Fair <! img src="http://nmnwse.org/Images/updated.gif" >
+	  <br><img src="http://nmnwse.org/Images/button.gif" height="12">&nbsp;<b>Volunteers to help judge the NMNWSE special awards are welcome!</b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please <a href="mailto:NMNWSE_Board-L@list.unm.edu?NMNWSE Awards at State Science Fair">contact the Board</a> if you wish to help judge.
+	  <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>7:45 am:</b> NMNWSE Award Judging, Fidel Student Center, NMT, Socorro, NM
+	  <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>12:30 pm:</b> Award Winner Selection, Jones Annex, Room 101, NMT, Socorro, NM
+	  <br><img src="http://nmnwse.org/Images/button.gif" height="12"><b>1:00 pm:</b> Board Meeting,  Jones Annex, Room 101, NMT, Socorro, NM
+	  <br><img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="10" width="1"><a href="http://infohost.nmt.edu/~science/fair/"><I><B>New Mexico Science &amp; Engineering Fair</b></I></a>
+	  <br> <img src="http://nmnwse.org/Images/bl_dot.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" height="15" width="1"><a href="http://www.nmt.edu/campus-maps">NM Tech maps page</a>
+	  <br>&nbsp;
+	  -->
+
+
+>>>>>>> a5790e4b096f3bba2cbbee17ee4823c79fc3f298
       <h2> Board Meeting Schedule </h2>
       <h3> June 3, 2017 </h3>
       <p>
 	Cancelled
       </p>
+<<<<<<< HEAD
       -->
 
       <h3> August 19, 2017 </h3>
@@ -87,6 +116,23 @@ southeast parking space.
 	</li>
 	<li>
 	  A phone/web conferencing option is available - see agenda below.
+=======
+
+
+      <h3> August 19, 2017 </h3>
+      <p>
+	10:00am, CNM-Montoya Campus, Building K, room 212A, 4700 Morris NE, Albuquerque, NM
+      </p>
+      <ul>
+	<li>
+	  North of Montgomery between Eubank and Juan Tabo
+	</li>
+	<li>
+	  <a href="http://www.cnm.edu/maps-and-directory/montoya-campus/map">CNM Montoya campus webpage</a>, with maps and directions.
+	</li>
+	<li>
+	  A web conferencing option may be available - contact the Board for more information.
+>>>>>>> a5790e4b096f3bba2cbbee17ee4823c79fc3f298
 	</li> 
       </ul>
 
@@ -161,9 +207,12 @@ southeast parking space.
       <h3> FY 16-17 Agendas (Oct 2016 - 2017 Annual Meeting) </h3>
       <ul>
 	<li>
+<<<<<<< HEAD
 	  <a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Agenda_20170819.pdf">Aug 19, 2017</a>
 	</li>
         <li>
+=======
+>>>>>>> a5790e4b096f3bba2cbbee17ee4823c79fc3f298
 	  <a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Agenda_20170401.pdf">Apr 1, 2017</a>
 	</li>
       </ul>
