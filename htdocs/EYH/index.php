@@ -54,8 +54,10 @@ with questions about the conferences, or to let us know your interest in helping
     <! -------- Carlsbad EYH ---------- >
     <a href="http://nmnwse.org/carlsbad-eyh/">
       <h2>Carlsbad, grades 7-8</h2></a>
-    <h3>September, NMSU Carlsbad, Carlsbad, NM</h3>
-    2016 conference was held September 30 at NMSU Carlsbad, Carlsbad, NM
+    <h3>Friday, October 13, 2017
+      <br>
+      NMSU Carlsbad, Carlsbad, NM
+    </h3>
     <details>
       <summary>
         More info and contacts

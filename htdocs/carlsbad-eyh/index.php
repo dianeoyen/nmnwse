@@ -6,7 +6,7 @@
 <?php
 include("Includes/pagetop1_cbeyh.php");
 ?>
-2016 Conference Information
+Conference Information
 <?php
 include("Includes/pagetop2_cbeyh.php");
 ?>
@@ -16,17 +16,16 @@ include("Includes/pagetop2_cbeyh.php");
 <font face="Arial,Helvetica">
 
   &nbsp; &nbsp;<br>
-  <b><font color="#cb6940" size="+1">2016 Carlsbad Expanding Your Horizons<sup>tm</sup> (EYH)</font></b>
+  <b><font color="#cb6940" size="+1">Carlsbad Expanding Your Horizons<sup>tm</sup> (EYH)</font></b>
   <br>
 
 <! -------- Carlsbad EYH ---------- >
 
 
 <font size="+1"><b><font color="#4b9fc3">
-  September 30, 2016
+  October 13, 2017
   <br> NMSU Carlsbad
-  <br> grade 6
-  <br> registration deadline: TBA
+  <br> grades 7-8
 </font></b></font>
 
 <p>
@@ -45,8 +44,6 @@ include("Includes/pagetop2_cbeyh.php");
     </td></tr><tr><td></td><td valign="top">
    Registration:&nbsp;</td><td valign="top">
        <a href="http://www.expandingyourhorizons.org/conferences/Carlsbad">http://www.expandingyourhorizons.org/conferences/Carlsbad</a>
-      <br>(not yet updated for 2016 - please check back soon)
-     <! (check back ~1 Sept if get error) >
    </td>
   </tr>
   <tr>
@@ -71,7 +68,7 @@ include("Includes/pagetop2_cbeyh.php");
       </td>
       <td colspan="2" rowspan="1" valign="top">
           YOUR NAME HERE!<br>
-          We are actively looking for 2016 sponsors.
+          We are actively looking for sponsors.
       </td>
   </tr>
 </tbody>
@@ -85,7 +82,7 @@ Building on that experience, in 2015 we had 50 girls bussed in to the college fr
 There were 15 workshops offered in 3 sessions followed by a lunch and guest speaker who is a physician.  The girls loved the opportunity! NMSU Carlsbad provides a wonderful environment, and we had many incredible volunteers, so we plan to continue with the model we used in 2015 as we work to improve the experience for the young women who attend our conference.
 
 <P><img src="http://nmnwse.org/Images/bl_pin.gif">&nbsp; 
-We are actively looking for 2016 sponsors.
+We are actively looking for sponsors.
 <br>
 Besides our <a href="http://nmnwse.org/carlsbad-eyh/cbeyh_sponsors.php">previous sponsors</a>, we'd also like to thank <! the United Way and the Nuclear Waster Partnership, as well as > all the individual
 AAUW members who volunteered their time and made small monetary donations. 
@@ -98,15 +95,6 @@ please contact Cassie at <a href="mailto:marrs.cassie@gmail.com?Subject=Carlsbad
 <!--
 
 -->
-
-<P> &nbsp;<br>
-<img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;<b><font color="#cb6940" size="+1">Detailed Conference Information:</font></b>
-<P><img src="http://nmnwse.org/Images/button.gif" height=12>COMING SHORTLY - final info anticipated ~1 Sept
-</P>
-<P>
-<b>We are looking forward to an even better 3rd annual EYH in Carlsbad!</b>
-<! We are looking forward to a great EYH in Carlsbad hope to make it an annual tradition! >
-</P>
 
 <P>
 <img src="http://nmnwse.org/Images/r_hand.gif"><a href="http://nmnwse.org/eyh">Click here for a list of all EYH Conferences New Mexico</a>
