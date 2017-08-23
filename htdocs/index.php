@@ -41,6 +41,11 @@
 
       <! 2017 IMPACT! Award >
       <?php
+	 include("inNews/20170823_news.html");
+	 ?>
+
+      <! 2017 IMPACT! Award >
+      <?php
 	 include("inNews/20170603_news.html");
 	 ?>
 

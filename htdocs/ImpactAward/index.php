@@ -28,7 +28,7 @@
       </p>
 
       <!-- <h2>Award Information</h2> -->
-      <h2> 2017 IMPACT! Award Nominations Now Being Accepted </h2>
+      <h2> 2017 IMPACT! Award Nominations Deadline Extended to Sept 20 </h2>
       <ul>
         <!--
 	<li>
@@ -38,14 +38,16 @@
 	<li>
 	  <a href="http://nmnwse.org/ImpactAward/Impact_Flyer.pdf">Postable Flyer</a>
 	</li>
+        <!--
 	<li>
 	  <a href="http://nmnwse.org/ImpactAward/Impact_Cover_Letter.pdf">Cover Letter</a>  
 	</li>
 	<li>
 	  <a href="http://nmnwse.org/ImpactAward/Impact_Nomination_Form.pdf">Nomination Form</a>
 	</li>
+        -->
 	<li>
-	  <a href="http://nmnwse.org/ImpactAward/Impact_Handout.pdf">Flyer, Cover letter, and Nomination Form as 5-page handout</a>
+	  <a href="http://nmnwse.org/ImpactAward/Impact_Handout.pdf">Flyer, Cover letter, and Nomination Form packet</a>
 	</li>
 	<li>
           The honoree is recognized during the Network's <a href="http://nmnwse.org/AM/">Annual Meeting and Technical Symposium</a>.
