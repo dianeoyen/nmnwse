@@ -29,17 +29,17 @@ include("../Includes/pagetop2_nmnwse.php");
                 <tr>
                   <td valign="top"> <b>Contacts:</b></td>
                   <td valign="top" colspan=2 > Lina Germann and Kate Gomez, co-Chairs
-                    <br> <a href="mailto:eyhsantafe@gmail.com?Subject=SF EYH">eyhsantafe@gmail.com</a>, 505-539-0394
+                    <br> <a href="mailto:info@stemsantafe.org?Subject=SF EYH">info@stemsantafe.org</a>, 505-570-5402
                    </td>
                 </tr>
                 <tr>
                   <td valign="top"> <b>Web Page:</b></td> <td colspan="2" valign="top">
-<a href="http://nmnwse.org/sfeyh/">http://nmnwse.org/sfeyh</a>
+<a href="http://stemsantafe.org/news-events/expanding-your-horizons-santa-fe/">http://stemsantafe.org/news-events/expanding-your-horizons-santa-fe/</a>
                  </td>
                 </tr>
                 <tr>
                   <td valign="top"> <b>Registration:</b></td> <td colspan="2" valign="top">
-<a href="http://www.expandingyourhorizons.org/conferences/SantaFe/">http://www.expandingyourhorizons.org/conferences/SantaFe/</a>  
+<a href="http://stemsantafe.org/fall2017eyh/">http://stemsantafe.org/fall2017eyh/</a>
 <!--
  <a href="http://nmnwse.org/sfeyh/">http://nmnwse.org/sfeyh/</a>
                   <br>(note the national EYH webpage for this EYH is not currently working - nmnwse.org/sfeyh will forward once it is)
@@ -60,7 +60,7 @@ include("../Includes/pagetop2_nmnwse.php");
 -->
                 <tr>
                   <td valign="top"> <b>Volunteer<br>Sign-Up:</b></td> <td colspan="2" valign="center">
-                      <a href="http://nmnwse.org/sfeyh/volunteer">http://nmnwse.org/sfeyh/volunteer</a>  
+                      <a href="http://eyh.stemsantafe.org">http://eyh.stemsantafe.org</a>  
                       &nbsp;<! img src="http://nmnwse.org/Images/updated.gif">
                  </td>
                 </tr>
@@ -89,25 +89,25 @@ include("../Includes/pagetop2_nmnwse.php");
             </table>
 
 <P>
-The Santa Fe-fall planning committee is actively seeking presenters and other volunteers to help with the SF-fall EYH on Saturday, October 21, 2017, at Santa Fe Community College (SFCC). We are planning for 150 to 170 girls (grades 5-8) to come explore careers in Science, Technology, Engineering, and Math (STEM). The girls will attend two hands-on workshops, hear a dynamic keynote speaker, and participate a STEM fair. Adults (teachers and parents) can also register to attend the conference that includes the Adult Workshop <I>"Math Circle"</I> presented by James Taylor et al.
+The Santa Fe-fall planning committee is actively seeking presenters and other volunteers to help with the SF-fall EYH on Saturday, October 21, 2017, at Santa Fe Community College (SFCC). We are planning for 200 girls (grades 5-8) to come explore careers in Science, Technology, Engineering, and Math (STEM). The girls will attend two hands-on workshops, hear a dynamic keynote speaker, and participate in a STEM & College fair. Adults (teachers and parents) can also register to attend the conference that includes the Adult Workshop.
 </P>
 
 <P>
 <b>Please note our new mailing address:</b> SF-fall EYH, PO Box 33103, Santa Fe, NM 87594
 </P>
 
-<img src="http://nmnwse.org/Images/bl_pin.gif">To register as an adult or student attendee when registration opens (anticipated early September), please go to:
-<br><img src="http://nmnwse.org/Images/spacer.gif" height=15 width=20><img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;<a href="http://www.expandingyourhorizons.org/conferences/SantaFe/">http://www.expandingyourhorizons.org/conferences/SantaFe</a>
+<img src="http://nmnwse.org/Images/bl_pin.gif">To register a female student from Santa Fe or Northern NM in 5th to 8th grade, please go to:
+<br><img src="http://nmnwse.org/Images/spacer.gif" height=15 width=20><img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;<a href="http://stemsantafe.org/fall2017eyh/">http://stemsantafe.org/fall2017eyh/</a>
 
 <br><img src="http://nmnwse.org/Images/bl_pin.gif">To sign up as an adult volunteer (including group guide), please go to 
-<br><img src="http://nmnwse.org/Images/spacer.gif" height=15 width=20><img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;<a href="http://nmnwse.org/sfeyh/volunteer">http://nmnwse.org/sfeyh/volunteer</a>
+<br><img src="http://nmnwse.org/Images/spacer.gif" height=15 width=20><img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;<a href="http://eyh.stemsantafe.org">http://eyh.stemsantafe.org</a>
 <!--
 <br><b>Note:</b> now single form for general volunteers, high school girls, and group guides.
  (general adult volunteer, high school girl), or
 <br><img src="http://nmnwse.org/Images/spacer.gif" height=15 width=20><img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;<a href="http://nmnwse.org/sfeyh/groupguides">http://nmnwse.org/sfeyh/groupguides</a> (group guide).
 -->
 
-<br><img src="http://nmnwse.org/Images/bl_pin.gif">To get more information or if you have any questions, please contact the co-Chairs Lina and Kate at 505-539-0394 or eyhsantafe@gmail.com.
+<br><img src="http://nmnwse.org/Images/bl_pin.gif">To get more information or if you have any questions, please contact Lina Germann at Lina.Germann@STEMSantaFe.org or 505-570-5402.
 
 <br><img src="http://nmnwse.org/Images/bl_pin.gif"><a href="EYH-SF-fall_Report_2016.pdf">Click here to download the 2016 SF-fall EYH report.<a>
 <br>
@@ -116,7 +116,10 @@ Previous year reports can be found on the <a href="http://nmnwse.org/sfeyh/archi
 <br><img src="http://nmnwse.org/Images/bl_pin.gif"><a href="EYH-SF-fall_Report_2014.pdf">Click here to download the 2014 SF-fall EYH report.<a>
 -->
 </P><P>
-The Santa Fe-fall EYH Conference is presented by NMNWSE and STEM Santa Fe, and hosted by SFCC.
+      The Santa Fe-fall EYH Conference is presented by STEM Santa Fe, and hosted by SFCC.
+
+      <br>
+      NMNWSE is the fiscal sponsor of this event.
 </P>
 
 
@@ -129,9 +132,6 @@ The Santa Fe-fall EYH Conference is presented by NMNWSE and STEM Santa Fe, and h
 
 <P>&nbsp;
 <center><hr width=30%></center>
-<br>
-<img src="http://nmnwse.org/Images/bl_pin.gif" >&nbsp;
-<I>Note there is a separate annual Santa Fe-spring EYH - see <a href="http://nmnwse.org/eyh">http://nmnwse.org/eyh</a> for a listing of all NMNWSE EYH.</I>
 </P>
 
 <! ------------------ >

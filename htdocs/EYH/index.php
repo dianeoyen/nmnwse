@@ -112,56 +112,14 @@ with questions about the conferences, or to let us know your interest in helping
         <tbody>
           <tr>
           <td valign="top"> <b>Contacts:</b></td>
-          <td valign="top" colspan="2"> Lina Germann and Kate Gomez, co-Chairs 
-            <br> <a href="mailto:eyhsantafe@gmail.com?Subject=SF EYH">eyhsantafe@gmail.com</a>, 505-539-0394
+          <td valign="top" colspan="2"> Lina Germann and Kate Gomez
+            <br> <a href="mailto:info@stemsantafe.org?Subject=SF EYH">info@stemsantafe.org</a>, 505-570-5402
           </td>
         </tr>
         <tr>
           <td valign="top"> <b>Web Page:</b></td> <td colspan="2" valign="top">
 	    <a href="http://nmnwse.org/sfeyh/">http://nmnwse.org/sfeyh</a>  
           </td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>Registration:</b></td> <td colspan="2" valign="top">
-	    <a href="http://www.expandingyourhorizons.org/conferences/SantaFe/">http://www.expandingyourhorizons.org/conferences/SantaFe/</a>  
-          </td>
-        </tr>
-	<!--
-        <tr>
-          <td valign="top"> <b>Flyer w<br>Reg Form:</b></td>
-          <td colspan="2" valign="center"><a href="http://nmnwse.org/sfeyh/SFEYH_20150919_brochure.pdf">http://nmnwse.org/sfeyh/SFEYH_20150919_brochure.pdf</a>
-	    &nbsp;<img src="http://nmnwse.org/Images/updated.gif">
-            <! http://nmnwse.org/sfeyh/SFEYH_20141108_brochure.pdf.pdf >
-            <! http://nmnwse.org/sfeyh/SFEYH_20131005_brochure.pdf >
-          </td>
-        </tr>
-        -->
-        <tr>
-          <td valign="top"> <b>Volunteer<br>Sign-Up:</b></td> <td colspan="2" valign="center">
-            <a href="http://nmnwse.org/sfeyh/volunteer">http://nmnwse.org/sfeyh/volunteer</a>  
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>Mailing<br> address:</b></td>
-          <td colspan="2" valign="top"> EYH - Santa Fe (Fall) <br>
-            PO Box 33103 <br>
-            Santa Fe, NM 87594
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"><b>Presented by:</b>
-          </td>
-          <td colspan="2" rowspan="1" valign="top">
-            <a href="http://www.stemsantafe.org"> STEM Santa Fe </a>
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"><b>Hosted by:</b>
-          </td>
-          <td colspan="2" rowspan="1" valign="top">
-            Santa Fe Community College
-          </td>
-        </tr>
       </tbody>
     </table>
     </details>
