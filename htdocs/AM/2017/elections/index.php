@@ -155,6 +155,7 @@ We currently have NUMBER new candidates&nbsp;<img src="http://nmnwse.org/Images/
 <td valign="top" align="center" bgcolor="#ffccff"><input type="radio" name="Roberson" value="At-Large"> </td>
 <td valign="top" align="center"><input type="radio" name="Roberson" value="No"> </td>
 </tr>
+<!--
 <tr>
 <td valign="top"><sup>*</sup>Diane Albert</td>
 <td valign="top">Central</td>
@@ -164,7 +165,7 @@ We currently have NUMBER new candidates&nbsp;<img src="http://nmnwse.org/Images/
 <td valign="top" align="center" bgcolor="#ffccff"><input type="radio" name="Albert" value="At-Large"> </td>
 <td valign="top" align="center"><input type="radio" name="Albert" value="No"> </td>
 </tr>
-
+-->
 <tr>
 <td valign="top" colspan=2>Write in No. 1<br>
 <input type="text" name="WriteInName1" size="30">
