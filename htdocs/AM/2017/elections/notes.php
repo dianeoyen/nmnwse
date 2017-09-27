@@ -14,7 +14,7 @@ include("../../../Includes/pagetop2_nmnwse.php");
 
 
 <P>
-<FONT color="" size="+1"><B>Online voting accepted 8am MST Monday 16 October 2017 (or when voting opens, if different) through 8pm MST Thursday 19 Oct 2017.<br>
+<FONT color="" size="+1"><B>Online voting accepted 4 October 2017 through 18 Oct 2017.<br>
 Members may also vote in person at the NMNWSE Annual Meeting on Oct 21.
 <br><br>
 If you need to mail a hardcopy ballot, or you have any election-related questions</a>, please contact the NMNWSE elections chair, Yolanda King. <! by 18:00 MST Friday >

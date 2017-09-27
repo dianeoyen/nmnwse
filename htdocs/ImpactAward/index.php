@@ -28,7 +28,7 @@
       </p>
 
       <!-- <h2>Award Information</h2> -->
-      <h2> 2017 IMPACT! Award Nominations Deadline Extended to Sept 20 </h2>
+      <h2> 2017 IMPACT! Award Nominations closed Sept 20 </h2>
       <ul>
         <!--
 	<li>

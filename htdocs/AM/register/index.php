@@ -1,5 +1,5 @@
 <?php
-   header("Location: https://goo.gl/forms/tnLtb5o9YSG5hBA53");
+   header("Location: https://goo.gl/forms/k0gfnGMS5yordjKB2");
 ?>
 <html>
 <head>
@@ -22,7 +22,7 @@ include("../../Includes/pagetop2_nmnwse.php");
 
 Registration is now open! You are being redirected to:
 <P>
-<font size=+1 font="Arial,Helvetica"><B><a href="https://goo.gl/forms/tnLtb5o9YSG5hBA53">https://goo.gl/forms/tnLtb5o9YSG5hBA53</a></B></font>
+<font size=+1 font="Arial,Helvetica"><B><a href="https://goo.gl/forms/k0gfnGMS5yordjKB2">https://goo.gl/forms/k0gfnGMS5yordjKB2</a></B></font>
 
 <! ------------------------------------------ >
 

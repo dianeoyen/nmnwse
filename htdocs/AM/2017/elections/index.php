@@ -14,7 +14,7 @@ include("../../../Includes/pagetop2_nmnwse.php");
 <form method="post" action="/cgi-bin/formto.pl">
  
 <P><img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;<a href="notes.php">Click here for voting instructions and notes re alternate methods to vote, etc.</a>
-<br>Online voting opens 8am MST Monday, 16 Oct 2017 and closes 8pm MST on Thursday, 19 Oct 2017. In person voting takes place Saturday, 21 Oct 2017, at the Annual Business Meeting in Silver City.
+<br>Online voting opens 4 Oct 2017 and closes 18 Oct 2017. In person voting takes place Saturday, 21 Oct 2017, at the Annual Business Meeting in Silver City.
 
 
 <P><img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;
