@@ -26,6 +26,7 @@
 
       <div class="multicolumn">
         <ul>
+          <li> <a href="News/NMNWSE_newsletter_201709.pdf">September 2017</a> </li>
           <li> <a href="News/NMNWSE_newsletter_201508.pdf">August 2015</a> </li>
           <li> <a href="News/NMNWSE_newsletter_201506.pdf">June 2015</a> </li>
           <li> <a href="News/NMNWSE_newsletter_09_2014.pdf">September 2014</a> </li>

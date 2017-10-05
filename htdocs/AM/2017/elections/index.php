@@ -32,17 +32,17 @@ We currently have NUMBER new candidates&nbsp;<img src="http://nmnwse.org/Images/
 <!--
        ONLINE VOTING CLOSED
 -->
-
-       DRAFT - VOTING NOT YET OPEN
-
 <!--
+       DRAFT - VOTING NOT YET OPEN
+-->
+
        <input type="submit" name="Submit1" value=" SUBMIT VOTE">
        <img src="http://nmnwse.org/Images/button.gif" height="12">
--->    </B> </font>
+    </B> </font>
 
-<!--
+
 <br> You can instead vote in person at the annual meeting.
--->
+
 </center>
 <center>
 <IMG SRC="http://nmnwse.org/Images/linefrill.gif" ALT="-----------" HEIGHT=5 WIDTH=30%>
@@ -253,23 +253,22 @@ We currently have NUMBER new candidates&nbsp;<img src="http://nmnwse.org/Images/
   <tr>
     <td align="left" valign="top">
            <table border=2 bgcolor="red"><tr><td>
-              <a href="http://nmnwse.org/AM/2016/elections/">
+              <a href="http://nmnwse.org/AM/2017/elections/">
                  <font size="-1" color="white"><B>&nbsp;CLEAR&nbsp;</B></font>
                </a>
            </td></tr></table>
     </td>
     <td align="center"> <font size="+2" color="red"><B>  <! green=#33CC00 >
        <img src="http://nmnwse.org/Images/button.gif" height="12">
-       <!--DRAFT - VOTING NOT YET OPEN-->
-<!--
+
        <input type="submit" name="Submit1" value=" SUBMIT VOTE">
        <img src="http://nmnwse.org/Images/button.gif" height="12">
--->
+
        </B> </font>
 <!-- <br> see top of page for call-in instructions. -->
-
+<!--
         DRAFT - VOTING NOT YET OPEN
-
+-->
 <!--
        VOTING CLOSED <br> submit button removed
       <br>You may vote in person at the Annual Meeting
@@ -288,13 +287,13 @@ We currently have NUMBER new candidates&nbsp;<img src="http://nmnwse.org/Images/
 
 <!--SCRIPT CONFIGURATION SECTION -->
 <input type="hidden" name="required"
-value="Person,Member,Galves,Banks,Balizan,Gammel"> 
+value="Person,Member,Galves,Torres,DeRaad,Shindi,Burch,Baca,Roberson"> 
 <input type="hidden" name="data_order"
-value="Person,Member,Galves,Banks,Balizan,Gammel,WriteInName1,WriteInPos1,WriteInName2,WriteInPos2,WriteInName3,WriteInPos3,WriteInName4,WriteInPos4,Comments">
+value="Person,Member,Galves,Tores,Deraad,Shindi,Burch,Baca,Roberson,WriteInName1,WriteInPos1,WriteInName2,WriteInPos2,WriteInName3,WriteInPos3,WriteInName4,WriteInPos4,Comments">
 <input type="hidden" name="submit_to" value="webmaster@nmnwse.org">  <! insert valid later > 
-<input type="hidden" name="form_id" value="Oct 2016 NMNWSE Board Elections - Online Vote"> 
-<input type="hidden" name="ok_url" value="http://nmnwse.org/AM/2016/elections/vote_thanks.htm"> 
-<input type="hidden" name="not_ok_url" value="http://nmnwse.org/AM/2016/elections/vote_tryagain.htm"> 
+<input type="hidden" name="form_id" value="Oct 2017 NMNWSE Board Elections - Online Vote"> 
+<input type="hidden" name="ok_url" value="http://nmnwse.org/AM/2017/elections/vote_thanks.htm"> 
+<input type="hidden" name="not_ok_url" value="http://nmnwse.org/AM/2017/elections/vote_tryagain.htm"> 
 <!--END OF SCRIPT CONFIGURATION SECTION -->
 
 </form>

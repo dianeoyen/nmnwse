@@ -27,6 +27,7 @@
       </p>
       
       <h2>Join us at NMNWSE's Annual Meeting (AM 2017)</h2>
+      <img class="news" src="http://nmnwse.org/AM/2017/silvercity.jpg" alt="View of Silver City">
       <p>
         October 20 - 22, 2017 <br>
         at the <a href="https://www.murray-hotel.com/">Murray Hotel</a> in Silver City, NM
@@ -138,6 +139,7 @@
 
       
       <h3>Hotel</h3>
+      <img class="news" src="http://nmnwse.org/AM/2017/murray.webp" alt="Murray Hotel in Silver City, NM">
         Room reservations are on your own. Reserve by October 7 to get the group rate. Call the <a href="https://www.murray-hotel.com">Murray Hotel</a> to reserve your room, 575-956-9400 for $89 per night. Just let them know that you are with the Network.
 
         The <a href="https://www.murray-hotel.com">Murray Hotel</a> in <a href="www.visitsilvercity.org">Silver City</a> is a true gem of art deco elegance with modern comfort. Equal parts Old West heritage with distinct arts and entertainment communities, Silver City is nestled against the 3.3 million acres of the Gila National Forest. See where Geronimo and Billy the Kid laid trails, visit the Gila Cliff Dwellings, enjoy nearby hot springs, or view the 3rd largest open pit copper mine in the world!
