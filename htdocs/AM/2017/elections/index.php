@@ -289,7 +289,7 @@ We currently have NUMBER new candidates&nbsp;<img src="http://nmnwse.org/Images/
 <input type="hidden" name="required"
 value="Person,Member,Galves,Torres,DeRaad,Shindi,Burch,Baca,Roberson"> 
 <input type="hidden" name="data_order"
-value="Person,Member,Galves,Tores,Deraad,Shindi,Burch,Baca,Roberson,WriteInName1,WriteInPos1,WriteInName2,WriteInPos2,WriteInName3,WriteInPos3,WriteInName4,WriteInPos4,Comments">
+value="Person,Member,Galves,Torres,DeRaad,Shindi,Burch,Baca,Roberson,WriteInName1,WriteInPos1,WriteInName2,WriteInPos2,WriteInName3,WriteInPos3,WriteInName4,WriteInPos4,Comments">
 <input type="hidden" name="submit_to" value="webmaster@nmnwse.org">  <! insert valid later > 
 <input type="hidden" name="form_id" value="Oct 2017 NMNWSE Board Elections - Online Vote"> 
 <input type="hidden" name="ok_url" value="http://nmnwse.org/AM/2017/elections/vote_thanks.htm"> 
