@@ -28,17 +28,18 @@ We currently have NUMBER new candidates&nbsp;<img src="http://nmnwse.org/Images/
 <center>
 <br>
 <font size="+3" color="red"> <! #33CC00 ><B>
-       <img src="http://nmnwse.org/Images/button.gif" height="12">
-<!--
-       ONLINE VOTING CLOSED
--->
-<!--
-       DRAFT - VOTING NOT YET OPEN
--->
+    <img src="http://nmnwse.org/Images/button.gif" height="12">
 
-       <input type="submit" name="Submit1" value=" SUBMIT VOTE">
-       <img src="http://nmnwse.org/Images/button.gif" height="12">
-    </B> </font>
+    ONLINE VOTING CLOSED
+    <!--
+        DRAFT - VOTING NOT YET OPEN
+      -->
+    
+    <!--
+        <input type="submit" name="Submit1" value=" SUBMIT VOTE">
+        -->
+    <img src="http://nmnwse.org/Images/button.gif" height="12">
+</B> </font>
 
 
 <br> You can instead vote in person at the annual meeting.
@@ -260,18 +261,19 @@ We currently have NUMBER new candidates&nbsp;<img src="http://nmnwse.org/Images/
     </td>
     <td align="center"> <font size="+2" color="red"><B>  <! green=#33CC00 >
        <img src="http://nmnwse.org/Images/button.gif" height="12">
-
+       <!--
        <input type="submit" name="Submit1" value=" SUBMIT VOTE">
+       -->
+
+       VOTING CLOSED 
        <img src="http://nmnwse.org/Images/button.gif" height="12">
+       <br> submit button removed
+       <br>You may vote in person at the Annual Meeting
 
        </B> </font>
 <!-- <br> see top of page for call-in instructions. -->
 <!--
         DRAFT - VOTING NOT YET OPEN
--->
-<!--
-       VOTING CLOSED <br> submit button removed
-      <br>You may vote in person at the Annual Meeting
 -->
 <!-- 
      <br> or by call-in, see <a href="notes.php">notes</a>.
