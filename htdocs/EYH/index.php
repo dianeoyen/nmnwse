@@ -47,6 +47,57 @@ with questions about the conferences, or to let us know your interest in helping
     </P>
     <hr>
 
+    <! -------- Spring 2018 ---------- >
+    <h1>Spring 2018</h1>
+
+    <! -------- Las Cruces ---------- >
+    <a href="http://www.eyhnmsu.webs.com">
+      <h2>Las Cruces, grades 5-9</h2></a>
+    <h3>Saturday, January 20, 2018
+      <br>New Mexico State University, Las Cruces, NM</h3>
+    <details>
+      <summary>More info & contacts</summary>
+    <table border="0" cellpadding="1" cellspacing="1">
+      <tbody>
+        <tr>
+          <td valign="top"> <b>Contacts:</b></td>
+          <td valign="top">Rebecca Galves</td>
+          <td valign="top"> <a href="mailto:rgalves@cs.nmsu.edu">rgalves@cs.nmsu.edu</a>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"> <b></b></td>
+          <td valign="top" align="right">Phone:<br>Fax: </td>
+          <td valign="top"> (575) 646-4451<br> (575) 646-7024</td>
+	</tr>
+	<tr>
+          <td valign="top"> <b>Web Pages:</b></td>
+          <td colspan="2" valign="top"> <a href="http://www.eyhnmsu.webs.com">http://www.eyhnmsu.webs.com</a><br>
+	    <a href="http://www.expandingyourhorizons.org/conferences/LasCruces/">http://www.expandingyourhorizons.org/conferences/LasCruces/</a>
+	  </td>
+        </tr>
+        <tr>
+          <td valign="top"> <b>Mailing<br>
+	      address:</b></td>
+          <td colspan="2" valign="top"> NMSU EYH/YWiC Conference
+            <br> PO Box 30001, MSC CS
+            <br> Las Cruces, NM 88003</td>
+        </tr>
+        <tr>
+          <td valign="top"> <b>Area Served:</b></td>
+          <td valign="top" colspan=2> Open to all girls across NM and West TX! </td>
+        </tr>
+        <tr>
+          <td valign="top"><b>Co-Hosts:</b><br>
+          </td>
+          <td colspan="2" rowspan="1" valign="top">NMSU, Department of Computer Science, Young Women in Computing
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    </details>
+
+    
     <! -------- Fall 2017 ---------- >
 
     <h1>Fall 2017</h1>
@@ -129,53 +180,6 @@ with questions about the conferences, or to let us know your interest in helping
 
     <! -------- Spring 2017 ---------- >
     <h1>Spring 2017</h1>
-
-    <! -------- Las Cruces ---------- >
-    <a href="http://www.eyhnmsu.webs.com">
-      <h2>Las Cruces, grades 5-9</h2></a>
-    <h3>Saturday, January 28, 2017
-      <br>New Mexico State University, Las Cruces, NM</h3>
-    <details>
-      <summary>More info & contacts</summary>
-    <table border="0" cellpadding="1" cellspacing="1">
-      <tbody>
-        <tr>
-          <td valign="top"> <b>Contacts:</b></td>
-          <td valign="top">Rebecca Galves</td>
-          <td valign="top"> <a href="mailto:rgalves@cs.nmsu.edu">rgalves@cs.nmsu.edu</a>
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"> <b></b></td>
-          <td valign="top" align="right">Phone:<br>Fax: </td>
-          <td valign="top"> (575) 646-4451<br> (575) 646-7024</td>
-	</tr>
-	<tr>
-          <td valign="top"> <b>Web Pages:</b></td>
-          <td colspan="2" valign="top"> <a href="http://www.eyhnmsu.webs.com">http://www.eyhnmsu.webs.com</a><br>
-	    <a href="http://www.expandingyourhorizons.org/conferences/LasCruces/">http://www.expandingyourhorizons.org/conferences/LasCruces/</a>
-	  </td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>Mailing<br>
-	      address:</b></td>
-          <td colspan="2" valign="top"> NMSU EYH/YWiC Conference
-            <br> PO Box 30001, MSC CS
-            <br> Las Cruces, NM 88003</td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>Area Served:</b></td>
-          <td valign="top" colspan=2> Open to all girls across NM and West TX! </td>
-        </tr>
-        <tr>
-          <td valign="top"><b>Co-Hosts:</b><br>
-          </td>
-          <td colspan="2" rowspan="1" valign="top">NMSU, Department of Computer Science, Young Women in Computing
-          </td>
-        </tr>
-      </tbody>
-    </table>
-    </details>
 
     <! -------- Albuquerque EYH ---------- >
     <a href="http://nmnwse.org/ceyh">

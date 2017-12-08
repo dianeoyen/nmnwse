@@ -155,6 +155,10 @@ p.center {
     text-align: center;
 }
 
+ul.roomy li {
+    margin-bottom: 10px;
+}
+
 table {
     border: none;
     padding-left: 3px;
