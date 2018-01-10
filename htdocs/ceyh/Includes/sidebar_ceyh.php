@@ -121,7 +121,9 @@
  height="23" width="20"></font></td>
               <td align="left" valign="middle"><font face="Lucida Sans"
  size="-1"><a href="http://nmnwse.org/ceyh/volunteer.php">Info for Volunteers</a>
+<!--
 <br>&nbsp;&nbsp&nbsp;<a href="http://nmnwse.org/ceyh/Forms/volunteer_form.php">online volunteer form</a>
+-->
               </font></td>
             </tr>
 <! credits ----------  >

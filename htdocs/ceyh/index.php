@@ -31,7 +31,7 @@
 	      <font size="+2"><b>
 		  <font color="#4b9fc3">
 		    <! font color="#cb6940">
-		    January 28, 2017
+		    February 3, 2018
 		    <br> University of New Mexico (UNM)
 		    <br> grades 5-9
 	      </font></b></font>
@@ -64,7 +64,9 @@
 	<!--&nbsp;&nbsp;&nbsp;<img src="http://nmnwse.org/Images/gr_dot.gif" height=10>-->
 	<ul>
 	  <li>contact the CEYH planning committee at <a href="mailto:CENTRAL_EYH-L@list.unm.edu">CENTRAL_EYH-L@list.unm.edu</a>, </li>
+          <!--
 	  <li>fill in the <a href="http://nmnwse.org/ceyh/Forms/volunteer_form.php">online volunteer form</a>, or </li>
+          -->
 	  <li>see the <a href="http://nmnwse.org/ceyh/volunteer.php">info for volunteers page</a> for planning information, including instructions on how to subscribe to the listserver. </li>
 	</ul>
       </P>

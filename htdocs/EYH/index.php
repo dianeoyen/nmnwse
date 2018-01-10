@@ -98,6 +98,123 @@ with questions about the conferences, or to let us know your interest in helping
     </details>
 
     
+    <! -------- Albuquerque EYH ---------- >
+    <a href="http://nmnwse.org/ceyh">
+      <h2>Albuquerque, grades 5-9</h2></a>
+    <h3>Saturday, February 3, 2018
+      <br>
+      University of New Mexico (UNM), Albuquerque, NM
+    </h3>
+    <details>
+      <summary>More info & contacts</summary>
+    <table border="0" cellpadding="1" cellspacing="1">
+      <tbody>
+        <tr>
+          <td valign="top"> <b>Contact:</b></td>
+          <td valign="top">
+            Rochelle Larson
+          </td>
+          <td valign="top">
+            <a href="mailto:rochellelnjim@gmail.com?Subject=EYH">rochellelnjim@gmail.com</a>, 505-243-3200
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"> </td>
+          <td valign="top">
+            Planning Committee <br>
+          </td>
+          <td valign="top">
+            <a href="mailto:central_EYH-L@list.unm.edu?Subject=ABQ EYH">central_EYH-L@list.unm.edu</a>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"> <b>Web Page:</b></td>
+          <td colspan="2" valign="top">
+            Attendees: <a href="http://www.expandingyourhorizons.org/conferences/Albuquerque/">http://www.expandingyourhorizons.org/conferences/Albuquerque/</a>
+            <!--
+            <br>Volunteers: <a href="http://nmnwse.org/ceyh/volunteer.php">http://nmnwse.org/ceyh/volunteer.php</a>
+            -->
+            <!--
+            <br>Day-of Volunteers: <a href="http://nmnwse.org/ceyh/dayofvolunteer">http://nmnwse.org/ceyh/dayofvolunteer</a>
+            -->
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"> <b>Mailing<br>
+	      address:</b></td>
+          <td colspan="2" valign="top"> 
+            EYH ABQ<br>
+            P.O. Box 50907 <br>
+            Albuquerque, NM 87181-0907
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"><b>Co-Hosts:</b><br>
+          </td>
+          <td colspan="2" rowspan="1" valign="top"> UNM
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    </details>
+
+    <! -------- Los Alamos EYH ---------- >
+    <!--
+    <a href="http://nmnwse.org/lawis/eyh/index.shtml"><img src="http://nmnwse.org/Images/NEYH_mtn2_100.jpg" alt="" align="right" border="0" height="77" width="200"></a>
+    -->
+    <a href="http://nmnwse.org/lawis/eyh/index.shtml">
+      <h2>Northern NM, grades 5-8</h2></a>
+    <h3>Thursday, February 15, 2018
+      <br>Santa Fe Convention Center, Santa Fe, NM </h3>
+    <details>
+      <summary>More info & contacts</summary>
+    <table border="0" cellpadding="1" cellspacing="1">
+      <tbody>
+        <tr>
+          <td valign="top"> <b>Contacts:</b></td>
+          <td valign="top"> Jan Frigo
+          </td>
+          <td valign="top"> 
+            <a href="mailto:jfrigo@lanl.gov?Subject=NNM EYH">jfrigo@lanl.gov</a>, 505-667-1263
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"> <b>&nbsp;</b></td>
+          <td valign="top"> Josefina E. Salazar </td>
+          <td valign="top"> 
+            <a href="mailto:eyh-registrar@lanl.gov?Subject=NNM EYH">eyh-registrar@lanl.gov</a>, 505-667-2701
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"> <b>Web Page:</b></td>
+          <td colspan="2" valign="top"> Attendees: <a href="http://nmnwse.org/lawis/eyh/registration.shtml">http://nmnwse.org/lawis/eyh/registration.shtml</a>
+            <br>Volunteers: <a href="http://nmnwse.org/lawis/eyh/volunteers.shtml">http://nmnwse.org/lawis/eyh/volunteers.shtml</a>
+        </tr>
+        <tr>
+          <td valign="top"> <b>Mailing<br>
+	      address:</b></td>
+          <td colspan="2" valign="top">
+	    LAWIS EYH c/o Josefina E. Salazar<br>
+	    Los Alamos National Lab<br>
+	    P.O. Box 1663, MS D466<br>
+	    Los Alamos, NM 87545
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"> <b>Area Served:</b></td>
+          <td valign="top" colspan=2> Northern New Mexico </td>
+        </tr>
+        <tr>
+          <td valign="top"><b>Co-Hosts:</b><br>
+          </td>
+          <td colspan="2" rowspan="1" valign="top"><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    </details>
+
+    
     <! -------- Fall 2017 ---------- >
 
     <h1>Fall 2017</h1>
@@ -181,70 +298,6 @@ with questions about the conferences, or to let us know your interest in helping
     <! -------- Spring 2017 ---------- >
     <h1>Spring 2017</h1>
 
-    <! -------- Albuquerque EYH ---------- >
-    <a href="http://nmnwse.org/ceyh">
-      <h2>Albuquerque, grades 5-9</h2></a>
-    <h3>Saturday, January 28, 2017
-      <br>
-      University of New Mexico (UNM), Albuquerque, NM
-    </h3>
-    <details>
-      <summary>More info & contacts</summary>
-    <table border="0" cellpadding="1" cellspacing="1">
-      <tbody>
-        <tr>
-          <td valign="top"> <b>Contact:</b></td>
-          <td valign="top">
-            Rochelle Larson
-          </td>
-          <td valign="top">
-            <a href="mailto:rochellelnjim@gmail.com?Subject=EYH">rochellelnjim@gmail.com</a>, 505-243-3200
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"> </td>
-          <td valign="top">
-            Planning Committee <br>
-          </td>
-          <td valign="top">
-            <a href="mailto:central_EYH-L@list.unm.edu?Subject=ABQ EYH">central_EYH-L@list.unm.edu</a>
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>Web Page:</b></td>
-          <td colspan="2" valign="top">
-            Attendees: <a href="http://www.expandingyourhorizons.org/conferences/Albuquerque/">http://www.expandingyourhorizons.org/conferences/Albuquerque/</a>
-            <br>Volunteers: <a href="http://nmnwse.org/ceyh/volunteer.php">http://nmnwse.org/ceyh/volunteer.php</a>
-            <br>Day-of Volunteers: <a href="http://nmnwse.org/ceyh/dayofvolunteer">http://nmnwse.org/ceyh/dayofvolunteer</a>
-        </td>   </tr>
-        <tr>
-          <td valign="top"><b>Flyer:</b><br>
-          </td>
-          <td colspan="2" rowspan="1" valign="top">
-            <! http://nmnwse.org/ceyh/Flyers/CEYH_2015_FLYER.pdf >
-            <a href="http://nmnwse.org/ceyh/Flyers/CEYH_reg_opens_20160104.pdf">http://nmnwse.org/ceyh/Flyers/CEYH_reg_opens_20160104.pdf</a>
-	    <img src="http://nmnwse.org/Images/new.gif">
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>Mailing<br>
-	      address:</b></td>
-          <td colspan="2" valign="top"> 
-            EYH ABQ<br>
-            P.O. Box 50907 <br>
-            Albuquerque, NM 87181-0907
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"><b>Co-Hosts:</b><br>
-          </td>
-          <td colspan="2" rowspan="1" valign="top"> UNM
-          </td>
-        </tr>
-      </tbody>
-    </table>
-    </details>
-
     <! -------- Silver City EYH ---------- >
     <!--
     <a href="http://nmnwse.org/sceyh"><img src="http://nmnwse.org/Images/SCEYH_girl2_150.jpg" alt="" align="right" border="0" height="150" width="113"></a>
@@ -284,62 +337,6 @@ with questions about the conferences, or to let us know your interest in helping
           <td valign="top"><b>Sponsors: </b><br>
           </td>
           <td colspan="2" rowspan="1" valign="top">Silver City-Southwest NM Branch of AAUW, The Girl Scouts of the Desert Southwest, Freeport-McMoRan, Silver City Woman's Club<br>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-    </details>
-
-    <! -------- Los Alamos EYH ---------- >
-    <!--
-    <a href="http://nmnwse.org/lawis/eyh/index.shtml"><img src="http://nmnwse.org/Images/NEYH_mtn2_100.jpg" alt="" align="right" border="0" height="77" width="200"></a>
-    -->
-    <a href="http://nmnwse.org/lawis/eyh/index.shtml">
-      <h2>Northern NM, grades 5-8</h2></a>
-    <h3>Thursday, March 9, 2017
-      <br>Santa Fe Convention Center, Santa Fe, NM </h3>
-    <details>
-      <summary>More info & contacts</summary>
-    <table border="0" cellpadding="1" cellspacing="1">
-      <tbody>
-        <tr>
-          <td valign="top"> <b>Contacts:</b></td>
-          <td valign="top"> Jan Frigo
-          </td>
-          <td valign="top"> 
-            <a href="mailto:jfrigo@lanl.gov?Subject=NNM EYH">jfrigo@lanl.gov</a>, 505-667-1263
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>&nbsp;</b></td>
-          <td valign="top"> Josefina E. Salazar </td>
-          <td valign="top"> 
-            <a href="mailto:eyh-registrar@lanl.gov?Subject=NNM EYH">eyh-registrar@lanl.gov</a>, 505-667-2701
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>Web Page:</b></td>
-          <td colspan="2" valign="top"> Attendees: <a href="http://nmnwse.org/lawis/eyh/registration.shtml">http://nmnwse.org/lawis/eyh/registration.shtml</a>
-            <br>Volunteers: <a href="http://nmnwse.org/lawis/eyh/volunteers.shtml">http://nmnwse.org/lawis/eyh/volunteers.shtml</a>
-        </tr>
-        <tr>
-          <td valign="top"> <b>Mailing<br>
-	      address:</b></td>
-          <td colspan="2" valign="top">
-	    LAWIS EYH c/o Josefina E. Salazar<br>
-	    Los Alamos National Lab<br>
-	    P.O. Box 1663, MS D466<br>
-	    Los Alamos, NM 87545
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>Area Served:</b></td>
-          <td valign="top" colspan=2> Northern New Mexico </td>
-        </tr>
-        <tr>
-          <td valign="top"><b>Co-Hosts:</b><br>
-          </td>
-          <td colspan="2" rowspan="1" valign="top"><br>
           </td>
         </tr>
       </tbody>

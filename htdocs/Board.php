@@ -24,7 +24,7 @@
       <h2>Board-related information</h2>
       <ul>
 	<li>
-	  The FY16-17 Board serves 10-1-2016 thru 9-30-2017
+	  The FY17-18 Board serves 10-1-2017 thru 9-30-2018
 	</li>
 	<li>
 	  <a href="mailto:NMNWSE_Board-L@List.unm.edu">Email the board.</a>
@@ -60,7 +60,7 @@
 	  <td> President </td>
 	  <td> Rebecca Galves</td>
 	  <td> Las Cruces</td>
-	  <td> 2015, 2016</td>
+	  <td> 2015, 2016, 2017</td>
 	</tr>
 	<tr>
 	  <td>Past President</td>
@@ -83,7 +83,7 @@
 	  <td> Secretary </td>
 	  <td> Barbara Torres</td>
 	  <td> Albuquerque </td>
-	  <td> 2015</td>
+	  <td> 2015, 2017</td>
 	</tr>
       </table>
 
@@ -113,23 +113,7 @@
 
       <h2> Members at Large </h2>
       
-      <h3>Oct 2016 - Oct 2018 </h3>
-      <table>
-	<tr>
-	  <th> Board Member </th>
-	  <th> Since </th>
-	</tr>
-	<tr>
-	  <td> Sarah Balizan </td>
-	  <td> 2016 </td>
-	</tr>
-	<tr>
-	  <td> Tinka Gammel </td>
-	  <td> 2000 </td> <! on board since ~2000 >
-	</tr>
-      </table>
-
-      <h3> Oct 2015 - Oct 2017 </h3>
+      <h3> Oct 2017 - Oct 2019 </h3>
       <table>
 	<tr>
 	  <th> Board Member </th>
@@ -139,10 +123,7 @@
 	  <td> Dana Roberson </td>
 	  <td> 2013 </td>
 	</tr>
-	<tr>
-	  <td> Diane Albert </td>
-	  <td> 2015 </td>
-	<tr>
+        <tr>
 	  <td> Rajaa Shindi </td>
 	  <td> 2015 </td>
 	</tr>
@@ -151,14 +132,32 @@
 	  <td> 2015 </td>
 	</tr>
 	<tr>
-	  <td> Claudia Barreto </td>
-	  <td> 2015 </td>
+	  <td> Casey DeRaad </td>
+	  <td> 2017 </td>
+	</tr>
+        <tr>
+          <td> Phyllis Baca </td>
+          <td> 2017 </td>
+        </tr>
+      </table>
+
+      <h3>Oct 2016 - Oct 2018 </h3>
+      <table>
+	<tr>
+	  <th> Board Member </th>
+	  <th> Since </th>
 	</tr>
 	<tr>
-	  <td> Lina Germann </td>
-	  <td> 2015 </td>
+	  <td> Tinka Gammel </td>
+	  <td> 2000 </td> <! on board since ~2000 >
+	</tr>
+	<tr>
+	  <td> Sarah Balizan </td>
+	  <td> 2016 </td>
 	</tr>
       </table>
+
+
       <!--
               <td valign="top">
                   <font color="#4b9fc3"><b>Oct 2014-Oct 2016</b></font>

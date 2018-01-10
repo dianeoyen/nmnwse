@@ -44,8 +44,36 @@
       
       <h3> February 10, 2018 </h3>
       <p>
-        Truth or Consequences, NM
+        10:00 am - 12 noon
+        <br>Johnny B's Restaurant
+        <br>2260 North Date St.
+        <br>Truth or Consequences, NM 87901
+        <br><a href="http://www.johnnybsrestaurant.net">Restaurant website</a>
+        <br><a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Agenda_20180210.pdf">Agenda</a>
       </p>
+      <p>
+        Join meeting by video conference:
+        <ul>
+          <li>
+            <a href="http://join.freeconferencecall.com/rgalves">Click to join.</a>
+          </li>
+          <li>
+            Or, if you have the app from <a href="http://freeconferencecall.com">freeconferencecall.com</a>, enter online meeting ID on desktop app: rgalves
+          </li>
+        </ul>
+      </p>
+      <p>
+        Join meeting with phone/audio:
+        <ul>
+          <li>
+            Dial-in number: (712) 775-7031
+          </li>
+          <li>
+            Access code: 265370
+          </li>
+        </ul>
+      </p>
+      
 	  
 
       <h3> April 7, 2018 </h3>
@@ -155,6 +183,13 @@
       <! start of agendas >
       <h2> Agendas </h2>
       
+      <h3> FY 17-18 Agendas (Oct 2017 - Sep 2018) </h3>
+      <ul>
+        <li>
+          <a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Agenda_20180210.pdf">Feb 10, 2018</a>
+        </li>
+      </ul>
+
       <h3> FY 16-17 Agendas (Oct 2016 - 2017 Annual Meeting) </h3>
       <ul>
 	<li>

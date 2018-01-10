@@ -30,11 +30,12 @@ CEYH registrar email: <a href="mailto:centraleyh@gmail.com">centraleyh@gmail.com
 <br>This is mainly intended for use by registrants, but feel free to use if you registration-related questions or don't want to email the entire planning committee. You can also reach the committee via the NMNWSE Webmaster Tinka Gammel, <a href="mailto:webmaster@nmnwse.org ?Subject=CEYH">webmaster@nmnwse.org</a>.
 -->
 
+<!--
 <P>
 <a href="Forms/volunteer_form.php?printable=1"><font size="+1"><font color="#cb6940"><b>Online Form for Volunteers</b></font></font></a>
 <br>Interested in helping with planning, presenting a workshop, or sponsoring the conference?
 <br>Please use <a href="Forms/volunteer_form.php?printable=1">this form</a> to let us know how you'd like to be involved!
-
+-->
 
 <!--
 <P><img src="http://nmnwse.org/Images/bl_pin.gif" > 
