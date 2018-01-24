@@ -64,9 +64,7 @@
 	<!--&nbsp;&nbsp;&nbsp;<img src="http://nmnwse.org/Images/gr_dot.gif" height=10>-->
 	<ul>
 	  <li>contact the CEYH planning committee at <a href="mailto:CENTRAL_EYH-L@list.unm.edu">CENTRAL_EYH-L@list.unm.edu</a>, </li>
-          <!--
-	  <li>fill in the <a href="http://nmnwse.org/ceyh/Forms/volunteer_form.php">online volunteer form</a>, or </li>
-          -->
+	  <li>fill in the <a href="http://www.signupgenius.com/go/30E084BAEAD22A1F85-dayofvolunteer2">online volunteer form</a>, or </li>
 	  <li>see the <a href="http://nmnwse.org/ceyh/volunteer.php">info for volunteers page</a> for planning information, including instructions on how to subscribe to the listserver. </li>
 	</ul>
       </P>

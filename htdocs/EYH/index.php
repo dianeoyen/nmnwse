@@ -131,9 +131,7 @@ with questions about the conferences, or to let us know your interest in helping
           <td valign="top"> <b>Web Page:</b></td>
           <td colspan="2" valign="top">
             Attendees: <a href="http://www.expandingyourhorizons.org/conferences/Albuquerque/">http://www.expandingyourhorizons.org/conferences/Albuquerque/</a>
-            <!--
-            <br>Volunteers: <a href="http://nmnwse.org/ceyh/volunteer.php">http://nmnwse.org/ceyh/volunteer.php</a>
-            -->
+            <br>Volunteers: <a href="http://www.signupgenius.com/go/30E084BAEAD22A1F85-dayofvolunteer2">Online form</a>
             <!--
             <br>Day-of Volunteers: <a href="http://nmnwse.org/ceyh/dayofvolunteer">http://nmnwse.org/ceyh/dayofvolunteer</a>
             -->
@@ -208,6 +206,51 @@ with questions about the conferences, or to let us know your interest in helping
           <td valign="top"><b>Co-Hosts:</b><br>
           </td>
           <td colspan="2" rowspan="1" valign="top"><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    </details>
+
+    <! -------- Silver City EYH ---------- >
+    <!--
+    <a href="http://nmnwse.org/sceyh"><img src="http://nmnwse.org/Images/SCEYH_girl2_150.jpg" alt="" align="right" border="0" height="150" width="113"></a>
+    -->
+    <a href="http://nmnwse.org/sceyh/">
+      <h2>Silver City, grades 5-8</h2></a>
+    <h3>Saturday, February 24, 2018
+      <br>Western New Mexico University, Silver City, NM</h3>
+    <details>
+      <summary>More info & contacts</summary>
+    <table border="0" cellpadding="1" cellspacing="1">
+      <tbody>
+        <tr>
+          <td valign="top"> <b>Contacts:</b></td>
+          <td valign="top"> Mikki Jemin </td>
+          <td valign="top"> <a href="mailto:mary.jemin@gmail.com">mary.jemin@gmail.com</a>, 575-654-5816</td>
+        </tr>
+        <tr>
+          <td valign="top"> <b>&nbsp;</b></td>
+          <td valign="top"> Adrienne Dare </td>
+          <td valign="top"> <a href="mailto:dareadrienne@gmail.com">dareadrienne@gmail.com</a>, 575-388-2013</td>
+        </tr>
+        <tr>
+          <td valign="top"> <b>Web Page:</b></td>
+          <td colspan="2" valign="top">
+	    <a href="http://nmnwse.org/sceyh">http://nmnwse.org/sceyh</a> </td>
+        </tr>
+	<tr>
+	  <td valign="top"> <b>Mailing<br>
+	      address:</b></td>
+	  <td colspan="2" valign="top"> Silver City EYH c/o 
+	    Mikki Jemin<br>
+	    409 S. Pinos Altos St.<br>
+	    Silver City, NM 88061</td>
+        </tr>
+        <tr>
+          <td valign="top"><b>Sponsors: </b><br>
+          </td>
+          <td colspan="2" rowspan="1" valign="top">Silver City-Southwest NM Branch of AAUW, The Girl Scouts of the Desert Southwest, Freeport-McMoRan, Silver City Woman's Club<br>
           </td>
         </tr>
       </tbody>
@@ -294,54 +337,6 @@ with questions about the conferences, or to let us know your interest in helping
 
     <! -------- end Fall 2017 ---------- >
 
-
-    <! -------- Spring 2017 ---------- >
-    <h1>Spring 2017</h1>
-
-    <! -------- Silver City EYH ---------- >
-    <!--
-    <a href="http://nmnwse.org/sceyh"><img src="http://nmnwse.org/Images/SCEYH_girl2_150.jpg" alt="" align="right" border="0" height="150" width="113"></a>
-    -->
-    <a href="http://nmnwse.org/sceyh/">
-      <h2>Silver City, grades 5-8</h2></a>
-    <h3>Saturday, February 25, 2017
-      <br>Western New Mexico University, Silver City, NM</h3>
-    <details>
-      <summary>More info & contacts</summary>
-    <table border="0" cellpadding="1" cellspacing="1">
-      <tbody>
-        <tr>
-          <td valign="top"> <b>Contacts:</b></td>
-          <td valign="top"> Mikki Jemin </td>
-          <td valign="top"> <a href="mailto:mary.jemin@gmail.com">mary.jemin@gmail.com</a>, 575-654-5816</td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>&nbsp;</b></td>
-          <td valign="top"> Adrienne Dare </td>
-          <td valign="top"> <a href="mailto:dareadrienne@gmail.com">dareadrienne@gmail.com</a>, 575-388-2013</td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>Web Page:</b></td>
-          <td colspan="2" valign="top">
-	    <a href="http://nmnwse.org/sceyh">http://nmnwse.org/sceyh</a> </td>
-        </tr>
-	<tr>
-	  <td valign="top"> <b>Mailing<br>
-	      address:</b></td>
-	  <td colspan="2" valign="top"> Silver City EYH c/o 
-	    Mikki Jemin<br>
-	    409 S. Pinos Altos St.<br>
-	    Silver City, NM 88061</td>
-        </tr>
-        <tr>
-          <td valign="top"><b>Sponsors: </b><br>
-          </td>
-          <td colspan="2" rowspan="1" valign="top">Silver City-Southwest NM Branch of AAUW, The Girl Scouts of the Desert Southwest, Freeport-McMoRan, Silver City Woman's Club<br>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-    </details>
 
 
     <! -------- New ---------- >
