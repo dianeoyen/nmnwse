@@ -218,7 +218,10 @@ with questions about the conferences, or to let us know your interest in helping
     -->
     <a href="http://nmnwse.org/sceyh/">
       <h2>Silver City, grades 5-8</h2></a>
+    <!--
     <h3>Saturday, February 24, 2018
+      -->
+    <h3> 2018 event canceled due to WNMU construction
       <br>Western New Mexico University, Silver City, NM</h3>
     <details>
       <summary>More info & contacts</summary>

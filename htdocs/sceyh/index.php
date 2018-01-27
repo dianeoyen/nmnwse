@@ -42,8 +42,11 @@
                alt="Silver City EYH logo"
                class="logo">
           
-          <h2> 
+          <h2>
+            <!--
             Saturday, February 24, 2018
+              -->
+            2018 event canceled due to WNMU construction
             <br> Western New Mexico University
             <br> grades 5-8
           </h2>
