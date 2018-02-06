@@ -110,6 +110,10 @@ ul {
     margin-top: 0px;
 }
 
+ul.nobullet {
+    list-style: none;
+}
+
 nav img:decoration {
     width: 100%;
     padding-top: 0;
