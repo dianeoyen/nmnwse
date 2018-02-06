@@ -47,9 +47,8 @@
       <p>
         Professional membership in the New Mexico Network for Women in
         Science and Engineering is open to New Mexico women working (or
-        interested) in a scientific or engineering environment. In December 2008 the Board
-        voted to changed the membership rates for the first time in many years. The rate is
-        now $40.00 per year for regular members, and the reduced rate for students, teachers, retired members, and non-employed members is $10.00.
+        interested) in a scientific or engineering environment. The membership rate is
+        $40.00 per year for regular members, and the reduced rate for students, teachers, retired members, and non-employed members is $10.00.
       </p>
 
       <h2> Join us! </h2>

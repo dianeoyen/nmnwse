@@ -62,11 +62,6 @@ or donate using your credit card via the
 <br><img src="http://nmnwse.org/Images/spacer.gif" height=12 width=21>
 at the <a href="http://www.networkforgood.org">Network For Good</a>.<sup>*</sup>
 
-<P>
-<sup>*</sup><font size=-1><I>
-Please note that, while we try to keep this information current, the links to non-NMNWSE sites may have changed since this page was last updated (Dec 2011).
-If the links are broken use your search engine to find the new location, or <a href="mailto:webmaster@nmnwse.org ?Subject=NMNWSE donations page - links broken">contact the NMNWSE webmaster</a>.
-</I></font>
 
 <P>&nbsp;
 <?php
