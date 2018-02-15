@@ -37,7 +37,12 @@
       <h3>FY Oct 2016 - Oct 2017</h3>
       <ul>
 	<li>
-	  <a href="minutes_201704.pdf">draft April 2017 Minutes (Board)</a>
+	  <a href="minutes_201710.pdf">October 2017 Minutes (Board)</a>
+          and
+          <a href="financial_1617.pdf">financial report</a>
+	</li>
+	<li>
+	  <a href="minutes_201704.pdf">April 2017 Minutes (Board)</a>
 	</li>
       </ul>
       
