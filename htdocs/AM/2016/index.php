@@ -26,12 +26,14 @@ Our Annual Meeting and Technical Symposium, held each fall, provides an opportun
   <br><img src="http://nmnwse.org/Images/r_hand.gif"><img src="http://nmnwse.org/Images/spacer.gif" height=18 width=1>&nbsp;<a href="http://nmnwse.org/AM/2016/AM16_FirstCircular_trifold.pdf">AM 2016 First Circular</a> (trifold)
   <br><img src="http://nmnwse.org/Images/r_hand.gif"><img src="http://nmnwse.org/Images/spacer.gif" height=18 width=1>&nbsp;<a href="http://nmnwse.org/AM/register">AM 2016 Registration Form</a>. <b>Early registration ends Sep 30, 2016.</b>
   <br>
+  <!--
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
     <input type="hidden" name="cmd" value="_s-xclick">
     <input type="hidden" name="hosted_button_id" value="22UDDC6JBLP66">
     <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
     <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
   </form>
+  -->
   
   <!--
   <br><img src="http://nmnwse.org/Images/button.gif" height="12"><img src="http://nmnwse.org/Images/spacer.gif" width="1" height="15"> See below for <! preliminary > meeting details.

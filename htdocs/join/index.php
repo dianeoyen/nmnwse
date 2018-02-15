@@ -34,24 +34,44 @@
 
       <h2> Why join NMNWSE? </h2>
       <p>
-        Membership in the network helps to support all of the efforts
-        of the group. Members attend chapter meetings, receive the printed
-        version of <a href="http://nmnwse.org/News.php">The Network News</a>, sponsor and
-        participate in Expanding Your Horizons Conferences or other
-        outreach and chapter activities, and have the opportunity to
-        attend and make technical presentations at the annual meeting.
-      </p>
-      <p>
-        Members also receive an electronic copy of the current NMNWSE roster, which contains the contact information for all members to facillitate networking. 
-      </p>
-      <p>
-        Professional membership in the New Mexico Network for Women in
-        Science and Engineering is open to New Mexico women working (or
-        interested) in a scientific or engineering environment. The membership rate is
-        $40.00 per year for regular members, and the reduced rate for students, teachers, retired members, and non-employed members is $10.00.
+
+        <ul>
+          <li>
+            Build strong, personal connections with women in STEM
+          </li>
+          <li>
+            Motivate, engage, and support girls and young women moving from STEM interest to STEM careers through the power of a statewide network
+          </li>
+          <li>
+            Empower girls to see themselves as future scientists and engineers, through STEM conferences and our career book
+          </li>
+          <li>
+            Celebrate the accomplishments of young women by providing awards during science fairs and competitions
+          </li>
+          <li>
+            Leverage partnerships with highly respected STEM role models and other youth organizations
+          </li>
+        </ul>
+
+        NMNWSE has hosted 25 annual technical symposiums, bringing together hundreds of women scientists. Members take a much-needed break, one weekend a year, to gather together in a welcoming, caring environment to re-energize, learn about other members’ work, and cultivate a network of encouragement and support. The NM Network strives to continue the 35-year legacy of active engagement by NM women in STEM who pay-it-forward as volunteers on the Board, during EYH Conferences, leading Committees, as judges during science fairs and competitions, and much more.
       </p>
 
+      <p>
+        In 2007, the annual <a href="http://nmnwse.org/ImpactAward">IMPACT! Award</a> was established to recognize a NM woman for her extraordinary efforts in encouraging and helping women enter into and succeed in STEM field.
+      </p>
+
+      <p>
+        NM Network members have helped provide gateway experiences in STEM to over 1,000 female-participants for 30 years, of which over 50% of the young women come from underrepresented minority groups. The Network has provided tote bags, seed funding, insurance, and promotional support for over 140 EYH Conferences in NM since 1980. Ultimately, this has reached over 20,000 girls and young women throughout the state for the past 37 years.
+      </p>
+      
+      
+
       <h2> Join us! </h2>
+
+      <p>
+        The membership rate is $40.00 per year for regular members, and the reduced rate for students, teachers, retired members, and non-employed members is $10.00.
+      </p>
+      
       <p>
         To apply for membership in the New Mexico Network for Women in
         Science &amp; Engineering, please submit a completed <A HREF="http://nmnwse.org/MemberForm.pdf">Membership
@@ -83,7 +103,7 @@
             There is space to include a tax-deductible donation in addition to your membership fees on the membership form.
           </li>
           <li>
-            <a href="http://nmnwse.org/donate.php">Click here</a> for more information about donating to NMNWSE.
+            <a href="http://nmnwse.org/donate">Click here</a> for more information about donating to NMNWSE.
           </li>
         </ul>
       </p>

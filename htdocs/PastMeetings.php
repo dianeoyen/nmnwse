@@ -23,6 +23,20 @@
         include("include/sidebar.php");
         ?>
 
+      <h2> 2017 NMNWSE Technical Symposium and Annual Meeting</h2>
+      <ul class="nobullet">
+        <li>
+          October 20-22, 2017
+        </li>
+        <li>
+          <a href="http://www.murray-hotel.com">Murray Hotel</a> in Silver City, NM
+        </li>
+        <li>
+          <a href="http://nmnwse.org/AM/2017/index.php">http://nmnwse.org/AM/2017/</a>
+        </li>
+      </ul>
+      
+      
       <h2> 2016 NMNWSE Technical Symposium and Annual Meeting</h2>
       <ul class="nobullet">
         <li>
