@@ -48,6 +48,9 @@
       <h3> 2017 News </h3>
       <ul>
 	<li>
+	  <a href="20171101_news.html">Bonnie Frey honored as IMPACT! Award winner</a>
+	</li>
+	<li>
 	  <a href="20170603_news.html">Mercedes Agogino wins NMNWSE Lifetime Achievement Award</a>
 	</li>
 	<li>

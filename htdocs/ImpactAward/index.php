@@ -54,15 +54,10 @@
 	</li>
       </ul>
 
-      <!-- Mercedes special award -->
-      <h2> Announcement: Merecedes Agogino wins a Lifetime Achievement Award </h2>
-      <p>
-	It is with great pride and pleasure that the New Mexico Network for Women in Science and Engineering is presenting a Lifetime Achievement Award to Dr. Mercedes Agogino.  She truly merits this award for her extraordinary career and efforts in furthering the Network’s goals of encouraging women to enter into science, technology, engineering, mathematics, and allied professions (STEM-AP). Her lifelong passion and desire to increase the role of women in these fields through support of students in middle school through college is awe-inspiring and deserves to be celebrated.
-      </p>
-      <p>
-	Mercedes has been a trailblazer for women, for STEM-AP, and for all
-underrepresented groups in New Mexico! As a long-time member of the Network, she has participated in many of our efforts over the years.  She served as our State Science Fair Awards coordinator for many years.  Mercedes enabled us to reward and encourage well over 200 students during this time at both the middle school and high school levels.  We are very excited to hold this event in her honor and share her remarkable life and career.
-      </p>
+      <! Previous Impact Award winner>
+      <?php
+        include("http://nmnwse.org/inNews/20171101_news.html");
+        ?>
 
       <!--
 	  <P><img src="http://nmnwse.org/Images/arrow2r.gif"><font color="#cb6940" size=+1><b>BREAKING NEWS:</b></font>&nbsp;&nbsp;<b>Laura Crossey has been selected as the 2015 IMPACT! Award winner.</b><br>
@@ -81,7 +76,7 @@ underrepresented groups in New Mexico! As a long-time member of the Network, she
       </P>
       -->
 
-      <h2>Congratulations to Mercedes Agogino and all past winners of the IMPACT Award!</h2>
+      <h2>Congratulations to Bonnie Frey and all past winners of the IMPACT Award!</h2>
 
       <a href="http://nmnwse.org/ImpactAward/winners/index.php">Past Winners</a>, with links to the news releases summarizing their contributions.
       

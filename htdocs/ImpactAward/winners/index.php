@@ -27,6 +27,40 @@
       </p>
 
       <div class="bio">
+	<h2>2017: Bonnie Frey, Socorro</h2>
+	<img src="http://nmnwse.org/ImpactAward/winners/bonnie.jpg">
+	<P>
+	  New Mexico is blessed to have Bonnie Frey as an active Science, Technology,
+          Engineering, and Math citizen. She has contributed almost two decades to NM’s STEM
+          capacity via research, teaching, training, leadership, and mentorship. Her STEM work is
+          exceptional and impactful, particularly as a leader and mentor.
+	</P>
+	<P>
+          Bonnie is deserving of this award for many reasons - her commitment to the future of
+          STEM in New Mexico, her mentoring of women in STEM, being a great role model
+          through her persistence and confidence to achieve her own STEM degree and her
+          career pathway in a male dominated field, and for increasing the participation and
+          retention of women students in STEM – helping them build their own personal sense of
+          belonging in the STEM culture.
+	</P>
+	<p>
+	  <a href="2017_Impact_Award_Winner_News_Release.pdf">Full news release.</a>
+	</p>
+      </div>
+
+      <!-- Mercedes special award -->
+      <div class="bio">
+        <h2> Announcement: Merecedes Agogino wins a Lifetime Achievement Award </h2>
+        <p>
+	  It is with great pride and pleasure that the New Mexico Network for Women in Science and Engineering is presenting a Lifetime Achievement Award to Dr. Mercedes Agogino.  She truly merits this award for her extraordinary career and efforts in furthering the Network’s goals of encouraging women to enter into science, technology, engineering, mathematics, and allied professions (STEM-AP). Her lifelong passion and desire to increase the role of women in these fields through support of students in middle school through college is awe-inspiring and deserves to be celebrated.
+        </p>
+        <p>
+	  Mercedes has been a trailblazer for women, for STEM-AP, and for all
+          underrepresented groups in New Mexico! As a long-time member of the Network, she has participated in many of our efforts over the years.  She served as our State Science Fair Awards coordinator for many years.  Mercedes enabled us to reward and encourage well over 200 students during this time at both the middle school and high school levels.  We are very excited to hold this event in her honor and share her remarkable life and career.
+        </p>
+      </div>
+
+      <div class="bio">
 	<h2>2016: Carol Linder, Las Vegas</h2>
 	<img src="http://nmnwse.org/ImpactAward/winners/CarolLinder2016_web.jpg">
 	<P>

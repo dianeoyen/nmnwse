@@ -44,6 +44,11 @@
 	 include("inNews/20180411_news.html"); 
 	 ?>
 
+      <! Impact Award >
+      <?php
+        include("inNews/20171101_news.html");
+        ?>
+
       <! 2017 Fall Newsletter >
       <?php
         include("inNews/20171005_news.html");
