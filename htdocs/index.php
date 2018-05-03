@@ -39,6 +39,11 @@
 	   </p>
       -->
 
+      <! Science fair >
+      <?php 
+	 include("inNews/20180411_news.html"); 
+	 ?>
+
       <! 2017 Fall Newsletter >
       <?php
         include("inNews/20171005_news.html");
@@ -63,11 +68,6 @@
       <?php
         include("inNews/20170425_news.html");
         ?>
-
-      <! Science fair >
-      <?php 
-	 include("inNews/201704_news.html"); 
-	 ?>
 
       <!-- more news -->
       <a href="http://nmnwse.org/inNews/index.php"><h2>More News</h2></a>

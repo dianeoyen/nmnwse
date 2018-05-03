@@ -38,10 +38,17 @@
 
       <h2> News Archive </h2>
 
-      <h3> 2017 </h3>
-       <ul>
+      <h3> 2018 News </h3>
+      <ul>
+        <li>
+          <a href="20180411_news.html">NMNWSE Awards at the 2018 NM Science and Engineering Fair</a>
+        </li>
+      </ul>
+      
+      <h3> 2017 News </h3>
+      <ul>
 	<li>
-	  <a href="20170603_news.html">Mercedes Agogino wins 2017 IMPACT! Award</a>
+	  <a href="20170603_news.html">Mercedes Agogino wins NMNWSE Lifetime Achievement Award</a>
 	</li>
 	<li>
 	  <a href="20170503_news.html">AAUW-NM honors NMNWSE with Mission in Action Award</a>
@@ -54,7 +61,7 @@
 	</li>
        </ul>
 
-      <h3> 2016 </h3>
+      <h3> 2016 News </h3>
        <ul>
 	<li>
 	  <a href="201612_news.html">Carol Linder honored as IMPACT! Award winner</a>
@@ -67,7 +74,7 @@
 	</li>
       </ul>
 
-       <h3>2015</h3>
+       <h3>2015 News </h3>
        <ul>
 	 <li>
 	   <a href="201510_news.htm">Laura Crossey has been selected as the 2015 <b>IMPACT! Award</b> winner</a>
@@ -85,7 +92,7 @@
        </li>
        </ul>
 
-       <h3>2014</h3>
+       <h3>2014 News </h3>
        <ul>
 	 <li>
 	   <a href="201410_news.htm">Jan Frigo selected as 2014 NMNWSE <b>IMPACT! Award</b> Winner</a>
@@ -107,7 +114,7 @@
 	 </li>
        </ul>
 
-       <h3>2013</h3>
+       <h3>2013 News</h3>
        <ul>
 	 <li>
 	   <a href="http://nmnwse.org/AM/2013/AM13pics.pdf">Pictures from the 2013 Annual Meeting</a>
@@ -136,7 +143,7 @@
 	 </li>
        </ul>
 
-       <h3>2012</h3>
+       <h3>2012 News</h3>
        <ul>
 	 <li>
 	   <a href="201212_news.htm">2013 NMNWSE Expanding Your Horizons (EYH)</a>
@@ -175,7 +182,7 @@
 	 </li>
        </ul>
 
-       <h3>2011</h3>
+       <h3>2011 News</h3>
        <ul>
 	 <li>
 	   <a href="201112_news.htm">National Girls Collaborative Project Comes to New Mexico!</a>
@@ -200,7 +207,7 @@
 	 </li>
        </ul>
 
-       <h3>2010</h3>
+       <h3>2010 News</h3>
        <ul>
 	 <li>
 	   <a href="201011_news.htm">Eleanor Walther receives 2010 IMPACT! Award</a>
@@ -219,7 +226,7 @@
 	 </li>
        </ul>
 
-       <h3>2009</h3>
+       <h3>2009 News</h3>
        <ul>
 	 <li>
 	   <a href="200912_news.htm">2009 NMNWSE IMPACT! Award winner Joan Woodard to be honored at the Jan 11 Central Chapter Meeting</a>
@@ -247,7 +254,7 @@
 	 </li>
        </ul>
        
-       <h3>2008</h3>
+       <h3>2008 News</h3>
        <ul>
 	 <li>
 	   <a href="200811_NMNWSE_GreetingsFromPres.htm">Greetings from the 2009 NMNWSE President</a>
@@ -281,7 +288,7 @@
 	 </li>
        </ul>
 
-       <h3>2007</h3>
+       <h3>2007 News</h3>
        <ul>
 	 <li>
 	   <a href="NMNWSE_GreetingsFromPres_0711.pdf">Greetings from the 2008 NMNWSE President</a>
@@ -315,7 +322,7 @@
 	 </li>
        </ul>
 
-       <h3>2006</h3>
+       <h3>2006 News</h3>
        <ul>
 	 <li>
 	   <a href="2006_AnnMtg_DarkSky.htm"> Nov 2006 - NMNWSE Dark Sky Resolution and Elections </a>
@@ -328,7 +335,7 @@
 	 </li>
        </ul>
        
-       <h3>2005</h3>
+       <h3>2005 News</h3>
        <ul>
 	 <li>
 	   <a href="2005_GovAwardWinners.htm">  2005 Governor Award winners</a>
@@ -338,7 +345,7 @@
 	 </li>
        </ul>
        
-       <h3>2004 and before</h3>
+       <h3>2004 News and Before</h3>
        <ul>
 	 <li>
 	   <a href="25thReunion.html"> 2004 25th reunion photos </a>
