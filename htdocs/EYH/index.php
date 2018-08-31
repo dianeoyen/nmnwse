@@ -47,61 +47,101 @@ with questions about the conferences, or to let us know your interest in helping
     </P>
     <hr>
 
-    <! -------- Spring 2018 ---------- >
-    <h1>Spring 2018</h1>
 
-    <! -------- Las Cruces ---------- >
-    <a href="http://www.eyhnmsu.webs.com">
-      <h2>Las Cruces, grades 5-9</h2></a>
-    <h3>Saturday, January 20, 2018
-      <br>New Mexico State University, Las Cruces, NM</h3>
+    <! -------- Fall 2018 ---------- >
+
+    <h1>Fall 2018</h1>
+
+    <! -------- Carlsbad EYH ---------- >
+    <a href="http://nmnwse.org/carlsbad-eyh/">
+      <h2>Carlsbad, grade 6</h2></a>
+    <h3>Friday, October 12, 2018
+      <br>
+      NMSU Carlsbad, Carlsbad, NM
+    </h3>
     <details>
-      <summary>More info & contacts</summary>
+      <summary>
+        More info and contacts
+      </summary>
     <table border="0" cellpadding="1" cellspacing="1">
       <tbody>
         <tr>
-          <td valign="top"> <b>Contacts:</b></td>
-          <td valign="top">Rebecca Galves</td>
-          <td valign="top"> <a href="mailto:rgalves@cs.nmsu.edu">rgalves@cs.nmsu.edu</a>
-          </td>
+          <td valign="top"> <b>Contact:</b></td>
+          <td valign="top"> Cassie Marrs </td>
+          <td valign="top"> <a href="mailto:marrs.cassie@gmail.com?Subject=Carlsbad EYH">marrs.cassie@gmail.com</a>, (956) 242-7865<! a google phone number ></td>  
+        </tr>
+        <tr>
+          <td valign="top"> <b>Web Page:</b></td>
+          <td valign="top"> Volunteers:</td>
+          <td valign="top"> <a href="http://nmnwse.org/carlsbad-eyh">http://nmnwse.org/carlsbad-eyh</a></td>
         </tr>
         <tr>
           <td valign="top"> <b></b></td>
-          <td valign="top" align="right">Phone:<br>Fax: </td>
-          <td valign="top"> (575) 646-4451<br> (575) 646-7024</td>
-	</tr>
-	<tr>
-          <td valign="top"> <b>Web Pages:</b></td>
-          <td colspan="2" valign="top"> <a href="http://www.eyhnmsu.webs.com">http://www.eyhnmsu.webs.com</a><br>
-	    <a href="http://www.expandingyourhorizons.org/conferences/LasCruces/">http://www.expandingyourhorizons.org/conferences/LasCruces/</a>
-	  </td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>Mailing<br>
-	      address:</b></td>
-          <td colspan="2" valign="top"> NMSU EYH/YWiC Conference
-            <br> PO Box 30001, MSC CS
-            <br> Las Cruces, NM 88003</td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>Area Served:</b></td>
-          <td valign="top" colspan=2> Open to all girls across NM and West TX! </td>
-        </tr>
-        <tr>
-          <td valign="top"><b>Co-Hosts:</b><br>
+          <td valign="top"> Registration:</td>
+          <td valign="top"> <a href="http://www.expandingyourhorizons.org/conferences/Carlsbad">http://www.expandingyourhorizons.org/conferences/Carlsbad</a>
           </td>
-          <td colspan="2" rowspan="1" valign="top">NMSU, Department of Computer Science, Young Women in Computing
+        </tr>
+        <tr>
+          <td valign="top"> <b>Mailing<br> address:</b></td>
+          <td colspan="2" valign="top"> EYH - Carlsbad<br>
+            Attn: Lisa Chappa<br>
+            1101 Callaway Drive No. 3303<br>
+            Carlsbad, NM  88220
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"><b>Co-Hosts:</b>
+          </td>
+          <td colspan="2" rowspan="1" valign="top">
+            NMSU Carlsbad, AAUW Carlsbad
           </td>
         </tr>
       </tbody>
     </table>
     </details>
 
+    <! -------- Santa Fe EYH ---------- >
+    <a href="http://stemsantafe.org/news-events/expanding-your-horizons-santa-fe/">
+      <h2>Santa Fe, grades 5-8</h2></a>
     
+    <h3>Saturday, October 13, 2018 <br>
+      Santa Fe Community College, Santa Fe, NM</h3>
+
+    <details>
+      <summary>More info & contacts</summary>
+      <table border="0" cellpadding="1" cellspacing="1">
+        <tbody>
+          <tr>
+            <td valign="top"> <b>Contacts:</b></td>
+            <td valign="top" colspan="2"> Lina Germann and Kate Gomez
+              <br> <a href="mailto:info@stemsantafe.org?Subject=SF EYH">info@stemsantafe.org</a>, 505-570-5402
+            </td>
+          </tr>
+          <tr>
+            <td>
+	      <a href="http://stemsantafe.org/news-events/expanding-your-horizons-santa-fe/"><b>Web Page</b></a>  
+            </td>
+          </tr>
+          <tr>
+            <td> 
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwUUGeaaehbvwqPh35oeoVP2UUbQWQswkhYslBxQ6zdvsdfw/viewform"><b>Register</b></a>
+            </td>
+          </tr>
+            
+      </tbody>
+    </table>
+    </details>
+
+    <! -------- end Fall 2017 ---------- >
+
+
+    <! -------- Spring 2019 ---------- >
+    <h1>Spring 2019</h1>
+
     <! -------- Albuquerque EYH ---------- >
-    <a href="http://nmnwse.org/ceyh">
+    <a href="http://www.expandingyourhorizons.org/conferences/Albuquerque/">
       <h2>Albuquerque, grades 5-9</h2></a>
-    <h3>Saturday, February 3, 2018
+    <h3>Saturday, January 26, 2019
       <br>
       University of New Mexico (UNM), Albuquerque, NM
     </h3>
@@ -131,7 +171,9 @@ with questions about the conferences, or to let us know your interest in helping
           <td valign="top"> <b>Web Page:</b></td>
           <td colspan="2" valign="top">
             Attendees: <a href="http://www.expandingyourhorizons.org/conferences/Albuquerque/">http://www.expandingyourhorizons.org/conferences/Albuquerque/</a>
-            <br>Volunteers: <a href="http://www.signupgenius.com/go/30E084BAEAD22A1F85-dayofvolunteer2">Online form</a>
+            <!--
+                <br>Volunteers: <a href="http://www.signupgenius.com/go/30E084BAEAD22A1F85-dayofvolunteer2">Online form</a>
+            -->
             <!--
             <br>Day-of Volunteers: <a href="http://nmnwse.org/ceyh/dayofvolunteer">http://nmnwse.org/ceyh/dayofvolunteer</a>
             -->
@@ -156,6 +198,53 @@ with questions about the conferences, or to let us know your interest in helping
     </table>
     </details>
 
+
+
+    <! -------- Spring 2018 ---------- >
+    <h1>Spring 2018</h1>
+
+    <! -------- Las Cruces ---------- >
+    <a href="http://www.expandingyourhorizons.org/conferences/LasCruces/">
+      <h2>Las Cruces, grades 5-9</h2></a>
+    <h3>Saturday, January 20, 2018
+      <br>New Mexico State University, Las Cruces, NM</h3>
+    <details>
+      <summary>More info & contacts</summary>
+    <table border="0" cellpadding="1" cellspacing="1">
+      <tbody>
+	<tr>
+          <td>
+	    <a href="http://www.expandingyourhorizons.org/conferences/LasCruces/"><b>Web Page</b></a>
+	  </td>
+        </tr>
+        <tr>
+          <td> <b>Contacts:</b></td>
+          <td>Rebecca Galves</td>
+          <td> <a href="mailto:lascruceskids@gmail.com">lascruceskids@gmail.com</a>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"> <b>Mailing<br>
+	      address:</b></td>
+          <td colspan="2" valign="top"> NMSU EYH/YWiC Conference
+            <br> PO Box 30001, MSC CS
+            <br> Las Cruces, NM 88003</td>
+        </tr>
+        <tr>
+          <td valign="top"> <b>Area Served:</b></td>
+          <td valign="top" colspan=2> Open to all girls across NM and West TX! </td>
+        </tr>
+        <tr>
+          <td valign="top"><b>Co-Hosts:</b><br>
+          </td>
+          <td colspan="2" rowspan="1" valign="top">NMSU, Department of Computer Science, Young Women in Computing
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    </details>
+
+    
     <! -------- Los Alamos EYH ---------- >
     <!--
     <a href="http://nmnwse.org/lawis/eyh/index.shtml"><img src="http://nmnwse.org/Images/NEYH_mtn2_100.jpg" alt="" align="right" border="0" height="77" width="200"></a>
@@ -261,84 +350,6 @@ with questions about the conferences, or to let us know your interest in helping
     </details>
 
     
-    <! -------- Fall 2017 ---------- >
-
-    <h1>Fall 2017</h1>
-
-    <! -------- Carlsbad EYH ---------- >
-    <a href="http://nmnwse.org/carlsbad-eyh/">
-      <h2>Carlsbad, grades 7-8</h2></a>
-    <h3>Friday, October 13, 2017
-      <br>
-      NMSU Carlsbad, Carlsbad, NM
-    </h3>
-    <details>
-      <summary>
-        More info and contacts
-      </summary>
-    <table border="0" cellpadding="1" cellspacing="1">
-      <tbody>
-        <tr>
-          <td valign="top"> <b>Contact:</b></td>
-          <td valign="top"> Cassie Marrs </td>
-          <td valign="top"> <a href="mailto:marrs.cassie@gmail.com?Subject=Carlsbad EYH">marrs.cassie@gmail.com</a>, (956) 242-7865<! a google phone number ></td>  
-        </tr>
-        <tr>
-          <td valign="top"> <b>Web Page:</b></td>
-          <td valign="top"> Volunteers:</td>
-          <td valign="top"> <a href="http://nmnwse.org/carlsbad-eyh">http://nmnwse.org/carlsbad-eyh</a></td>
-        </tr>
-        <tr>
-          <td valign="top"> <b></b></td>
-          <td valign="top"> Registration:</td>
-          <td valign="top"> <a href="http://www.expandingyourhorizons.org/conferences/Carlsbad">http://www.expandingyourhorizons.org/conferences/Carlsbad</a>
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>Mailing<br> address:</b></td>
-          <td colspan="2" valign="top"> EYH - Carlsbad<br>
-            Attn: Lisa Chappa<br>
-            1101 Callaway Drive No. 3303<br>
-            Carlsbad, NM  88220
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"><b>Co-Hosts:</b>
-          </td>
-          <td colspan="2" rowspan="1" valign="top">
-            NMSU Carlsbad, AAUW Carlsbad
-          </td>
-        </tr>
-      </tbody>
-    </table>
-    </details>
-
-    <! -------- Santa Fe EYH ---------- >
-    <a href="http://nmnwse.org/sfeyh/">
-      <h2>Santa Fe, grades 5-8</h2></a>
-    
-    <h3>Saturday, October 21, 2017 <br>
-      Santa Fe Community College, Santa Fe, NM</h3>
-
-    <details>
-      <summary>More info & contacts</summary>
-      <table border="0" cellpadding="1" cellspacing="1">
-        <tbody>
-          <tr>
-          <td valign="top"> <b>Contacts:</b></td>
-          <td valign="top" colspan="2"> Lina Germann and Kate Gomez
-            <br> <a href="mailto:info@stemsantafe.org?Subject=SF EYH">info@stemsantafe.org</a>, 505-570-5402
-          </td>
-        </tr>
-        <tr>
-          <td valign="top"> <b>Web Page:</b></td> <td colspan="2" valign="top">
-	    <a href="http://nmnwse.org/sfeyh/">http://nmnwse.org/sfeyh</a>  
-          </td>
-      </tbody>
-    </table>
-    </details>
-
-    <! -------- end Fall 2017 ---------- >
 
 
 

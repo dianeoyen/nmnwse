@@ -22,6 +22,14 @@
         include("include/sidebar.php");
         ?>
 
+      <h2> Latest Newsletter </h2>
+      <ul>
+        <li>
+          <a href="News/NMNWSE_newsletter_2018SP.pdf">Spring 2018</a>
+        </li>
+      </ul>
+      
+      
       <h2> Newsletter Archive </h2>
 
       <div class="multicolumn">

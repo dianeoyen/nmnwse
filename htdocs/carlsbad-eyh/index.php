@@ -23,7 +23,7 @@ include("Includes/pagetop2_cbeyh.php");
 
 
 <font size="+1"><b><font color="#4b9fc3">
-  October 13, 2017
+  October 12, 2018
   <br> NMSU Carlsbad
   <br> grades 7-8
 </font></b></font>
@@ -32,19 +32,16 @@ include("Includes/pagetop2_cbeyh.php");
 <table border="0" cellpadding="1" cellspacing="1">
 <tbody>
   <tr>
-      <td valign="top"> <b>Contacts:</b></td>
-      <td valign="top"> Cassie Marrs&nbsp; &nbsp;</td>
-      <td valign="top"> <a href="mailto:marrs.cassie@gmail.com?Subject=Carlsbad EYH">marrs.cassie@gmail.com</a>, (575) 361-4136 </td>
+    <td>
+      <a href="http://www.expandingyourhorizons.org/conferences/Carlsbad">
+        <b>Register</b></a>
+    </td>
   </tr>
+
   <tr>
-      <td valign="top"> <b>Web Page:</b></td>
-     <td valign="top">
-      Volunteers:&nbsp;</td><td valign="top">
-       <a href="http://nmnwse.org/carlsbad-eyh">http://nmnwse.org/carlsbad-eyh</a> 
-    </td></tr><tr><td></td><td valign="top">
-   Registration:&nbsp;</td><td valign="top">
-       <a href="http://www.expandingyourhorizons.org/conferences/Carlsbad">http://www.expandingyourhorizons.org/conferences/Carlsbad</a>
-   </td>
+      <td valign="top"> <b>Contacts:</b></td>
+      <td valign="top"> Cassie Marrs</td>
+      <td valign="top"> <a href="mailto:marrs.cassie@gmail.com?Subject=Carlsbad EYH">marrs.cassie@gmail.com</a>, (575) 361-4136 </td>
   </tr>
   <tr>
       <td valign="top"> <b>Mailing<br> address:</b></td>
