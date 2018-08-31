@@ -39,6 +39,16 @@
 	   </p>
       -->
 
+      <! Supercomputing Challenge >
+      <?php
+        include("inNews/20180520_news.html");
+        ?>
+      
+      <! 2018 Spring Newsletter >
+      <?php
+        include("inNews/20180430_news.html");
+        ?>
+
       <! Science fair >
       <?php 
 	 include("inNews/20180411_news.html"); 
@@ -67,11 +77,6 @@
       <! AAUW-NM Mission in Action award >
       <?php
         include("inNews/20170503_news.html");
-        ?>
-
-      <! Supercomputing Challenge >
-      <?php
-        include("inNews/20170425_news.html");
         ?>
 
       <!-- more news -->

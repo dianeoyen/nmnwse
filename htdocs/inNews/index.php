@@ -41,6 +41,12 @@
       <h3> 2018 News </h3>
       <ul>
         <li>
+          <a href="20180520_news.html"> NMNWSE Awards at Supercomputing Challenge 2018</a>
+        </li>
+        <li>
+          <a href="20180430_news.html">Spring Newsletter</a>
+        </li>
+        <li>
           <a href="20180411_news.html">NMNWSE Awards at the 2018 NM Science and Engineering Fair</a>
         </li>
       </ul>
