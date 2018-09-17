@@ -329,8 +329,8 @@
 	</tr>
 	<tr>
 	  <td> Membership </td>
-	  <td> Dana Roberson</td>
-	  <td> Cedar Crest </td>
+	  <td> -- open -- </td>
+	  <td> </td>
 	</tr>
 	<tr>
 	  <td> Bylaws/Policies &amp; Procedures </td>
