@@ -27,36 +27,42 @@
       </p>
       
       <h2>Join us at NMNWSE's Annual Meeting (AM 2018)</h2>
+
       <!--
-<img class="news" src="http://nmnwse.org/AM/2017/silvercity.jpg" alt="View of Silver City">
-      
+      <img class="news" src="https://embassysuites3.hilton.com/resources/media/es/ABQEMES/en_US/img/shared/full_page_image_gallery/main/ES_welcomecrop_1280x430_FitToBoxSmallDimension_Center.jpg" alt="View of Embassy Suites">
+      -->
       <p>
-        October 20 - 22, 2017 <br>
-        at the <a href="https://www.murray-hotel.com/">Murray Hotel</a> in Silver City, NM
+        October 19 - 21, 2018
+        <br>
+        <a href="https://embassysuites.hilton.com/en/es/groups/personalized/A/ABQEMES-NFW-20181019/index.jhtml?WT.mc_id=POG">Embassy Suites Hotel</a>
+        <br>
+        1000 Woodward Place NE
+        <br>
+        Albuquerque, NM 87102
+        <br>
+        505-245-7100
+      </p>
+      <p>
         <ul>
           <li>
-            <a href="http://nmnwse.org/AM/2017/Broch_AM17.pdf">Annual Meeting brochure (PDF)</a>
+            <a href="http://nmnwse.org/AM/2018/Broch_AM18.pdf">Annual Meeting brochure (PDF)</a>
           </li>
+          <!--
           <li>
             <a href="http://nmnwse.org/AM/register">Registration form</a>
           </li>
-
-          <! PayPal Button >
+          -->
           <li>
-            Pay for registration via PayPal "Buy Now" (or see registration form for other options).
-            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-	      <input type="hidden" name="cmd" value="_s-xclick">
-	      <input type="hidden" name="hosted_button_id" value="22UDDC6JBLP66">
-	      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-	      <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-	    </form>
+            Pay for registration via <a href="https://www.paypal.me/nmnwse/">PayPal</a>
+          </li>
+          <li>
+            Or by mailing a check to Jeanne Banks. See brochure for details.
           </li>
         </ul>
       </p>
-      -->
           
       
-      <h3>12th Annual NMNWSE IMPACT! Award to be presented</h3>
+      <h3>Annual NMNWSE IMPACT! Award to be presented</h3>
       <ul>
         <li>
           <a href="http://nmnwse.org/ImpactAward"><b>IMPACT! Award</b> information</a> <!-- and nomination forms -->
@@ -89,70 +95,80 @@
       
 
       <h3> Schedule </h3>
-      <!--
       <ul>
 	<li>Friday
           <ul>
             <li>
-              6-9pm; Registration and Reception
+              5-6:30pm; Registration and Reception at Embassy Suites
             </li>
           </ul>
 	<li>Saturday
 	  <ul>
 	    <li>
-              morning; Business meeting for all members, including election of the new board
+              9-11:30am; Business meeting for all members, including election of the new board
+            </li>
+            <li>
+              12-1:30pm; IMPACT! Luncheon <br>
+              Speaker: Julia Fulghum, ADVANCE at UNM
             </li>
 	    <li>
-              afternoon; Technical talks
+              2-4:30pm; Field Trip
             </li>
 	    <li>
-              evening; Poster session and dinner
+              5-7pm; Poster session and no-host reception
             </li>
 	  </ul>
 	<li>
           Sunday
           <ul>
             <li>
-              morning; Board Meeting
+              8-11am; Board Meeting
             </li>
           </ul>
         </li>
       </ul>
-      -->
 
-      The typical schedule begins with a Friday evening reception. On Saturday morning, the annual business meeting of the Network, including election of the new Board, takes place - all members are encouraged to attend. Saturday afternoon typically features member technicals and/or a local tour and a keynote speaker. The evening includes a poster session and reception - an excellent opportunity to network and for students to present their work in a supportive environment! Members are invited to stay through Sunday for the first meeting of the new Board.
-
-      
       <!--
+      The typical schedule begins with a Friday evening reception. On Saturday morning, the annual business meeting of the Network, including election of the new Board, takes place - all members are encouraged to attend. Saturday afternoon typically features member technicals and/or a local tour and a keynote speaker. The evening includes a poster session and reception - an excellent opportunity to network and for students to present their work in a supportive environment! Members are invited to stay through Sunday for the first meeting of the new Board.
+        -->
+      
       <h3>Registration</h3>
       <ul>
+        <!--
         <li>
           <a href="http://nmnwse.org/AM/register">Online registration form</a>
         </li>
+        -->
         <li>
-          October 4 is the last day for early registration.
+          Full Registration: $85
         </li>
         <li>
-          The early registration fee is $40, and includes receptions, lunch on Saturday, and snacks. Registration will be accepted throught the meeting date, with an added $10 after October 4th.
+          IMPACT! Luncheon Only: $30
+        </li>
+        <li>
+          Poster Session Only: $10
         </li>
       </ul>
-      -->
 
-      <!--
+
       <h3>Hotel</h3>
+      <!--
       <img class="news" src="http://nmnwse.org/AM/2017/murray.jpg" alt="Murray Hotel in Silver City, NM">
-        Room reservations are on your own. Reserve by October 7 to get the group rate. Call the <a href="https://www.murray-hotel.com">Murray Hotel</a> to reserve your room, 575-956-9400 for $89 per night. Just let them know that you are with the Network.
-
-        The <a href="https://www.murray-hotel.com">Murray Hotel</a> in <a href="www.visitsilvercity.org">Silver City</a> is a true gem of art deco elegance with modern comfort. Equal parts Old West heritage with distinct arts and entertainment communities, Silver City is nestled against the 3.3 million acres of the Gila National Forest. See where Geronimo and Billy the Kid laid trails, visit the Gila Cliff Dwellings, enjoy nearby hot springs, or view the 3rd largest open pit copper mine in the world!
       -->
+      <p>
+        <a href="https://embassysuites.hilton.com/en/es/groups/personalized/A/ABQEMES-NFW-20181019/index.jhtml?WT.mc_id=POG">Reserve your room</a> at Embassy Suites using the group link, or use group code NFW.
+      </p>
+      <p>
+        Reserve by September 28 to get the group rate.
+      </p>
       
-      
+      <!--
       <h3>Interested?</h3>
       <p>
         Please take the <a href="survey">online interest survey</a>. 
         <br>It does not obligate you to attend - it is simply to help us with advance planning to insure a good conference for all.
       </p>
-      
+      -->
 
       <!  Hotel reservation information is anticipated mid-summer. We encourage you to make your hotel reservations soon thereafter, as space at the conference hotel may be limited.  >
       <!--
