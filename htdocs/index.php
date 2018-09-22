@@ -39,6 +39,11 @@
 	   </p>
       -->
 
+      <! Annual Meeting Invitation >
+      <?php
+        include("inNews/20180920_news.html");
+        ?>
+
       <! Supercomputing Challenge >
       <?php
         include("inNews/20180520_news.html");

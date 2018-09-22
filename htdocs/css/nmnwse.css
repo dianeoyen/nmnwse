@@ -72,6 +72,15 @@ img.news {
     border: 1px solid black;
 }
 
+img.news_wide {
+    display: inline;
+    float: none;
+    max-width: 75%;
+    height: 200px;
+    margin-right: 5px;
+    border: 1px solid black;
+}
+
 nav {
     padding: 5px;
     font-family: "Times New Roman", serif;
