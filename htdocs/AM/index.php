@@ -73,10 +73,10 @@
       <h3>2018-19 NMNWSE Board to be elected</h3>
       <ul>
         <li>
+          <a href="http://nmnwse.org/AM/2018/elections">Online voting</a> through Oct 19, 2018 or in person at the Annual Meeting.
           <!--
-          <a href="http://nmnwse.org/AM/2017/elections">Online voting</a> Oct 4 - 18, 2017 or in person at the Annual Meeting.
-          -->
-          Online early voting, or in person at the Annual Meeting.
+              Online early voting, or in person at the Annual Meeting.
+              -->
         </li>
 
       <!--

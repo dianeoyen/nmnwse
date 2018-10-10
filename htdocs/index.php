@@ -39,6 +39,11 @@
 	   </p>
       -->
 
+      <! Voting Invitation >
+      <?php
+        include("inNews/20181009_news.html");
+        ?>
+
       <! Annual Meeting Invitation >
       <?php
         include("inNews/20180920_news.html");

@@ -30,7 +30,7 @@
               <a href="notes.php">Voting instructions and notes on alternate methods to vote</a>
             </li>
             <li>
-              Online voting opens 3 Oct 2018 and closes 17 Oct 2018.
+              Online voting opens 3 Oct 2018 and closes 19 Oct 2018.
             </li>
             <li>
               In person voting takes place Saturday, 20 Oct 2018, at the Annual Business Meeting in Albuquerque.
@@ -43,26 +43,27 @@
 
         <p>
           <center>
-            <br>
             <font size="+3" color="red"> <! #33CC00 ><B>
                 <!--
+                    <img src="http://nmnwse.org/Images/button.gif" height="12">
+                    
+                    ONLINE VOTING CLOSED
+                    -->
+                <!--
+                    DRAFT - VOTING NOT YET OPEN
+                  -->
+                
+                <img src="http://nmnwse.org/Images/button.gif" height="12">
+                <input type="submit" name="Submit1" value=" SUBMIT VOTE">
                 <img src="http://nmnwse.org/Images/button.gif" height="12">
                 
-                ONLINE VOTING CLOSED
-                -->
-                
-        DRAFT - VOTING NOT YET OPEN
-    
-    <!--
-        <input type="submit" name="Submit1" value=" SUBMIT VOTE">
-        -->
             </B> </font>
+            <!--
+                <br> You can instead vote in person at the annual meeting.
+                -->
+          </center>
         </p>
-        <!--
-            <br> You can instead vote in person at the annual meeting.
-            -->
-        </center>
-        
+
         <center>
           <IMG SRC="http://nmnwse.org/Images/linefrill.gif" ALT="-----------" HEIGHT=5 WIDTH=30%>
         </center>
@@ -228,41 +229,47 @@
               <div align="right">
               </div>
               -->
-          <table border=0 width="100%">
-            <tr>
-              <td align="left" valign="top">
-                <table border=2 bgcolor="red"><tr><td>
-                      <a href="http://nmnwse.org/AM/2018/elections/">
-                        <font size="-1" color="white"><B>&nbsp;CLEAR&nbsp;</B></font>
-                      </a>
-                </td></tr></table>
-              </td>
-              <td align="center"> <font size="+2" color="red"><B>  <! green=#33CC00 >
-                    <img src="http://nmnwse.org/Images/button.gif" height="12">
-                    <!--
-                        <input type="submit" name="Submit1" value=" SUBMIT VOTE">
-                        -->
-                    <!--
-                    VOTING CLOSED 
-                    <img src="http://nmnwse.org/Images/button.gif" height="12">
-                    <br> submit button removed
-                    <br>You may vote in person at the Annual Meeting
-                    -->
-                    DRAFT - VOTING NOT YET OPEN
-                </B> </font>
-                <!-- <br> see top of page for call-in instructions. -->
-                <!-- 
-                     <br> or by call-in, see <a href="notes.php">notes</a>.
-                     <br>VOTING NOT YET OPEN <br> SUBMIT BUTTON FOR TEST PURPOSES ONLY
-                     VOTING NOT YET OPEN<br> submit button removed
-                     -->
-              </td>
-              <td align="right" valign="top"> <font size="-1" face="Arial, Helvetica">
-                  <sup>*</sup>Required Field<br>
-                  All fields are required<br>except write-ins<br>and comments.
-              </font> </td>
-          </tr></table>
         </p>
+        <table border=0 width="100%">
+          <tr>
+            <td align="left" valign="top">
+              <table border=2 bgcolor="red"><tr><td>
+                    <a href="http://nmnwse.org/AM/2018/elections/">
+                      <font size="-1" color="white"><B>&nbsp;CLEAR&nbsp;</B></font>
+                    </a>
+                </td></tr>
+              </table>
+            </td>
+            <td align="center"> <font size="+2" color="red"><B>  <! green=#33CC00 >
+                  <img src="http://nmnwse.org/Images/button.gif" height="12">
+                  
+                  <input type="submit" name="Submit1" value="SUBMIT VOTE">
+                  
+                  <img src="http://nmnwse.org/Images/button.gif" height="12">
+                  
+                  <!--
+                      VOTING CLOSED 
+                      <img src="http://nmnwse.org/Images/button.gif" height="12">
+                      <br> submit button removed
+                      <br>You may vote in person at the Annual Meeting
+                      -->
+                  <!--
+                      DRAFT - VOTING NOT YET OPEN
+                    -->
+              </B> </font>
+              <!-- <br> see top of page for call-in instructions. -->
+              <!-- 
+                   <br> or by call-in, see <a href="notes.php">notes</a>.
+                   <br>VOTING NOT YET OPEN <br> SUBMIT BUTTON FOR TEST PURPOSES ONLY
+                   VOTING NOT YET OPEN<br> submit button removed
+                   -->
+            </td>
+            <td align="right" valign="top"> <font size="-1" face="Arial, Helvetica">
+                <sup>*</sup>Required Field<br>
+                All fields are required<br>except write-ins<br>and comments.
+            </font> </td>
+          </tr>
+        </table>
 
         
         <!--SCRIPT CONFIGURATION SECTION -->
