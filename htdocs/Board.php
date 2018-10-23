@@ -1,129 +1,143 @@
-<html>
-<head>
-<title>NMNWSE Board of Directors</title>
-<?php
-include("Includes/pagetop1_nmnwse.php");
-?>
-FY 15-16 Executive Board<br>
-<a href="mailto:NMNWSE_Board-L@List.unm.edu" style="text-decoration:none; color:#cb6940">NMNWSE_Board-L@List.unm.edu </a>
-<?php
-include("Includes/pagetop2_nmnwse.php");
-?>
+<!DOCTYPE html>
+<html lang="en">
 
-<P> &nbsp;<br>
-<b>The FY 15-16 Board serves 10-1-2015 thru 9-30-2016 (FY 15-16)</b>,<br> or from the date they were elected until their successors have been chosen, if different.
+  <head>
+    <meta charset="utf-8">
+    <title>NMNWSE Board of Directors</title>
+    <link rel="stylesheet" href="css/nmnwse.css">
+  </head>
 
-<table><tr><td valign="top">
-<img src="http://nmnwse.org/Images/bl_pin.gif">&nbsp;
-<a href="http://nmnwse.org/BoardMeetings">Board Meetings</a>
-</td><td valign="top">
-&nbsp;&nbsp;&nbsp;
-</td><td valign="top">
-<img src="http://nmnwse.org/Images/r_hand.gif">
-<img src="http://nmnwse.org/Images/spacer.gif" width="1" height="21"><a href="mailto:NMNWSE_BOARD-L@list.unm.edu">email the Board of Directors</a>
-</td></tr><tr><td valign="top">
-<img src="http://nmnwse.org/Images/bl_pin.gif">&nbsp;
-<a href="http://nmnwse.org/bl.html">Bylaws</a>
-</td><td valign="top">
-&nbsp;&nbsp;&nbsp;
-</td><td valign="top">
-<img src="http://nmnwse.org/Images/bl_pin.gif">&nbsp;
-<a href="http://nmnwse.org/darksky">Dark Sky Resolution</a>
-</td></tr><tr><td colspan=3>
-<img src="http://nmnwse.org/Images/bl_pin.gif">&nbsp;
-<a href="http://nmnwse.org/pnp.html">Policies and Procedures</a> (includes duties and responsibilities for board positions)
-</td></tr><tr><td colspan=3>
-<img src="http://nmnwse.org/Images/bl_pin.gif">&nbsp;
-<a href="http://nmnwse.org/NMNWSE_ArtInc_orig_retyped.doc">Articles of Incorporation</a> (as amended 17 Oct 2009; please contact the board if you need a copy showing receipt by the PRC)
-</td></tr></table>
+  <body>
+    
+    <header>
+      <?php
+	 $banner_title = "NMNWSE Executive Board";
+	 include("include/pagetop_nmnwse.php");
+	 ?>
+    </header>
 
-<P>
-<table border="0" cellpadding="3" cellspacing="0" >
-<tbody>
-  <tr>
-    <td colspan="4" valign="middle">
-        <font size="+1" color="#cb6940"><b>2015-16 Executive Board</b></font>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>President</b></font> </td>
-    <td valign="top"> Rebecca Galves</td>  <! Galves elected as Pres Oct 15 >  
-    <td valign="top"> Las Cruces</td> 
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>Past President</b></font> </td>
-    <td valign="top"> Phyllis Baca</td>
-      <! Baca elected as VP Oct 13, served as Pres Oct 2014-2015 >
-    <td valign="top"> Santa Fe  </td>
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>VP/Pres. Elect</b></font> </td>
-    <td valign="top"> Sarah Vance </td> <! Vance elected as VP Oct 15 >  
-    <td valign="top"> Albuquerque</td> 
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>Treasurer</b></font> </td>
-    <td valign="top"> Jeanne Banks</td>  <! elected Oct 14 >
-    <td valign="top"> Placitas</td>
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>Secretary</b></font> </td>
-    <td valign="top"> Barbara Torres</td>  <! elected Oct 15 >
-    <td valign="top"> Albuquerque<br>&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="4" valign="middle">
-        <font size="+1" color="#cb6940"><b>Chapter Representatives</b></font>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>Central</b></font> </td>
-    <td valign="top"> Jeanne Banks  </td>
-    <td valign="top"> Placitas  </td>
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>Northern</b></font> </td>
-    <td valign="top"> Jan Frigo</td>
-    <td valign="top"> Los Alamos </td>
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>Eastern</b></font> </td>
-    <td valign="top"> inactive </td>
-    <td valign="top"> <i>contact the board if interest in making active</i></td>
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>Southern</b></font>  </td>
-    <td valign="top"> Rebecca Galves  </td>
-    <td valign="top"> Las Cruces</td>
-  </tr>
-  <tr>
-    <td colspan="4" valign="middle">
-        <font size="+1" color="#cb6940"><b>Members At Large</b></font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4" valign="top">
-        <table border="0" cellspacing="0" cellpadding="3">
-          <tbody>
-          <tr>
-              <td valign="top">
-                  <font color="#4b9fc3"><b>Oct 2014-Oct 2016</b></font>
-                  <br>&nbsp;&nbsp; Karmen Lappo <! new to board Oct 2014 >
-                  <br>&nbsp;&nbsp; Tinka Gammel <! on board since ~2000 >
-		  <! Barbara Torres, became secretary Oct 15 >
-              </td>
-              <td valign="top"> &nbsp; </td>
-              <td valign="top">
-                  <font color="#4b9fc3"><b>Oct 2015-Oct 2017</b></font>
-                  <br>&nbsp;&nbsp; Dana Roberson <! since Oct 13>
-                  <br>&nbsp;&nbsp; Diane Albert <! elected Oct 15>
-                  <br>&nbsp;&nbsp; Rajaa Shindi <! elected Oct 15>
-                  <br>&nbsp;&nbsp; Cheri Burch <! elected Oct 15>
-                  <br>&nbsp;&nbsp; Claudia Barreto <! elected Oct 15>
-                  <br>&nbsp;&nbsp; Lina Germann <! appointed Oct 15>
-              </td>
-          </tr>
-<!--
+    <main>
+      <?php
+	 include("include/sidebar.php");
+	 ?>
+      
+      <h2>Board-related information</h2>
+      <ul>
+	<li>
+	  The FY18-19 Board serves 10-1-2018 thru 9-30-2019
+	</li>
+	<li>
+	  <a href="mailto:NMNWSE_Board-L@List.unm.edu">Email the board.</a>
+	</li>
+	<li>
+	  <a href="http://nmnwse.org/BoardMeetings">Board Meetings</a>
+	</li>
+	<li>
+	  <a href="http://nmnwse.org/bl.html">Bylaws</a>
+	</li>
+	<li>
+	  <a href="http://nmnwse.org/darksky">Dark Sky Resolution</a>
+	</li>
+	<li>
+	  <a href="http://nmnwse.org/pnp.html">Policies and Procedures</a> (includes duties and responsibilities for board positions)
+	</li>
+	<li>
+	  <a href="http://nmnwse.org/NMNWSE_ArtInc_orig_retyped.doc">Articles of Incorporation</a> (as amended 17 Oct 2009; please contact the board if you need a copy showing receipt by the PRC)
+	</li>
+      </ul>
+
+
+      <h2>Executive Board</h2>
+
+      <table class="headingcolumn" >
+	<tr>
+	  <th> Title </th>
+	  <th> Person </th>
+	  <th> City of residence </th>
+	  <th> When elected </th>
+	</tr>
+	<tr>
+	  <td> President </td>
+	  <td> Rebecca Galves</td>
+	  <td> Las Cruces</td>
+	  <td> 2015, 2016, 2017, 2018</td>
+	</tr>
+	<tr>
+	  <td>Past President</td>
+	  <td> Phyllis Baca</td>
+	  <! Baca elected as VP Oct 13, served as Pres Oct 2014-2015 >
+	  <td> Santa Fe  </td>
+	  <td> elected as VP 2013</td>
+	</tr>
+	<tr>
+	  <td>VP/Pres. Elect </td>
+	  <td> Nanette Founds </td>
+	  <td> Nanette Founds </td>
+	  <td> 2018 </td>
+	</tr>
+	<tr>
+	  <td> Treasurer </td>
+	  <td> Jeanne Banks</td>
+	  <td> Placitas</td>
+	  <td> 2014, 2016, 2018</td>
+	</tr>
+	<tr>
+	  <td> Secretary </td>
+	  <td> Barbara Torres</td>
+	  <td> Albuquerque </td>
+	  <td> 2015, 2017</td>
+	</tr>
+      </table>
+
+
+      <h2> Members at Large </h2>
+      
+      <h3> Oct 2017 - Oct 2019 </h3>
+      <table>
+	<tr>
+	  <th> Board Member </th>
+	  <th> Since </th>
+	</tr>
+	<tr>
+	  <td> Dana Roberson </td>
+	  <td> 2013 </td>
+	</tr>
+        <tr>
+	  <td> Rajaa Shindi </td>
+	  <td> 2015 </td>
+	</tr>
+	<tr>
+	  <td> Cheri Burch </td>
+	  <td> 2015 </td>
+	</tr>
+	<tr>
+	  <td> Casey DeRaad </td>
+	  <td> 2017 </td>
+	</tr>
+        <tr>
+          <td> Phyllis Baca </td>
+          <td> 2017 </td>
+        </tr>
+      </table>
+
+      <h3>Oct 2018 - Oct 2020 </h3>
+      <table>
+	<tr>
+	  <th> Board Member </th>
+	  <th> Since </th>
+	</tr>
+	<tr>
+	  <td> Tinka Gammel </td>
+	  <td> 2000 </td> <! on board since ~2000 >
+	</tr>
+	<tr>
+	  <td> Yolanda Jones King </td>
+	  <td> 2018 </td>
+	</tr>
+      </table>
+
+
+      <!--
               <td valign="top">
                   <font color="#4b9fc3"><b>Oct 2014-Oct 2016</b></font>
                   <br>&nbsp;&nbsp; Karmen Lappo <! new to board Oct 2014 >
@@ -217,167 +231,134 @@ include("Includes/pagetop2_nmnwse.php");
                   <br>&nbsp;&nbsp; Janie Enter Johnston
                   <br>&nbsp;&nbsp; Kim Linder
               </td>
--->
-        </tbody>
-        </table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4" valign="top">
-        <font size="+1" color="#cb6940"><b>Standing Committees</b></font>
-<!--
--->
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>Annual Meeting </b></font> </td>
-    <td valign="top"> Rebecca Galves</td>
-    <td valign="top"> Las Cruces</td>
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>Archives</b></font> </td>
-    <td valign="top"> Mary S. Campbell  </td>
-    <td valign="top"> Dixon  </td>
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>Elections</b></font> </td>
-    <td valign="top"> Yolanda King</td>
-    <td valign="top"> Albuquerque</td>
-  </tr>
-<! ----- >
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"> <b>EYH - state</b> </font>
-    </td>
-    <td valign="top"> Rebecca Galves </td>
-    <td valign="top"> Las Cruces </td>
-  </tr>
-<! ----- >
-  <tr>
-    <td valign="top"> <font color="#4b9fc3">
-        <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Albuquerque</b> </font> </td>
-    <td valign="top"> Rochelle Larson</td>
-    <td valign="top"> Albuquerque</td>
-  </tr>
-<! ----- >
-  <tr>
-    <td valign="top"> <font color="#4b9fc3">
-        <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Carlsbad</b> </font> </td>
-    <td valign="top"> Lisa Chappa</td>
-    <td valign="top"> Carlsbad</td>
-  </tr>
-<! ----- >
-  <tr>
-    <td valign="top"> <font color="#4b9fc3">
-        <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Las Cruces</b> </font> </td>
-    <td valign="top"> Rebecca Galves </td>
-    <td valign="top"> Las Cruces </td>
-  </tr>
-<! ----- >
-  <tr>
-    <td valign="top"> <font color="#4b9fc3">
-        <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Santa Fe-spring
-        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Los Alamos)</b> </font> </td>
-    <td valign="top"> Jan Frigo </td>
-    <td valign="top"> Los Alamos </td>
-  </tr>
-<! ----- >
-  <tr>
-    <td valign="top"> <font color="#4b9fc3">
-        <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Santa Fe-fall</b> </font> </td>
-    <td valign="top"> Lina Germann <br>Phyllis Baca </td>
-    <td valign="top"> Santa Fe<br> Santa Fe </td>
-  </tr>
-<! ----- >
-  <tr>
-    <td valign="top"> <font color="#4b9fc3">
-        <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Silver City</b> </font> </td>
-    <td valign="top"> Adrienne Dare<br> Mikki Jemin </td>
-    <td valign="top"> Silver City<br> Silver City </td>
-  </tr>
-<! ----- >
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>Fund Raising</b></font>  </td>
-    <td valign="top"> Rebecca Galves</td>
-    <td valign="top"> Las Cruces</td>
-  </tr>
-  <tr>
-    <td valign="top">  <font color="#4b9fc3"><b>Membership</b></font>  </td>
-    <td valign="top"> Dana Roberson</td>
-    <td valign="top"> Cedar Crest </td>
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>Bylaws/Policies<br>&amp; Procedures</b></font> </td>
-    <td valign="top"> Barbara Torres</td>
-    <td valign="top"> Albuquerque</td>
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>Publicity</b></font> </td>
-    <td valign="top"> MyChelle Andrews </td>
-    <td valign="top"> Albuquerque </td>
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>Student Awards</b></font> </td>
-    <td valign="top"> Mercedes Agogino </td>
-    <td valign="top"> Portales </td>
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>IMPACT! Award</b></font> </td>
-    <td valign="top"> Phyllis Baca<br>Tinka Gammel</td>
-    <td valign="top"> Santa Fe<br>Los Alamos</td>
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>Communications</b></font> </td>
-    <td valign="top"> Tinka Gammel </td>
-    <td valign="top"> Los Alamos </td>
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>Website</b></font> </td>
-    <td valign="top"> Diane Oyen </td>
-    <td valign="top"> Santa Fe </td>
-  </tr>
-<!--
-    <td valign="top"> <font color="#4b9fc3"><b>Newsletter</b></font> </td>
-    <td valign="top"> </td>
-    <td valign="top"> </td>
--->
-  </tr>
-  <tr>
-    <td colspan="4" valign="top">
-        <font size="+1" color="#cb6940"><b>Ad-hoc Committees</b></font>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>STEM Outreach Liaison</b></font> </td>
-    <td valign="top"> Cheri Burch</td>
-    <td valign="top"> Albuquerque&nbsp;&nbsp; </td>
-    <td valign="top"> <a href="mailto:ctburch@unm.edu?Subject=NMNWSE and the NGCP">ctburch@unm.edu</a></td>
-  </tr>
-<!--
-  <tr>
-    <td valign="top"> <font color="#4b9fc3"><b>NMNWSE revitalization</b></font> </td>
-    <td valign="top"> Susan Clark</td>
-    <td valign="top"> Albuquerque</td>
-  </tr>
--->
-</tbody>
-</table>
+	      -->
 
-<P>
-<img src="http://nmnwse.org/Images/gr_dot.gif"><b>Note from the Board:</b><br> Volunteers to assist the board and committee chairs with various tasks are needed, from small 1-time tasks to larger commitments - <a href="mailto:NMNWSE_Board-l@list.unm.edu">contact the Board</a> if you'd like to volunteer or discuss options. 
-</P>
 
-<p>&nbsp;<br>
-<img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;
-<font size="+1"><b><a href="Presidents.php">PAST PRESIDENTS</a></b></font>
+      <h2> Committees </h2>
 
-<p><a href="BoardExecHistory.html">Executive Board History 1980-present</a>
-<!--
-should update this if keeping...
-<br><a href="BoardHistory.html">Board History 1995-1998</a>
--->
+      <table class="columnheading">
+	<tr>
+	  <th> Committee </th>
+	  <th> Chair </th>
+	  <th> Chair's city </th>
+	</tr>
+	<tr>
+	  <td> Annual Meeting </td>
+	  <td> Rebecca Galves</td>
+	  <td> Las Cruces</td>
+	</tr>
+	<tr>
+	  <td> Archives </td>
+	  <td> Mary S. Campbell  </td>
+	  <td> Dixon  </td>
+	</tr>
+	<tr>
+	  <td> Elections </td>
+	  <td> Yolanda King</td>
+	  <td> Albuquerque</td>
+	</tr>
+	<tr>
+	  <td> STEM Conferences for Girls - statewide </td>
+	  <td> Rebecca Galves </td>
+	  <td> Las Cruces </td>
+	</tr>
+	<!--
+	    <tr>
+	      <td valign="top"> <font color="#4b9fc3">
+		  <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Albuquerque</b> </font> </td>
+	      <td valign="top"> Rochelle Larson</td>
+	      <td valign="top"> Albuquerque</td>
+	    </tr>
+	<tr>
+	  <td valign="top"> <font color="#4b9fc3">
+              <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Carlsbad</b> </font> </td>
+	  <td valign="top"> Lisa Chappa</td>
+	  <td valign="top"> Carlsbad</td>
+	</tr>
+	<tr>
+	  <td valign="top"> <font color="#4b9fc3">
+              <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Las Cruces</b> </font> </td>
+	  <td valign="top"> Rebecca Galves </td>
+	  <td valign="top"> Las Cruces </td>
+	</tr>
+	<tr>
+	  <td valign="top"> <font color="#4b9fc3">
+              <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Santa Fe-spring
+		<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Los Alamos)</b> </font> </td>
+	  <td valign="top"> Jan Frigo </td>
+	  <td valign="top"> Los Alamos </td>
+	</tr>
+	<tr>
+	  <td valign="top"> <font color="#4b9fc3">
+              <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Santa Fe-fall</b> </font> </td>
+	  <td valign="top"> Lina Germann <br>Phyllis Baca </td>
+	  <td valign="top"> Santa Fe<br> Santa Fe </td>
+	</tr>
+	<tr>
+	  <td valign="top"> <font color="#4b9fc3">
+              <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Silver City</b> </font> </td>
+	  <td valign="top"> Adrienne Dare<br> Mikki Jemin </td>
+	  <td valign="top"> Silver City<br> Silver City </td>
+	</tr>
+	-->
+	<tr>
+	  <td> Fundraising </td>
+	  <td> Rebecca Galves</td>
+	  <td> Las Cruces</td>
+	</tr>
+	<tr>
+	  <td> Membership </td>
+	  <td> -- open -- </td>
+	  <td> </td>
+	</tr>
+	<tr>
+	  <td> Bylaws/Policies &amp; Procedures </td>
+	  <td> Barbara Torres</td>
+	  <td> Albuquerque</td>
+	</tr>
+	<tr>
+	  <td> Student Awards </td>
+	  <td> Mercedes Agogino </td>
+	  <td> Portales </td>
+	</tr>
+	<tr>
+	  <td> IMPACT! Award </td>
+	  <td> Phyllis Baca<br>Tinka Gammel</td>
+	  <td> Santa Fe<br>Los Alamos</td>
+	</tr>
+	<tr>
+	  <td> Communications </td>
+	  <td> Tinka Gammel </td>
+	  <td> Los Alamos </td>
+	</tr>
+	<tr>
+	  <td> Website </td>
+	  <td> Diane Oyen </td>
+	  <td> Santa Fe </td>
+	</tr>
+	<tr>
+	  <td> STEM Outreach Liaison </td>
+	  <td> Cheri Burch</td>
+	  <td> Albuquerque </td>
+	</tr>
+      </table>
 
-<P>&nbsp;
-<?php
-include("Includes/pagebot_nmnwse.php");
-?>
+      <p class="note">
+	Volunteers to assist the board and committee chairs with various tasks are needed, from small one-time tasks to larger commitments - <a href="mailto:NMNWSE_Board-l@list.unm.edu">contact the Board</a> if you'd like to volunteer or discuss options. 
+      </p>
 
+      
+      <a href="BoardExecHistory.html">
+	<h2>Executive Board History since 1980</h2>
+      </a>
+
+    </main>
+
+    <footer>
+      <?php
+	 include("include/pagefoot_nmnwse.php");
+	 ?>
+    </footer>
+
+  </body>
+</html>

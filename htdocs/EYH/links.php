@@ -45,19 +45,6 @@ available on the web in order to help <a href="http://nmnwse.org/eyh">EYH partic
 
 </font>
 
-<P>
-<table border=0 cellpadding=0 cellspacing=5><tr><td valign="middle">
-<img src="http://nmnwse.org/Images/computer.gif" border=0 align="left">
-</td><td valign="middle">
-<font face="Arial,Helvetica"> <! works >
-<b>Continually under Construction</b><br>
-Unfortunately, these link pages may
-contain errors and/or incorrect information. Please send your corrections,
-and suggestions to improve the content, to the NMNWSE webmaster, <a href="mailto:webmaster@nmnwse.org">webmaster@nmnwse.org</a>.
-</font>
-</tr></td></table>
-
-
 </font> <! /div>
 <! ---------- end main content -------- >
 

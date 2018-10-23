@@ -1,0 +1,33 @@
+header {
+    background-color: #4b9fc3;
+}
+
+header h1 {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 200%;
+}
+
+h2:first-child {
+    margin-top: 4px;
+}
+
+nav a {
+    display: inline-block;
+    margin: -2px;
+    padding: 3px;
+    text-decoration: none;
+    background-color: #a8d9ef;
+    border-radius: 5px;
+    border: 2px solid #256079;
+    width: 130px;
+}
+
+nav a:hover, a:active {
+    background-color: #4b9fc3;
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+}

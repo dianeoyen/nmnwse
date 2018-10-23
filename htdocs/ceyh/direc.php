@@ -16,14 +16,8 @@ include("Includes/pagetop2_ceyh_2011.php");
 
 <! -------- Albuquerque EYH ---------- >
 
-  &nbsp;<br>
-<img src="http://nmnwse.org/Images/updated.gif">&nbsp;1/28/15: Note previously had 2014 location. Now updated to reflect 2015 location: <b>Dane Smith</b>
-
-<P>
-
+<p>
 <font size="+1"><b><font color="#cb6940">
-  2015 NMNWSE Central Chapter Expanding Your Horizons<sup>tm</sup>
-  <br>8:30am - 12 noon, Saturday, Feb 7, 2015
   <br>Dane Smith Hall, 601 Yale Blvd.
 <!--
   <br>Mitchell Hall, 401 Yale Blvd. <img src="http://nmnwse.org/Images/updated.gif"><font color="black">note building change </font>
@@ -38,11 +32,9 @@ include("Includes/pagetop2_ceyh_2011.php");
 -->
 </font>
 </b></font>
-
+</p>
 
 <P>
-Dane Smith Hall at green arrow (may be covered by "A" bubble):
-<br>
 <iframe width="540" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=35.0863,-106.6232&amp;sll=35.891922,-106.290041&amp;sspn=0.079963,0.097504&amp;ie=UTF8&amp;t=m&amp;z=17&amp;ll=35.0863,-106.6232&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=35.0863,-106.6232&amp;sll=35.891922,-106.290041&amp;sspn=0.079963,0.097504&amp;ie=UTF8&amp;t=m&amp;z=16&amp;ll=35.0863,-106.6232" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 
 <!--

@@ -20,7 +20,7 @@ include("Includes/pagetop2_ceyh_2011.php");
 <FONT SIZE="+1" COLOR="#4b9fc3"><b>Remember those who influenced you when you were growing up, deciding what to do with your life?  Well here's your chance to give some of that good advice back!!
 </b></FONT></P>
 
-<br><img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;<font size="+1"><b><font color="#cb6940">CEYH planning committee listserver:</font>
+<br><font size="+1"><b><font color="#cb6940">CEYH planning committee listserver:</font>
 <a href="mailto:CENTRAL_EYH-L@list.unm.edu">CENTRAL_EYH-L@list.unm.edu</a>.</b></font>
 <br>To subscribe to this listserver, follow the <a href="http://nmnwse.org/Listserver.php">instructions for the NMNWSE Listserver</a>, substituting "CENTRAL_EYH-L" for "NMNWSE-L" in the instructions.
 
@@ -30,14 +30,14 @@ CEYH registrar email: <a href="mailto:centraleyh@gmail.com">centraleyh@gmail.com
 <br>This is mainly intended for use by registrants, but feel free to use if you registration-related questions or don't want to email the entire planning committee. You can also reach the committee via the NMNWSE Webmaster Tinka Gammel, <a href="mailto:webmaster@nmnwse.org ?Subject=CEYH">webmaster@nmnwse.org</a>.
 -->
 
-<P>&nbsp;<br>
-<img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;<a href="dayofvolunteer"><font size="+1"><font color="#cb6940"><b>Sign Up Form for Day-Of Volunteers</b></font></font></a>
-<br><img src="http://nmnwse.org/Images/r_hand.gif">&nbsp;<a href="Forms/volunteer_form.php?printable=1"><font size="+1"><font color="#cb6940"><b>Online Form for other New and Returning Volunteers</b></font></font></a>
+<!--
+<P>
+<a href="Forms/volunteer_form.php?printable=1"><font size="+1"><font color="#cb6940"><b>Online Form for Volunteers</b></font></font></a>
 <br>Interested in helping with planning, presenting a workshop, or sponsoring the conference?
 <br>Please use <a href="Forms/volunteer_form.php?printable=1">this form</a> to let us know how you'd like to be involved!
+-->
 
-
-
+<!--
 <P><img src="http://nmnwse.org/Images/bl_pin.gif" > 
   <b>The 2016 Albuquerque EYH planning has begun!</b>.
 <br>The 2016 Albuquerque EYH will
@@ -96,7 +96,7 @@ Mar 5, 2014, EYH2014 debrief and initial EYH2015 planning
 <br><img src="http://nmnwse.org/Images/bl_dot.gif" height=10> <a href="Planning/CEYH_Planning_Minutes_20140305.pdf">planning meeting notes</a> 
 </LI>
 </UL>
-
+-->
 <!--
 &nbsp;&nbsp;<img src="http://nmnwse.org/Images/button.gif" height=14><B>Spring 2014 conference</B>
 <UL><LI style="padding-top:0px">
@@ -155,29 +155,14 @@ Thursday, October 18th, 5PM, at Kelly Collins' office building. <! More info's c
 <br> If you would be interested in helping please subscribe to the listserver, send us an email to let us know of your interest, and/or fill in the volunteer form below.
 -->
 
-<! hr>
-
 <!--
-<P><hr>
-<P><center>
-<font color="red"><b>-- BELOW HERE NOT YET UPDATED FOR THE 2013 CONFERENCE ---</b></font>
-<br> we are working on it....
-</center>
-<P><hr>
--->
-
 <P><img src="http://nmnwse.org/Images/bl_pin.gif">
 <b>CEYH and Statewide EYH conference flyers</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nmnwse.org/Images/button.gif" height=14>&nbsp;<a href="http://nmnwse.org/ceyh/Flyers/CEYH_reg_opens_20160104.pdf">2016 CEYH "Registration Opens Jan 4, 2016" flyer</a>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nmnwse.org/Images/button.gif" height=14>&nbsp;<a href="http://nmnwse.org/ceyh/Flyers/CEYH_SaveTheDate_2016.pdf">2016 CEYH "Save the Date" flyer</a>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nmnwse.org/Images/button.gif" height=14>&nbsp;<a href="http://nmnwse.org/ceyh/Flyers/CEYH_2015_FLYER.pdf">2015 CEYH flyer</a>
-<!--
-<br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nmnwse.org/Images/button.gif" height=14>&nbsp;<a href="http://nmnwse.org/ceyh/Flyers/CEYH_2014_FLYER.pdf">2014 CEYH flyer</a>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nmnwse.org/Images/button.gif" height=14>&nbsp;<a href="http://nmnwse.org/ceyh/Flyers/eyhflyer2013.pdf">2013 CEYH flyer</a>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nmnwse.org/Images/button.gif" height=14>&nbsp;<a href="http://nmnwse.org/eyh/Flyers/NMNWSE_EYH2013_flyer.pdf">Flyer for all 2013 NMNWSE EYH conferences</a>
--->
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nmnwse.org/Images/button.gif" height=14>&nbsp;<a href="http://nmnwse.org/eyh/EYHnCareersFlyer.jpg">Flyer for all NMNWSE activities</a>
-
+-->
 
 <!--
 <P><img src="http://nmnwse.org/Images/button.gif" height=14>
@@ -192,13 +177,7 @@ Thursday, October 18th, 5PM, at Kelly Collins' office building. <! More info's c
 <b>Additional resources:</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nmnwse.org/Images/button.gif" height=14>&nbsp;<a href="http://nmnwse.org/eyh">Statewide NMNWSE EYH webpage</a>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nmnwse.org/Images/button.gif" height=14>&nbsp;<a href="http://www.expandingyourhorizons.org/">National EYH website</a>
-<!--
-looks like modified so can't find this...
-<br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nmnwse.org/Images/button.gif" height=14>&nbsp;<a href="http://www.expandingyourhorizons.org/workshop/">National EYH Workshop Presenter's page</a>
--->
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nmnwse.org/Images/button.gif" height=14>&nbsp;<a href="http://nmnwse.org/ceyh/Forms/CEYHworkshopGuidelines.pdf">CEYH Workshop Presenter Guidelines</a>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nmnwse.org/Images/button.gif" height=14>&nbsp;<a href="http://nmnwse.org/ceyh/Forms/CEYH_2010_Presenter_call.pdf">2010 CEYH Workshop Presenter Call</a>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nmnwse.org/Images/button.gif" height=14>&nbsp;<a href="http://nmnwse.org/ceyh/Forms/CEYH_2010_Presenter_flyer.pdf">2010 CEYH Workshop Presenter Flyer</a>
 </P>
 
 <P><FONT SIZE="+1" COLOR="#4b9fc3">&nbsp;<br><b>And finally, a big THANKS! to all who are helping, and have helped in the past, to make the Albuquerque EYH good experiences which inspire the next generation on scientists and engineers!
