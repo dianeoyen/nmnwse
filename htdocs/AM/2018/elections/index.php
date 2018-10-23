@@ -43,24 +43,22 @@
 
         <p>
           <center>
-            <font size="+3" color="red"> <! #33CC00 ><B>
-                <!--
-                    <img src="http://nmnwse.org/Images/button.gif" height="12">
-                    
-                    ONLINE VOTING CLOSED
-                    -->
+                
+            <font color="red"> <! #33CC00 ><B>
+                <img src="http://nmnwse.org/Images/button.gif" height="12">
                 <!--
                     DRAFT - VOTING NOT YET OPEN
                   -->
-                
-                <img src="http://nmnwse.org/Images/button.gif" height="12">
-                <input type="submit" name="Submit1" value=" SUBMIT VOTE">
+                ONLINE VOTING CLOSED
+                <!--
+                    <input type="submit" name="Submit1" value=" SUBMIT VOTE">
+                    -->
                 <img src="http://nmnwse.org/Images/button.gif" height="12">
                 
             </B> </font>
-            <!--
-                <br> You can instead vote in person at the annual meeting.
-                -->
+            
+            <br> You can instead vote in person at the annual meeting.
+            
           </center>
         </p>
 
@@ -240,19 +238,20 @@
                 </td></tr>
               </table>
             </td>
-            <td align="center"> <font size="+2" color="red"><B>  <! green=#33CC00 >
-                  <img src="http://nmnwse.org/Images/button.gif" height="12">
-                  
-                  <input type="submit" name="Submit1" value="SUBMIT VOTE">
+            <td align="center"> <font color="red"><B>  <! green=#33CC00 >
                   
                   <img src="http://nmnwse.org/Images/button.gif" height="12">
+                  <!--    
+                          <input type="submit" name="Submit1" value="SUBMIT VOTE">
+                          
+                          <img src="http://nmnwse.org/Images/button.gif" height="12">
+                          -->
                   
-                  <!--
-                      VOTING CLOSED 
-                      <img src="http://nmnwse.org/Images/button.gif" height="12">
-                      <br> submit button removed
-                      <br>You may vote in person at the Annual Meeting
-                      -->
+                  ONLINE VOTING CLOSED 
+                  <img src="http://nmnwse.org/Images/button.gif" height="12">
+                  <br> submit button removed
+                  <br>You may vote in person at the Annual Meeting
+                  
                   <!--
                       DRAFT - VOTING NOT YET OPEN
                     -->

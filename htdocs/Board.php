@@ -24,7 +24,7 @@
       <h2>Board-related information</h2>
       <ul>
 	<li>
-	  The FY17-18 Board serves 10-1-2017 thru 9-30-2018
+	  The FY18-19 Board serves 10-1-2018 thru 9-30-2019
 	</li>
 	<li>
 	  <a href="mailto:NMNWSE_Board-L@List.unm.edu">Email the board.</a>
@@ -60,7 +60,7 @@
 	  <td> President </td>
 	  <td> Rebecca Galves</td>
 	  <td> Las Cruces</td>
-	  <td> 2015, 2016, 2017</td>
+	  <td> 2015, 2016, 2017, 2018</td>
 	</tr>
 	<tr>
 	  <td>Past President</td>
@@ -71,13 +71,15 @@
 	</tr>
 	<tr>
 	  <td>VP/Pres. Elect </td>
-	  <td> -- open -- </td>
+	  <td> Nanette Founds </td>
+	  <td> Nanette Founds </td>
+	  <td> 2018 </td>
 	</tr>
 	<tr>
 	  <td> Treasurer </td>
 	  <td> Jeanne Banks</td>
 	  <td> Placitas</td>
-	  <td> 2014, 2016</td>
+	  <td> 2014, 2016, 2018</td>
 	</tr>
 	<tr>
 	  <td> Secretary </td>
@@ -87,29 +89,6 @@
 	</tr>
       </table>
 
-      <h2>Chapter Representatives</h2>
-      <table class="headingcolumn">
-	<tr>
-	  <th>Local Chapter</th>
-	  <th> Representative </th>
-	  <th> City of residence </th>
-	</tr>
-	<tr>
-	  <td> Central </td>
-	  <td> Jeanne Banks  </td>
-	  <td> Placitas </td>
-	</tr>
-	<tr>
-	  <td> Northern </td>
-	  <td> Jan Frigo</td>
-	  <td> Los Alamos </td>
-	</tr>
-	<tr>
-	  <td> Southern </td>
-	  <td> Rebecca Galves </td>
-	  <td> Las Cruces </td>
-	</tr>
-      </table>
 
       <h2> Members at Large </h2>
       
@@ -141,7 +120,7 @@
         </tr>
       </table>
 
-      <h3>Oct 2016 - Oct 2018 </h3>
+      <h3>Oct 2018 - Oct 2020 </h3>
       <table>
 	<tr>
 	  <th> Board Member </th>
@@ -152,8 +131,8 @@
 	  <td> 2000 </td> <! on board since ~2000 >
 	</tr>
 	<tr>
-	  <td> Sarah Balizan </td>
-	  <td> 2016 </td>
+	  <td> Yolanda Jones King </td>
+	  <td> 2018 </td>
 	</tr>
       </table>
 
@@ -279,7 +258,7 @@
 	  <td> Albuquerque</td>
 	</tr>
 	<tr>
-	  <td> EYH - state </td>
+	  <td> STEM Conferences for Girls - statewide </td>
 	  <td> Rebecca Galves </td>
 	  <td> Las Cruces </td>
 	</tr>

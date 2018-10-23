@@ -61,9 +61,22 @@
         </ul>
       </p>
           
+      <h3>Keynote Speaker: Julia Fulghum, UNM</h3>
+      <ul>
+        <li>
+          "Advancing Women in STEM through Institutional Transformation"
+        </li>
+        <li>
+          <a href="http://nmnwse.org/AM/keynote.php">Abstract and bio</a>
+        </li>
+      </ul>
+      
       
       <h3>Annual NMNWSE IMPACT! Award to be presented</h3>
       <ul>
+        <li>
+          Casey DeRaad is the 2018 IMAPCT! Award winner
+        </li>
         <li>
           <a href="http://nmnwse.org/ImpactAward"><b>IMPACT! Award</b> information</a> <!-- and nomination forms -->
         </li>
@@ -96,33 +109,40 @@
 
       <h3> Schedule </h3>
       <ul>
+        <!--
 	<li>Friday
           <ul>
             <li>
               5-6:30pm; Registration and Reception at Embassy Suites
             </li>
           </ul>
+          -->
 	<li>Saturday
 	  <ul>
 	    <li>
-              9-11:30am; Business meeting for all members, including election of the new board
+              11am-12pm; Check-in/Registration
             </li>
             <li>
               12-1:30pm; IMPACT! Luncheon <br>
-              Speaker: Julia Fulghum, ADVANCE at UNM
+              Speaker: Dr. Julia Fulghum, UNM <br>
+              "Advancing Women in STEM through Institutional Transformation" <br>
+              <a href="http://nmnwse.org/AM/keynote.php">Abstract and bio</a>
             </li>
 	    <li>
-              2-4:30pm; Field Trip
+              2-4:30pm; Annual Meeting
             </li>
 	    <li>
-              5-7pm; Poster session and no-host reception
+              5-6:30pm; Wine/cheese reception
+            </li>
+            <li>
+              There will be some plan for going to dinner for those who are interested
             </li>
 	  </ul>
 	<li>
           Sunday
           <ul>
             <li>
-              8-11am; Board Meeting
+              9-11am; Board Meeting
             </li>
           </ul>
         </li>
@@ -140,13 +160,13 @@
         </li>
         -->
         <li>
-          Full Registration: $85
+          Full Registration: $80 (or pay online $82.95)
         </li>
         <li>
-          IMPACT! Luncheon Only: $30
+          IMPACT! Luncheon Only: $30 (or pay online $31.10)
         </li>
         <li>
-          Poster Session Only: $10
+          Reception Only: $15 (or pay online $15.55)
         </li>
       </ul>
 
