@@ -30,52 +30,22 @@
 
       <h2> Board Meeting Schedule </h2>
      
-      <h3> January 26, 2019 </h3>
+      <h3> January 19, 2019 </h3>
       <p>
         <ul>
           <li>
-            TBA
+            10:00 am, Albuquerque
+          </li>
+          <li>
+            Flying Star Cafe, 3416 Central SE
           </li>
         </ul>
       </p>
 
-      <!--
-      <h3> February 10, 2018 </h3>
-      <p>
-        10:00 am - 12 noon
-        <br>Johnny B's Restaurant
-        <br>2260 North Date St.
-        <br>Truth or Consequences, NM 87901
-        <br><a href="http://www.johnnybsrestaurant.net">Restaurant website</a>
-        <br><a href="http://nmnwse.org/BoardMeetings/Board_Meeting_Agenda_20180210.pdf">Agenda</a>
-      </p>
-      <p>
-        Join meeting by video conference:
-        <ul>
-          <li>
-            <a href="http://join.freeconferencecall.com/rgalves">Click to join.</a>
-          </li>
-          <li>
-            Or, if you have the app from <a href="http://freeconferencecall.com">freeconferencecall.com</a>, enter online meeting ID on desktop app: rgalves
-          </li>
-        </ul>
-      </p>
-      <p>
-        Join meeting with phone/audio:
-        <ul>
-          <li>
-            Dial-in number: (712) 775-7031
-          </li>
-          <li>
-            Access code: 265370
-          </li>
-        </ul>
-      </p>
-      -->
-	  
 
       <h3> April 6, 2019 </h3>
       <p>
+        1:30pm, NM Tech <br>
         Board meeting at State Science Fair <br>
         New Mexico Tech, Socorro, NM
       </p>
@@ -84,13 +54,13 @@
 	  Volunteers to help judge the NMNWSE special awards are welcome! Please <a href="mailto:NMNWSE_Board-L@list.unm.edu?NMNWSE Awards at State Science Fair">contact the Board</a> if you wish to help judge.
         </li>
         <li>
-	  7:45 am: NMNWSE Award Judging, Fidel Student Center, NMT, Socorro, NM
+	  7:30 am: NMNWSE Award Judging, Fidel Student Center, NMT, Socorro, NM
         </li>
         <li>
 	  12:30 pm: Award Winner Selection, Jones Annex, Room 101, NMT, Socorro, NM
         </li>
         <li>
-	  1:00 pm: Board Meeting,  Jones Annex, Room 101, NMT, Socorro, NM
+	  1:30 pm: Board Meeting,  Jones Annex, Room 101, NMT, Socorro, NM
         </li>
         <li>
 	  <a href="http://infohost.nmt.edu/~science/fair/">New Mexico Science &amp; Engineering Fair</a>
@@ -101,23 +71,19 @@
       </ul>
       
 
-      <!--
-       <h3> June 3, 2017 </h3>
+      <h3> June 29, 2019 </h3>
       <p>
-	Cancelled
-      </p>
-      -->
-
-      <h3> August 10, 2019 </h3>
-      <p>
-        TBA
+        10:00am, Santa Fe Public Library - La Farge <br>
+        1739 Llano Street, Santa Fe, NM 87505
       </p>
 
 
-      <h3> October, 2019 </h3>
+      <h3> September 20-22, 2019 </h3>
       <p>
 	2019 NMNWSE Technical Symposium and Annual Meeting
-	<br> Albuquerque, NM
+      </p>
+      <p>
+        Please note the NEW month for the Network Symposium and Annual Meeting. Based on feedback and discussion during the Annual Meeting in October 2018, all members present agreed to explore this new date in order to remove the many, many conflicts that exist every year during October weekends.
       </p>
       <ul>
 	<li>

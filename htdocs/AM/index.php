@@ -32,10 +32,13 @@
       <img class="news" src="https://embassysuites3.hilton.com/resources/media/es/ABQEMES/en_US/img/shared/full_page_image_gallery/main/ES_welcomecrop_1280x430_FitToBoxSmallDimension_Center.jpg" alt="View of Embassy Suites">
       -->
       <p>
-        October, 2019
+        September 20-22, 2019
       </p>
       <p>
         <ul>
+          <li>
+            Please note the NEW month for the Network Symposium and Annual Meeting. Based on feedback and discussion during the Annual Meeting in October 2018, all members present agreed to explore this new date in order to remove the many, many conflicts that exist every year during October weekends.
+          </li>
           <li>
             Last year's <a href="http://nmnwse.org/AM/2018/Broch_AM18.pdf">Annual Meeting brochure (PDF)</a>
           </li>
