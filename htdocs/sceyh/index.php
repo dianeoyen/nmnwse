@@ -43,10 +43,7 @@
                class="logo">
           
           <h2>
-            <!--
-            Saturday, February 24, 2018
-              -->
-            2018 event canceled due to WNMU construction
+            Saturday, February 23, 2019
             <br> Western New Mexico University
             <br> grades 5-8
           </h2>

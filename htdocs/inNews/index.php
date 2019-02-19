@@ -40,6 +40,10 @@
 
       <h3> 2018 News </h3>
       <ul>
+
+        <li>
+          <a href="20181124_news.html"> Casey DeRaad Honored with IMPACT! Award</a>
+        </li>
         <li>
           <a href="20180520_news.html"> NMNWSE Awards at Supercomputing Challenge 2018</a>
         </li>

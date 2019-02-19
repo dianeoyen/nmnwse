@@ -27,7 +27,15 @@
       </p>
 
       <div class="bio">
-	<h2>2017: Bonnie Frey, Socorro</h2>
+        <h2> 2018: Casey DeRaad, Albuquerque</h2>
+        <p>
+          The New Mexico Network for Women in Science and Engineering is honored to announce Casey DeRaad as the 12th Annual NMNWSE 2018 IMPACT! Award Winner. Ms. DeRaad is an electrical engineer and serves as lead for education and community outreach activities with the Air Force Research Laboratory (AFRL) in Albuquerque. 
+        </p>
+        <p>
+          Having successfully expanded services through the Phillips Scholars program, for STEM-focused intern students with AFRL, and Starbase La Luz Academy, providing educational support and outreach for students across NM, Casey applies her engineering training and tireless enthusiasm to expand programs, policies and practices, and increase networks to broaden the participation of all students, targeting under-represented groups, in STEM.
+        </p>
+        
+        <h2>2017: Bonnie Frey, Socorro</h2>
 	<img src="http://nmnwse.org/ImpactAward/winners/bonnie.jpg">
 	<P>
 	  New Mexico is blessed to have Bonnie Frey as an active Science, Technology,

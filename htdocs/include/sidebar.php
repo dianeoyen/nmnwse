@@ -15,61 +15,24 @@
 	  <a href="http://nmnwse.org/Membership.php">Membership</a>
 	</li>
 	<li>
-	  <a href="http://nmnwse.org/Chapters.php">Chapters</a>
-	</li>
-	<li>
 	  <a href="http://nmnwse.org/History.php">History</a>
 	</li>
       </ul>
     </li>
     <li>
       <a href="http://nmnwse.org/inNews/index.php">In the News</a>
-      <ul>
-	<li>
-	  <a href="http://nmnwse.org/News.php">Newsletters</a>
-	</li>
-      </ul>
     </li>
     <li>
       <a href="http://nmnwse.org/AM">Annual Symposia</a>
-      <!--
-	  <br>&nbsp; &nbsp; <a href="http://nmnwse.org/AM/2015">AM 2015</a>
-	  <br>&nbsp; &nbsp;&nbsp;&nbsp;- <a href="http://nmnwse.org/AM/2014/elections">online voting</a>
-	  -->
-      <ul>
-	<li>
-	  <a href="http://nmnwse.org/AM/survey">Interest Survey</a>
-	</li>
-	<li>
-	  <a href="http://nmnwse.org/PastMeetings.php">Past Meetings</a>
-	</li>
-      </ul>
     </li>
     <li>
       <a href="http://nmnwse.org/ImpactAward"><B>IMPACT!</b> Award</a>
-      <ul>
-	<li>
-	  <a href="http://nmnwse.org/ImpactAward/winners">Past Winners</a>
-	</li>
-      </ul>
     </li>
     <li>
       <a href="http://nmnwse.org/Board.php">Board</a>
       <ul>
 	<li>
 	  <a href="http://nmnwse.org/BoardMeetings">Meetings</a>
-	</li>
-	<li>
-	  <a href="http://nmnwse.org/Minutes">Minutes</a>
-	</li>
-	<li>
-	  <a href="http://nmnwse.org/bl.html">Bylaws</a>
-	</li>
-	<li>
-	  <a href="http://nmnwse.org/darksky">Dark Sky Res.</a>
-	</li>
-	<li>
-	  <a href="http://nmnwse.org/pnp.html">Pol. &amp; Proc.</a>
 	</li>
       </ul>
     </li>

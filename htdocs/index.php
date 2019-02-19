@@ -39,11 +39,11 @@
 	   </p>
       -->
 
-      <! Voting Invitation >
+      <! IMPACT Award >
       <?php
-        include("inNews/20181009_news.html");
+        include("inNews/20181124_news.html");
         ?>
-
+      
       <! Annual Meeting Invitation >
       <?php
         include("inNews/20180920_news.html");
@@ -62,26 +62,6 @@
       <! Science fair >
       <?php 
 	 include("inNews/20180411_news.html"); 
-	 ?>
-
-      <! Impact Award >
-      <?php
-        include("inNews/20171101_news.html");
-        ?>
-
-      <! 2017 Fall Newsletter >
-      <?php
-        include("inNews/20171005_news.html");
-        ?>
-
-      <! 2017 IMPACT! Award >
-      <?php
-	 include("inNews/20170823_news.html");
-	 ?>
-
-      <! 2017 IMPACT! Award >
-      <?php
-	 include("inNews/20170603_news.html");
 	 ?>
 
       <! AAUW-NM Mission in Action award >

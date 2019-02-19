@@ -30,16 +30,14 @@
 
       <h2> Board Meeting Schedule </h2>
      
-      <!--
-      <h3> December 3, 2017 </h3>
+      <h3> January 26, 2019 </h3>
       <p>
         <ul>
           <li>
-	    10:00am
+            TBA
           </li>
         </ul>
       </p>
-      -->
 
       <!--
       <h3> February 10, 2018 </h3>
@@ -76,7 +74,7 @@
       -->
 	  
 
-      <h3> April 7, 2018 </h3>
+      <h3> April 6, 2019 </h3>
       <p>
         Board meeting at State Science Fair <br>
         New Mexico Tech, Socorro, NM
@@ -110,15 +108,15 @@
       </p>
       -->
 
-      <h3> August 11, 2018 </h3>
+      <h3> August 10, 2019 </h3>
       <p>
-        Santa Fe, NM
+        TBA
       </p>
 
 
-      <h3> October 19-21, 2018 </h3>
+      <h3> October, 2019 </h3>
       <p>
-	2018 NMNWSE Technical Symposium and Annual Meeting
+	2019 NMNWSE Technical Symposium and Annual Meeting
 	<br> Albuquerque, NM
       </p>
       <ul>
@@ -126,7 +124,7 @@
 	  See the <a href="http://nmnwse.org/AM">AM webpage</a> for further details.
 	</li>
 	<li>
-	  The first Meeting of the FY 18-19 Board is Sunday morning of the annual meeting - the gavel will be passed to the FY 18-19 president after elections at the Business Meeting of the full membership on Saturday.
+	  The first Meeting of the FY 19-20 Board is Sunday morning of the annual meeting - the gavel will be passed to the FY 19-20 president after elections at the Business Meeting of the full membership on Saturday.
 	</li>
       </ul>
 
