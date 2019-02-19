@@ -39,6 +39,16 @@
 	   </p>
       -->
 
+      <! Science Fair judge invitation >
+      <?php
+        include("inNews/20190219_news.html");
+        ?>
+
+      <! Note from NMNWSE President >
+      <?php
+        include("inNews/20190106_news.html");
+        ?>
+      
       <! IMPACT Award >
       <?php
         include("inNews/20181124_news.html");
@@ -54,11 +64,6 @@
         include("inNews/20180520_news.html");
         ?>
       
-      <! 2018 Spring Newsletter >
-      <?php
-        include("inNews/20180430_news.html");
-        ?>
-
       <! Science fair >
       <?php 
 	 include("inNews/20180411_news.html"); 
