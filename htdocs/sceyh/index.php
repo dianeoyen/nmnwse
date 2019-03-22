@@ -43,9 +43,10 @@
                class="logo">
           
           <h2>
-            Saturday, February 23, 2019
+            Saturday, March 30, 2019
             <br> Western New Mexico University
             <br> grades 5-8
+            <!--<br> (reschedule from February due to snow)-->
           </h2>
 
           <h3>Download Brochure</h3>
