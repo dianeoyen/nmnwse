@@ -39,10 +39,11 @@
 	   </p>
       -->
 
-      <! Science Fair judge invitation >
-      <?php
-        include("inNews/20190219_news.html");
-        ?>
+
+      <! Science fair >
+      <?php 
+	 include("inNews/20190407_news.html"); 
+	 ?>
 
       <! Note from NMNWSE President >
       <?php
@@ -64,11 +65,6 @@
         include("inNews/20180520_news.html");
         ?>
       
-      <! Science fair >
-      <?php 
-	 include("inNews/20180411_news.html"); 
-	 ?>
-
       <! AAUW-NM Mission in Action award >
       <?php
         include("inNews/20170503_news.html");

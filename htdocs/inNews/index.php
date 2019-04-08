@@ -41,6 +41,9 @@
       <h3> 2019 News </h3>
       <ul>
         <li>
+          <a href="20190407_news.html"> NMNWSE Awards at the 2019 NM Science and Engineering Fair</a>
+        </li>
+        <li>
           <a href="20190219_news.html"> Volunteer to Help Judge the NMNWSE Special Awards</a>
         </li>
         <li>
