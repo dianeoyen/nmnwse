@@ -29,20 +29,8 @@
       </p>
 
       <h2> Board Meeting Schedule </h2>
-     
-      <h3> January 19, 2019 </h3>
-      <p>
-        <ul>
-          <li>
-            10:00 am, Albuquerque
-          </li>
-          <li>
-            Flying Star Cafe, 3416 Central SE
-          </li>
-        </ul>
-      </p>
 
-
+      <!--
       <h3> April 6, 2019 </h3>
       <p>
         1:30pm, NM Tech <br>
@@ -69,12 +57,13 @@
 	  <a href="http://www.nmt.edu/campusmap.php">NM Tech map page</a>
         </li>
       </ul>
-      
+      -->
 
-      <h3> June 29, 2019 </h3>
+      <h3> July 20, 2019 </h3>
       <p>
-        10:00am, Santa Fe Public Library - La Farge <br>
-        1739 Llano Street, Santa Fe, NM 87505
+        10:00am - 12:30pm <br>
+        Starbucks at the Indian Pueblo <br>
+        2400 12th Street, Albuquerque, NM 87104
       </p>
 
 
