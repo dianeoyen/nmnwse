@@ -39,11 +39,22 @@
 	   </p>
       -->
 
-      <! Voting Invitation >
-      <?php
-        include("inNews/20181009_news.html");
-        ?>
 
+      <! Science fair >
+      <?php 
+	 include("inNews/20190407_news.html"); 
+	 ?>
+
+      <! Note from NMNWSE President >
+      <?php
+        include("inNews/20190106_news.html");
+        ?>
+      
+      <! IMPACT Award >
+      <?php
+        include("inNews/20181124_news.html");
+        ?>
+      
       <! Annual Meeting Invitation >
       <?php
         include("inNews/20180920_news.html");
@@ -54,36 +65,6 @@
         include("inNews/20180520_news.html");
         ?>
       
-      <! 2018 Spring Newsletter >
-      <?php
-        include("inNews/20180430_news.html");
-        ?>
-
-      <! Science fair >
-      <?php 
-	 include("inNews/20180411_news.html"); 
-	 ?>
-
-      <! Impact Award >
-      <?php
-        include("inNews/20171101_news.html");
-        ?>
-
-      <! 2017 Fall Newsletter >
-      <?php
-        include("inNews/20171005_news.html");
-        ?>
-
-      <! 2017 IMPACT! Award >
-      <?php
-	 include("inNews/20170823_news.html");
-	 ?>
-
-      <! 2017 IMPACT! Award >
-      <?php
-	 include("inNews/20170603_news.html");
-	 ?>
-
       <! AAUW-NM Mission in Action award >
       <?php
         include("inNews/20170503_news.html");

@@ -3,8 +3,8 @@
 
   <head>
     <meta charset="utf-8">
-    <title>2019 NMNWSE Annual Meeting and Technical Symposium (AM 2019)</title>
-    <link rel="stylesheet" href="../css/nmnwse.css">
+    <title>2018 NMNWSE Annual Meeting and Technical Symposium (AM 2018)</title>
+    <link rel="stylesheet" href="../../css/nmnwse.css">
   </head>
 
 
@@ -12,74 +12,89 @@
 
     <header>
       <?php
-	 $banner_title = "2019 Annual Meeting &amp Technical Symposium";
-	 include("../include/pagetop_nmnwse.php");
+	 $banner_title = "2018 Annual Meeting &amp Technical Symposium";
+	 include("../../include/pagetop_nmnwse.php");
 	 ?>
     </header>
 
     <main>
 
       <?php
-	 include("../include/sidebar.php");
+	 include("../../include/sidebar.php");
 	 ?>
       <p>
         Our Annual Meeting and Technical Symposium, held each fall, provides an opportunity to present technical papers in a supportive environment. It also provides professional development and networking opportunities.
       </p>
       
-      <h2>Join us at NMNWSE's Annual Meeting (AM 2019)</h2>
+      <h2>Join us at NMNWSE's Annual Meeting (AM 2018)</h2>
 
       <!--
       <img class="news" src="https://embassysuites3.hilton.com/resources/media/es/ABQEMES/en_US/img/shared/full_page_image_gallery/main/ES_welcomecrop_1280x430_FitToBoxSmallDimension_Center.jpg" alt="View of Embassy Suites">
       -->
       <p>
-        September 20-22, 2019
+        October 19 - 21, 2018
+        <br>
+        <a href="https://embassysuites.hilton.com/en/es/groups/personalized/A/ABQEMES-NFW-20181019/index.jhtml?WT.mc_id=POG">Embassy Suites Hotel</a>
+        <br>
+        1000 Woodward Place NE
+        <br>
+        Albuquerque, NM 87102
+        <br>
+        505-245-7100
       </p>
       <p>
         <ul>
           <li>
-            Please note the NEW month for the Network Symposium and Annual Meeting. Based on feedback and discussion during the Annual Meeting in October 2018, all members present agreed to explore this new date in order to remove the many, many conflicts that exist every year during October weekends.
-          </li>
-          <li>
-            Last year's <a href="http://nmnwse.org/AM/2018/Broch_AM18.pdf">Annual Meeting brochure (PDF)</a>
+            <a href="http://nmnwse.org/AM/2018/Broch_AM18.pdf">Annual Meeting brochure (PDF)</a>
           </li>
           <!--
           <li>
             <a href="http://nmnwse.org/AM/register">Registration form</a>
           </li>
           -->
-          <!--
           <li>
             Pay for registration via <a href="https://www.paypal.me/nmnwse/">PayPal</a>
           </li>
           <li>
             Or by mailing a check to Jeanne Banks. See brochure for details.
           </li>
-          -->
         </ul>
       </p>
           
+      <h3>Keynote Speaker: Julia Fulghum, UNM</h3>
+      <ul>
+        <li>
+          "Advancing Women in STEM through Institutional Transformation"
+        </li>
+        <li>
+          <a href="http://nmnwse.org/AM/2018/keynote.php">Abstract and bio</a>
+        </li>
+      </ul>
+      
       
       <h3>Annual NMNWSE IMPACT! Award to be presented</h3>
       <ul>
-        <!--
         <li>
           Casey DeRaad is the 2018 IMAPCT! Award winner
         </li>
-        -->
         <li>
           <a href="http://nmnwse.org/ImpactAward"><b>IMPACT! Award</b> information</a> <!-- and nomination forms -->
         </li>
       </ul>
 
       
-      <h3>2019-20 NMNWSE Board to be elected</h3>
+      <h3>2018-19 NMNWSE Board to be elected</h3>
       <ul>
         <li>
+          <a href="http://nmnwse.org/AM/2018/elections">Online voting</a> through Oct 19, 2018 or in person at the Annual Meeting.
           <!--
-              <a href="http://nmnwse.org/AM/2018/elections">Online voting</a> through Oct 19, 2018 or in person at the Annual Meeting.
+              Online early voting, or in person at the Annual Meeting.
               -->
-          Online early voting, or in person at the Annual Meeting.
         </li>
+
+      <!--
+	  <img src="http://nmnwse.org/Images/r_hand.gif"><img src="http://nmnwse.org/Images/spacer.gif" width="1" height="18">&nbsp;<a href="http://nmnwse.org/AM/2016/elections/">Online Voting</a> is now closed - see elections page for call-in instructions. <! open now through 20:00 MST Thursday Oct 22.&nbsp; ><! img src="http://nmnwse.org/Images/updated.gif">
+	  -->
         <li>
           Please contact the <a href="mailto:NMNWSE_Board-l@list.unm.edu ?Subject=2014 NMNWSE Board Elections">NMNWSE Board</a> if you would be interested in helping with Board activities.
         </li>
@@ -92,34 +107,42 @@
       Please contact the <a href="mailto:NMNWSE_Board-l@list.unm.edu ?Subject=2018 NMNWSE Ann Mtg">NMNWSE Board</a> if you have any questions about the meeting.
       
 
-      <h3> Typical Schedule </h3>
+      <h3> Schedule </h3>
       <ul>
+        <!--
 	<li>Friday
           <ul>
             <li>
-              Evening; Registration and Reception
+              5-6:30pm; Registration and Reception at Embassy Suites
             </li>
           </ul>
+          -->
 	<li>Saturday
 	  <ul>
 	    <li>
-              Morning; Annual Member Meeting
+              11am-12pm; Check-in/Registration
             </li>
             <li>
-              IMPACT! Luncheon <br>
+              12-1:30pm; IMPACT! Luncheon <br>
+              Speaker: Dr. Julia Fulghum, UNM <br>
+              "Advancing Women in STEM through Institutional Transformation" <br>
+              <a href="http://nmnwse.org/AM/2018/keynote.php">Abstract and bio</a>
             </li>
 	    <li>
-              Afternoon; Technical presentations and/or local tour
+              2-4:30pm; Annual Meeting
             </li>
 	    <li>
-              Evening; Wine/cheese reception and dinner
+              5-6:30pm; Wine/cheese reception
+            </li>
+            <li>
+              There will be some plan for going to dinner for those who are interested
             </li>
 	  </ul>
 	<li>
           Sunday
           <ul>
             <li>
-              Morning; Board Meeting
+              9-11am; Board Meeting
             </li>
           </ul>
         </li>
@@ -129,16 +152,13 @@
       The typical schedule begins with a Friday evening reception. On Saturday morning, the annual business meeting of the Network, including election of the new Board, takes place - all members are encouraged to attend. Saturday afternoon typically features member technicals and/or a local tour and a keynote speaker. The evening includes a poster session and reception - an excellent opportunity to network and for students to present their work in a supportive environment! Members are invited to stay through Sunday for the first meeting of the new Board.
         -->
       
-      <!--
       <h3>Registration</h3>
       <ul>
-        -->
         <!--
         <li>
           <a href="http://nmnwse.org/AM/register">Online registration form</a>
         </li>
         -->
-        <!--
         <li>
           Full Registration: $80 (or pay online $82.95)
         </li>
@@ -149,18 +169,19 @@
           Reception Only: $15 (or pay online $15.55)
         </li>
       </ul>
--->
 
-        <!--
-        <h3>Hotel</h3>
+
+      <h3>Hotel</h3>
+      <!--
+      <img class="news" src="http://nmnwse.org/AM/2017/murray.jpg" alt="Murray Hotel in Silver City, NM">
+      -->
       <p>
         <a href="https://embassysuites.hilton.com/en/es/groups/personalized/A/ABQEMES-NFW-20181019/index.jhtml?WT.mc_id=POG">Reserve your room</a> at Embassy Suites using the group link, or use group code NFW.
       </p>
       <p>
         Reserve by September 28 to get the group rate.
       </p>
-      -->
-        
+      
       <!--
       <h3>Interested?</h3>
       <p>
@@ -187,7 +208,7 @@
     <footer>
 
       <?php
-	 include("../include/pagefoot_nmnwse.php");
+	 include("../../include/pagefoot_nmnwse.php");
 	 ?>
     </footer>
   </body>

@@ -28,7 +28,7 @@
       </p>
 
       <!-- <h2>Award Information</h2> -->
-      <h2> 2017 IMPACT! Award Nominations closed Sept 20 </h2>
+      <h2> IMPACT! Award Nominations </h2>
       <ul>
         <!--
 	<li>
@@ -56,7 +56,7 @@
 
       <! Previous Impact Award winner>
       <?php
-        include("http://nmnwse.org/inNews/20171101_news.html");
+        include("http://nmnwse.org/inNews/20181124_news.html");
         ?>
 
       <!--
@@ -76,7 +76,7 @@
       </P>
       -->
 
-      <h2>Congratulations to Bonnie Frey and all past winners of the IMPACT Award!</h2>
+      <h2>Congratulations to Casey DeRaad and all past winners of the IMPACT Award!</h2>
 
       <a href="http://nmnwse.org/ImpactAward/winners/index.php">Past Winners</a>, with links to the news releases summarizing their contributions.
       

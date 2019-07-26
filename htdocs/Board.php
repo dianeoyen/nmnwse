@@ -33,16 +33,7 @@
 	  <a href="http://nmnwse.org/BoardMeetings">Board Meetings</a>
 	</li>
 	<li>
-	  <a href="http://nmnwse.org/bl.html">Bylaws</a>
-	</li>
-	<li>
-	  <a href="http://nmnwse.org/darksky">Dark Sky Resolution</a>
-	</li>
-	<li>
-	  <a href="http://nmnwse.org/pnp.html">Policies and Procedures</a> (includes duties and responsibilities for board positions)
-	</li>
-	<li>
-	  <a href="http://nmnwse.org/NMNWSE_ArtInc_orig_retyped.doc">Articles of Incorporation</a> (as amended 17 Oct 2009; please contact the board if you need a copy showing receipt by the PRC)
+	  <a href="http://nmnwse.org/docs">Documents</a> (Bylaws; Policies and Procedures; Articles of Incorporation; Dark Sky Resolution; etc)
 	</li>
       </ul>
 

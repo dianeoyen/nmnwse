@@ -43,19 +43,28 @@
                class="logo">
           
           <h2>
-            <!--
-            Saturday, February 24, 2018
-              -->
-            2018 event canceled due to WNMU construction
+            Saturday, March 30, 2019
             <br> Western New Mexico University
             <br> grades 5-8
+            <!--<br> (reschedule from February due to snow)-->
           </h2>
+
+          <h3>Download Brochure</h3>
+          <ul>
+            <li>
+              <a href="http://nmnwse.org/sceyh/2019/SCEYH_2019_Brochure.pdf"> 2019 Silver City EYH brochure</a>
+              and
+              <a href="http://nmnwse.org/sceyh/2019/SCEYH_2019_Brochure_Spanish.pdf"> en español</a>
+            </li>
+          </ul>
+          
+              
           
           <h3>Contacts</h3>
           <ul>
             <li> Mikki Jemin,
               <a href="mailto:mary.jemin@gmail.com">mary.jemin@gmail.com</a>,
-              575-654-5816</li>
+              575-590-1041</li>
             <li> Adrienne Dare,
             <a href="mailto:dareadrienne@gmail.com">dareadrienne@gmail.com</a>,
             575-388-2013</li>

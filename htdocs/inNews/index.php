@@ -38,8 +38,25 @@
 
       <h2> News Archive </h2>
 
+      <h3> 2019 News </h3>
+      <ul>
+        <li>
+          <a href="20190407_news.html"> NMNWSE Awards at the 2019 NM Science and Engineering Fair</a>
+        </li>
+        <li>
+          <a href="20190219_news.html"> Volunteer to Help Judge the NMNWSE Special Awards</a>
+        </li>
+        <li>
+          <a href="20190106_news.html"> Thank you, NMNWSE members, for another amazing year!</a>
+        </li>
+      </ul>
+
       <h3> 2018 News </h3>
       <ul>
+
+        <li>
+          <a href="20181124_news.html"> Casey DeRaad Honored with IMPACT! Award</a>
+        </li>
         <li>
           <a href="20180520_news.html"> NMNWSE Awards at Supercomputing Challenge 2018</a>
         </li>
