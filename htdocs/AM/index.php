@@ -32,15 +32,22 @@
       <img class="news" src="https://embassysuites3.hilton.com/resources/media/es/ABQEMES/en_US/img/shared/full_page_image_gallery/main/ES_welcomecrop_1280x430_FitToBoxSmallDimension_Center.jpg" alt="View of Embassy Suites">
       -->
       <p>
-        September 20-22, 2019
+        September 27-29, 2019
       </p>
       <p>
         <ul>
+	  <li>
+	    Albuquerque Marriott
+	    <br>
+	    2101 Louisiana NE, Albuquerque, NM 87110
+	    <br>
+	    505-881-6800
+	  </li>
           <li>
             Please note the NEW month for the Network Symposium and Annual Meeting. Based on feedback and discussion during the Annual Meeting in October 2018, all members present agreed to explore this new date in order to remove the many, many conflicts that exist every year during October weekends.
           </li>
           <li>
-            Last year's <a href="http://nmnwse.org/AM/2018/Broch_AM18.pdf">Annual Meeting brochure (PDF)</a>
+            <a href="http://nmnwse.org/AM/2019/NMNWSE_AM2019.docx">Annual Meeting announcement </a>
           </li>
           <!--
           <li>
@@ -97,29 +104,29 @@
 	<li>Friday
           <ul>
             <li>
-              Evening; Registration and Reception
+              4:30p - 6:30p; Registration and Reception
             </li>
           </ul>
 	<li>Saturday
 	  <ul>
 	    <li>
-              Morning; Annual Member Meeting
+              9:00a - 11:30a; Annual Meeting (all members)
             </li>
             <li>
-              IMPACT! Luncheon <br>
+              12:00p - 1:30p; IMPACT! Luncheon <br>
             </li>
 	    <li>
-              Afternoon; Technical presentations and/or local tour
+              2:00p - 4:30p; Field Trip to Albuquerque Zoo
             </li>
 	    <li>
-              Evening; Wine/cheese reception and dinner
+              5:00p - 7:00p; Poster Session / Wine and cheese reception (no host bar)
             </li>
 	  </ul>
 	<li>
           Sunday
           <ul>
             <li>
-              Morning; Board Meeting
+              8:00a - 11:00a; Board Meeting
             </li>
           </ul>
         </li>
